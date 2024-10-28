@@ -1,4 +1,4 @@
-# 03 - Démarre ! (Boots)
+# 03 - Démarre !
 
 (traduction du thème volontairement discutable)
 
