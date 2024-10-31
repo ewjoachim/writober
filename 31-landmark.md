@@ -20,6 +20,7 @@ avant la formation de la Terre, et elle resterait là, inamovible, jusqu'aux
 derniers moments de l'univers. Les habitants d'Aigençon sur Laudarque finirent
 d'applaudir le discours de Madame la Maire sur la rénovation de la salle des
 fêtes, et se dispersèrent. Au centre de la grande place trônait la fierté des
-Aigençonnais: la statue de la Dame d'Acier, une curiosité touristique qu'on ne
-savait pas dater, mais qu'on supposait plus vieille (et pourtant bien mieux
-conservée) que les plus vieux des monuments connus de l'humanité.
+Aigençonnais: la statue de la Dame d'Acier, une curiosité touristique que les
+scientifiques ne savait pas dater, mais qu'on supposait plus vieille (et
+pourtant bien mieux conservée) que les plus vieux des monuments connus de
+l'humanité.
