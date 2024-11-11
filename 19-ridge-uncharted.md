@@ -33,7 +33,7 @@ débuté au moment de l’explosion cambrienne et chaque aspect de l’évolutio
 partir de là avait été contrôlé par les bio-ingénieurs.  Certains, artistes
 dans l’âme, avaient créé les espèces animales et végétales les plus belles,
 colorées, harmonieuses ou loufoques. D’autres s’étaient contentés, touche après
-touches, de faire ressembler par tous aspects l’espèce humaine à leur propre
+touche, de faire ressembler par tous aspects l’espèce humaine à leur propre
 espèce. Trevina montra à Sepideh les très nombreuses esquisses, les brouillons,
 tous les essais et erreurs conservés dans des cuves de stase. L'original de la
 Grande Galerie de l’Évolution. Sur les innombrables planètes où officiaient les
