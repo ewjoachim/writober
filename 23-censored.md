@@ -10,7 +10,7 @@ avaient débarqué sur Terre. Nul ne savait comment ils avaient réussi à se
 cacher aussi longtemps sur leur planète. Une chose de sûr: cela faisait plus
 d’un siècle qu’ils s’étaient gardés d’envoyer le moindre signal qui eût pu
 trahir leur présence aux primitives peuplades de la planète bleue. Et puis,
-sans prévenir, l’armée de gigantesque robots natifs de Vénus avait entrepris
+sans prévenir, l’armée de gigantesques robots natifs de Vénus avait entrepris
 d’envahir la Terre. Un milliers de vaisseaux traversant le ciel, s’installant à
 proximité des plus grandes villes, déchargeant des hordes d’automates
 conscients et enragés, tuant tout sur leur passage. Un vrai carnage. En
