@@ -8,7 +8,7 @@ alentours, mais enfuie à soixante-quatorze mètres sous terre, elle ne risquait
 pas grand chose. Tout cela avait commencé 4 mois auparavant quand les vénusiens
 avaient débarqué sur Terre. Nul ne savait comment ils avaient réussi à se
 cacher aussi longtemps sur leur planète. Une chose de sûr: cela faisait plus
-d’un siècle qu’ils s’étaient gardés d’envoyer le moindre signal qui ne pût
+d’un siècle qu’ils s’étaient gardés d’envoyer le moindre signal qui eût pu
 trahir leur présence aux primitives peuplades de la planète bleue. Et puis,
 sans prévenir, l’armée de gigantesque robots natifs de Vénus avait entrepris
 d’envahir la Terre. Un milliers de vaisseaux traversant le ciel, s’installant à
