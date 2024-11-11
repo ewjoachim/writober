@@ -16,18 +16,18 @@ spécifiquement au premier contact avec une civilisation extra-terrestre.
 Arrivée au sommet, elle sut instantanément que toute cette préparation ne
 serait pas pour rien: premièrement elle pouvait distinguer des bâtiments et de
 la végétation sur une large part de la vallée, et d’autre part, comme cela
-avait été conjecturé, elle repéra rapidement sur le pourtour des montagnes qui
-faisaient le tour un réseau de cheminées dégageant une épaisse vapeur, les
-nuages perpétuels couvrant la zone n’étaient donc pas naturels. La descente fut
-plus rapide que la montée. Elle avait repéré depuis les hauteurs le début d’une
-route qui traversait la vallée et débutait à proximité. Une silhouette
-humanoïde se dégagea sur la route, qui la regardait en la saluant d’un grand
-geste. Sepideh rejoint la silhouette qui se présenta comme Trevina, dans une
-langue parfaitement compréhensible. Trevina était enjouée et énergique, la
-rencontre qu’elle avait préparée depuis de si nombreuses années arrivait enfin.
-Trevina était arrivée sur Mars quelques siècles auparavant, pour remplacer une
-autre bio-ingénieure de son espèce. Elle expliqua que leur rôle était, à l’aide
-d’un appareil émettant un faisceau d’ondes extrêmement précis, de provoquer des
+avait été conjecturé, elle repéra rapidement sur le pourtour de la vallée un
+réseau de cheminées dégageant une épaisse vapeur, les nuages perpétuels
+couvrant la zone n’étaient donc pas naturels. La descente fut plus rapide que
+la montée. Elle avait repéré depuis les hauteurs le début d’une route qui
+traversait la vallée et débutait à proximité. Une silhouette humanoïde se
+dégagea sur la route, qui la regardait en la saluant d’un grand geste. Sepideh
+rejoint la silhouette qui se présenta comme Trevina, dans une langue
+parfaitement compréhensible. Trevina était enjouée et énergique, la rencontre
+qu’elle avait préparée depuis de si nombreuses années arrivait enfin. Trevina
+était arrivée sur Mars quelques siècles auparavant, pour remplacer une autre
+bio-ingénieure de son espèce. Elle expliqua que leur rôle était, à l’aide d’un
+appareil émettant un faisceau d’ondes extrêmement précis, de provoquer des
 mutations sur les espèces terrestres pour les faire évoluer. La mission avait
 débuté au moment de l’explosion cambrienne et chaque aspect de l’évolution à
 partir de là avait été contrôlé par les bio-ingénieurs.  Certains, artistes
