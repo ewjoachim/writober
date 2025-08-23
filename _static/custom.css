@@ -110,7 +110,10 @@ html[data-theme="dark"] {
 body {
     --pst-font-family-base: "Quicksand", sans-serif;
     --bs-body-font-size: 18px;
-    --bs-body-text-align: justify;
+}
+
+p {
+    text-align: justify;
 }
 
 h1,
