@@ -1,2 +1,5 @@
 [assets]
-directory = "./_build"
+directory = "./_build/html"
+
+[build]
+command = "make html"
