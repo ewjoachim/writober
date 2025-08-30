@@ -112,10 +112,6 @@ body {
     --bs-body-font-size: 18px;
 }
 
-p {
-    text-align: justify;
-}
-
 h1,
 h2,
 h3 {
