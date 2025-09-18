@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "Ewjoachim's Writober Journal"
-copyright = "CC-BY-SA-NC © Copyright 2024- Joachim Jablon"
+copyright = "2024- Joachim Jablon - CC-BY-SA-NC"
 author = "Joachim Jablon"
 
 # -- General configuration ---------------------------------------------------
