@@ -8,7 +8,7 @@ d'une ou deux pages en lien avec le mot du jour d'Inktober.
 Rien d'obligatoire mais j'apprécierais énormément si vous pouvez me partager vos impressions
 au cours du mois: vos retours nourissent mon inspiration et ma motivation pour continuer.
 Vous pouvez le faire en direct si vous me connaissez, via les réseaux (Mastodon, Bluesky,
-Discord), par courrier, pigeon voyageur ou autre.
+Discord, Slack), par courrier, pigeon voyageur ou autre.
 
 Bonne lecture!
 
