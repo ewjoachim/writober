@@ -8,6 +8,7 @@ dependencies = [
     "myst-parser>=4.0.1",
     "sphinx>=8.2.3",
     "sphinx-book-theme>=1.1.4",
+    "sphinxext-opengraph[social-cards]>=0.13.0",
     "sphinxfeed-lsaffre>=0.3.5",
 ]
 

@@ -13,12 +13,14 @@ author = "Joachim Jablon"
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["myst_parser", "sphinxfeed"]
+extensions = ["myst_parser", "sphinxfeed", "sphinxext.opengraph"]
 
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", ".venv", "CONTRIBUTING.md"]
 
 language = "fr"
+
+base_url = "https://writober.ewjoach.im"
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -45,9 +47,16 @@ html_static_path = ["_static"]
 html_css_files = ["custom.css"]
 
 # -- Options for RSS feed -------------------------------------------------
-feed_base_url = "https://writober.ewjoach.im"
+feed_base_url = base_url
 feed_author = "Joachim Jablon"
 feed_description = (
     "Une nouvelle par jour d'octobre sur le thème du mot du jour d'Inktober"
 )
 feed_field_name = "date"
+
+# -- Options for Opengraph -------------------------------------------------
+ogp_site_url = base_url
+ogp_social_cards = {
+    "enable": True,
+    "image": "_static/android-chrome-512x512.png",
+}
