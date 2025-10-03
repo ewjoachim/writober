@@ -1,3 +1,7 @@
+---
+date: 2024-10-30
+---
+
 # 29&30 - Navigatrice, Violon
 
 Après plus de vingt ans à tourner dans les salles de concert aux quatre coins

@@ -1,3 +1,7 @@
+---
+date: 2024-10-28
+---
+
 # 28 - Jumbo
 
 Basha se réveilla en sursaut. Elle s'était figurée un million de fois à quoi

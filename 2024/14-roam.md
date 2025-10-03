@@ -1,3 +1,7 @@
+---
+date: 2024-10-14
+---
+
 # 14 - Errance
 
 Naomi s’arrêta devant une vitrine du centre commercial pour regarder les

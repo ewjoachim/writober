@@ -13,7 +13,7 @@ author = "Joachim Jablon"
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["myst_parser"]
+extensions = ["myst_parser", "sphinxfeed"]
 
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", ".venv", "CONTRIBUTING.md"]
@@ -43,3 +43,11 @@ html_sidebars = {"**": ["sbt-sidebar-nav.html"]}
 
 html_static_path = ["_static"]
 html_css_files = ["custom.css"]
+
+# -- Options for RSS feed -------------------------------------------------
+feed_base_url = "https://writober.ewjoach.im"
+feed_author = "Joachim Jablon"
+feed_description = (
+    "Une nouvelle par jour d'octobre sur le thème du mot du jour d'Inktober"
+)
+feed_field_name = "date"

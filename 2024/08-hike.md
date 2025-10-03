@@ -1,3 +1,7 @@
+---
+date: 2024-10-08
+---
+
 # 08 - Randonnée
 
 Hemmi était une humaine parfaitement normale et pas une androïde. Hemmi avait

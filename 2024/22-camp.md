@@ -1,3 +1,7 @@
+---
+date: 2024-10-22
+---
+
 # 22 - Camp
 
 La fraîcheur de la nuit naissante commençait à tomber mais à côté du feu,

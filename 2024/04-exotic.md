@@ -1,3 +1,7 @@
+---
+date: 2024-10-04
+---
+
 # 04 - Exotique
 
 Daniella avait besoin de se changer les idées pour les vacances. Metro boulot

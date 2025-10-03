@@ -1,3 +1,7 @@
+---
+date: 2024-10-23
+---
+
 # 23 - ...
 
 Quand, sur la console, les voyants liés aux capteurs de surface s’allumèrent

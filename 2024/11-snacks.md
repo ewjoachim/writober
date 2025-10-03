@@ -1,3 +1,7 @@
+---
+date: 2024-10-11
+---
+
 # 11 - Snacks
 
 C’est en regardant un tube contenant des chips ondulées que Klelia comprit.

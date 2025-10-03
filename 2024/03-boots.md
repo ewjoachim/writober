@@ -1,3 +1,7 @@
+---
+date: 2024-10-03
+---
+
 # 03 - Démarre !
 
 Démarre ! Démarre ! Allez ! Chloé s'agaçait devant l'écran désespérément noir

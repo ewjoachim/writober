@@ -1,3 +1,7 @@
+---
+date: 2024-10-16
+---
+
 # 16 - Crasseux
 
 Peirina avançait avec difficulté dans la boue épaisse qui recouvrait la plus

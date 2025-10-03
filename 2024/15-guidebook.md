@@ -1,3 +1,7 @@
+---
+date: 2024-10-15
+---
+
 # 15 - Guide touristique
 
 Tout en parcourant rapidement les chapitres du manuel, Oksana maugréa et

@@ -1,3 +1,7 @@
+---
+date: 2024-10-06
+---
+
 # 06 - Trek
 
 Alors que Freja marchait sur le petit sentier montagneux, elle croisa un vieux
