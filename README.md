@@ -1,3 +1,8 @@
+---
+og:description: >
+  Un défi artistique où j'écris une nouvelle par jour en octobre, en m'insipirant du
+  mot du jour d'Inktober
+---
 # Le journal de Writober d'ewjoachim
 
 [Inktober](https://inktober.com/), c'est un défi artistique qui consiste à réaliser un

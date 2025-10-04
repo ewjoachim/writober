@@ -3,6 +3,15 @@
 # For the full list of built-in configuration values, see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
+import pathlib
+import sys
+
+from matplotlib import font_manager
+
+sys.path.append(".")
+
+import generate_card
+
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
@@ -56,7 +65,7 @@ feed_field_name = "date"
 
 # -- Options for Opengraph -------------------------------------------------
 ogp_site_url = base_url
-ogp_social_cards = {
-    "enable": True,
-    "image": "_static/android-chrome-512x512.png",
-}
+
+
+def setup(app):
+    app.connect("generate-social-card", generate_card.generate_card)
