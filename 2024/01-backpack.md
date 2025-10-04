@@ -4,7 +4,7 @@ date: 2024-10-01
 
 # 01 - Sac à dos
 
-Dans la file d'attente de la sécurité avant porte d'embarquement, Axelle se
+Dans la file d'attente de la sécurité avant la porte d'embarquement, Axelle se
 demandait à quoi ressemblerait son sac à dos aux rayons X. C'était la première
 fois qu'elle prenait l'avion depuis qu'elle avait réussi l'enchantement pour en
 faire un sac sans fond, et elle n'avait qu'à y plonger la main pour sortir
