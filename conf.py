@@ -3,10 +3,7 @@
 # For the full list of built-in configuration values, see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
-import pathlib
 import sys
-
-from matplotlib import font_manager
 
 sys.path.append(".")
 

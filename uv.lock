@@ -906,7 +906,7 @@ wheels = [
 [[package]]
 name = "sphinxext-opengraph"
 version = "0.13.0"
-source = { git = "https://github.com/ewjoachim/sphinxext-opengraph?branch=customize-social-card#3c0d32caea002fb51b195c0b0507182ad1b0bb04" }
+source = { git = "https://github.com/ewjoachim/sphinxext-opengraph?branch=customize-social-card#088cd365ddbbd633a3ec8a964ed6404dbcfded30" }
 dependencies = [
     { name = "sphinx" },
 ]
