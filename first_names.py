@@ -6,7 +6,6 @@
 import asyncio
 import itertools
 import pathlib
-import re
 
 import httpx
 
@@ -37,10 +36,10 @@ async def main():
             titles.append(title)
 
         # Handle pagination
-        if "continue" in response:
-            params["cmcontinue"] = response["continue"]["cmcontinue"]
-        else:
+        if "continue" not in response:
             break
+
+        params["cmcontinue"] = response["continue"]["cmcontinue"]
 
     titles = sorted(titles)
     results = []
