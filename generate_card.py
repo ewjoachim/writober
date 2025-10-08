@@ -1,5 +1,7 @@
+import dataclasses
 import functools
 import io
+import json
 import logging
 import pathlib
 import textwrap
@@ -33,6 +35,9 @@ def generate_card(
     contents: SocialCardContents,
     check_if_signature_exists: typing.Callable[[str], None],
 ) -> None | tuple[io.BytesIO, str]:
+    signature = json.dumps(dataclasses.asdict(contents))
+    check_if_signature_exists(signature)
+
     image = Image.new(mode="RGBA", size=(1200, 630), color="#1d1d1d")
     draw = ImageDraw.Draw(image)
 
@@ -80,4 +85,4 @@ def generate_card(
 
     bytes_obj = io.BytesIO()
     image.save(bytes_obj, format="png")
-    return bytes_obj, str(contents.page_path)
+    return bytes_obj, signature
