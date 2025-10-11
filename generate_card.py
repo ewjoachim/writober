@@ -50,6 +50,7 @@ def generate_card(
     page_title_font.set_variation_by_name("SemiBold")
 
     text_font = quicksand.font_variant(size=36)
+    text_font.set_variation_by_name("Medium")
 
     draw.text(
         (100, 50),
