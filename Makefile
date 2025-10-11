@@ -8,6 +8,7 @@ SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = _build
 export LC_ALL = C.UTF-8
+export TZ     = Europe/Paris
 
 # Put it first so that "make" without argument is like "make help".
 help:
