@@ -1,7 +1,31 @@
 ---
 date: "2025-10-03"
 ---
-
 # 03 - Couronne
 
-Calanthe était assise sur le trône, son cœur battait la chamade. Les musiciens royaux s'époumonaient dans leurs trompes en airs majestueux et grandiloquents. Drapé dans un large vêtement vert symbolisant le renouveau, le grand prêtre avait accompli l'essentiel de la cérémonie, et il ne restait plus que la dernière étape, le couronnement à proprement parler. Ses mains frêles soulevèrent la couronne de son petit coussin et alors qu'il l'approchait de la tête de Calanthe, celle-ci retint sa respiration. La couronne de sagesse de Tishnor l'avait toujours fascinée. Il s'agissait d'un artefact magique à l'usage exclusif du Roi ou de la Reine, une fonction qui n'était pas héréditaire comme dans les royaumes alentours, mais transmise. Tous les dix ans environ, le Roi ou la Reine désignait sa ou son successeur. La majorité des suzerains de Tishnor étaient issus des classes populaires, ce qui n'était pas sans rapport au fait que le pays offre à toutes et tous ses habitants une solide éducation, et que les inégalités de ce royaume prospère soient étonnement limitées. Nombreux ceux qui attribuaient ces particularités à la couronne de sagesse, justement. Personne connaissait précisément son effet, mis à part les anciens monarques, qui n'en disaient jamais rien, la plupart prenant une retraite méritée dans le calme des monastères. Mais une chose était sure, dès qu'ils chaussaient la coiffe royale, les dirigeants devenaient sages, justes, lucides, généreux, bienveillants et pacifiques. Quand la couronne effleura la tête de Calanthe, elle sut. Instantanément, elle perçut les voix des huit cent trente-deux suzerains qui l'avaient précédée, qui l'accueillaient mentalement, la félicitaient et entonnaient des chants de bienvenue. Rapidement, le calme revint et ils lui expliquèrent: les règles de prise de parole pour éviter le brouhaha permanent, et de décision commune. Le fait que son corps, ses gestes et sa voix étaient désormais contrôlés par le vote du plus grand nombre de résidents cérébraux. C'était donc ça le "pouvoir" de la couronne. Calanthe se prépara mentalement: les dix années de perpétuelle réunion de copropriété mentale seraient longs.
+Calanthe était assise sur le trône, son cœur battait la chamade. Les musiciens royaux
+s'époumonaient dans leurs trompes en airs majestueux et grandiloquents. Drapé dans un
+large vêtement vert symbolisant le renouveau, le grand prêtre avait accompli l'essentiel
+de la cérémonie, et il ne restait plus que la dernière étape, le couronnement à
+proprement parler. Ses mains frêles soulevèrent la couronne de son petit coussin et
+alors qu'il l'approchait de la tête de Calanthe, celle-ci retint sa respiration. La
+couronne de sagesse de Tishnor l'avait toujours fascinée. Il s'agissait d'un artefact
+magique à l'usage exclusif du Roi ou de la Reine, une fonction qui n'était pas
+héréditaire comme dans les royaumes alentours, mais transmise. Tous les dix ans environ,
+le Roi ou la Reine désignait sa ou son successeur. La majorité des suzerains de Tishnor
+étaient issus des classes populaires, ce qui n'était pas sans rapport au fait que le
+pays offre à toutes et tous ses habitants une solide éducation, et que les inégalités de
+ce royaume prospère soient étonnement limitées. Nombreux ceux qui attribuaient ces
+particularités à la couronne de sagesse, justement. Personne connaissait précisément son
+effet, mis à part les anciens monarques, qui n'en disaient jamais rien, la plupart
+prenant une retraite méritée dans le calme des monastères. Mais une chose était sure,
+dès qu'ils chaussaient la coiffe royale, les dirigeants devenaient sages, justes,
+lucides, généreux, bienveillants et pacifiques. Quand la couronne effleura la tête de
+Calanthe, elle sut. Instantanément, elle perçut les voix des huit cent trente-deux
+suzerains qui l'avaient précédée, qui l'accueillaient mentalement, la félicitaient et
+entonnaient des chants de bienvenue. Rapidement, le calme revint et ils lui
+expliquèrent: les règles de prise de parole pour éviter le brouhaha permanent, et de
+décision commune. Le fait que son corps, ses gestes et sa voix étaient désormais
+contrôlés par le vote du plus grand nombre de résidents cérébraux. C'était donc ça le
+"pouvoir" de la couronne. Calanthe se prépara mentalement: les dix années de perpétuelle
+réunion de copropriété mentale seraient longs.

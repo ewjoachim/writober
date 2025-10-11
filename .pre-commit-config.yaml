@@ -55,5 +55,6 @@ repos:
         name: flowmark
         entry: ./flowmark
         additional_dependencies: [flowmark==0.5.3]
+        exclude: index\.md
         types: [markdown]
         language: python

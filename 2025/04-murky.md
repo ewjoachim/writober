@@ -1,7 +1,27 @@
 ---
 date: "2025-10-04"
 ---
-
 # 04 - Ténébreux
 
-Assise à la fenêtre de son manoir, sous la lumière de la pleine lune, Dervla désespérait. Depuis qu’elle était devenue une vampire, elle prenait son rôle très au sérieux, et faisait tout pour se montrer à la hauteur. Elle avait emménagé dans cette grande bâtisse décrépite avec la ferme intention d’en faire un véritable château hanté, mais rien ne semblait se dérouler comme prévu. Le soir de son arrivée, les habitants du village voisin étaient venus l’accueillir avec une tarte aux quetsches -- au demeurant délicieuse. Elle avait tant bien que mal remis en fonctionnement les majestueuses grandes orgues du foyer, avant de réaliser à quel point la _Toccata et Fugue_ de Bach était complexe à jouer, elle devait se contenter pour l'instant de _J’ai du Bon Tabac_. Quelques semaines auparavant, au plus profond de la nuit, sous la pluie battante, une voiture avait fait une embardée sur la route qui bordait le château avant de finir sa course dans un chêne centenaire. Elle avait tout préparé pour leur faire un accueil digne des plus grandes légendes transylvaniennes lorsqu'ils ne manqueraient pas de venir demander secours. Las, le couple, une fois sorti indemne de la voiture, avait simplement passé un coup de fil à leur assurance qui avait dépêché un véhicule d'assistance en quelques minutes, et pour ne rien arranger, la municipalité qui avait pris la mesure du danger de cette petite route, s'était empressée de la barder de lumières, dispositifs réfléchissants et panneaux de signalisation. Bah, se dit-elle. Au moins, elle pourrait toujours se transformer en chauve-souris pour effrayer les villageois. Elle ne savait pas encore que s'était montée le jour-même une association locale de défense des pipistrelles, par quelques amoureux de la nature fermement décidés à changer le regard de leurs voisins sur ces animaux fascinants.
+Assise à la fenêtre de son manoir, sous la lumière de la pleine lune, Dervla
+désespérait. Depuis qu’elle était devenue une vampire, elle prenait son rôle très au
+sérieux, et faisait tout pour se montrer à la hauteur. Elle avait emménagé dans cette
+grande bâtisse décrépite avec la ferme intention d’en faire un véritable château hanté,
+mais rien ne semblait se dérouler comme prévu. Le soir de son arrivée, les habitants du
+village voisin étaient venus l’accueillir avec une tarte aux quetsches -- au demeurant
+délicieuse. Elle avait tant bien que mal remis en fonctionnement les majestueuses
+grandes orgues du foyer, avant de réaliser à quel point la *Toccata et Fugue* de Bach
+était complexe à jouer, elle devait se contenter pour l'instant de *J’ai du Bon Tabac*.
+Quelques semaines auparavant, au plus profond de la nuit, sous la pluie battante, une
+voiture avait fait une embardée sur la route qui bordait le château avant de finir sa
+course dans un chêne centenaire. Elle avait tout préparé pour leur faire un accueil
+digne des plus grandes légendes transylvaniennes lorsqu'ils ne manqueraient pas de venir
+demander secours. Las, le couple, une fois sorti indemne de la voiture, avait simplement
+passé un coup de fil à leur assurance qui avait dépêché un véhicule d'assistance en
+quelques minutes, et pour ne rien arranger, la municipalité qui avait pris la mesure du
+danger de cette petite route, s'était empressée de la barder de lumières, dispositifs
+réfléchissants et panneaux de signalisation. Bah, se dit-elle. Au moins, elle pourrait
+toujours se transformer en chauve-souris pour effrayer les villageois. Elle ne savait
+pas encore que s'était montée le jour-même une association locale de défense des
+pipistrelles, par quelques amoureux de la nature fermement décidés à changer le regard
+de leurs voisins sur ces animaux fascinants.

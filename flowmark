@@ -1,5 +1,5 @@
 #!/bin/bash
 
-set -eux
+set -eu
 
-echo "$@" | xargs -n1 echo flowmark --inplace --nobackup --cleanups --ellipses
+echo "$@" | xargs -n1 flowmark --inplace --nobackup --cleanups --ellipses
