@@ -7,6 +7,8 @@ import sys
 
 sys.path.append(".")
 
+import datetime
+
 import generate_card
 
 # -- Project information -----------------------------------------------------
@@ -24,9 +26,18 @@ extensions = ["myst_parser", "sphinxfeed", "sphinxext.opengraph"]
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", ".venv", "CONTRIBUTING.md"]
 
+# Assume we're in the correct timezone
+today_date = datetime.date.today()
+# Exclude all future pages
+if today_date.month == 10:
+    exclude_patterns.extend(
+        f"{today_date.year}/{i:02}-*.md" for i in range(today_date.day + 1, 32)
+    )
+
 language = "fr"
 
 base_url = "https://writober.ewjoach.im"
+
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
