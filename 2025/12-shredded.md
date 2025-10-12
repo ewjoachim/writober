@@ -16,11 +16,11 @@ température ambiante. Elle était consciente que sa vie allait changer, mais po
 l'instant, sa journée était terminée, et elle mettait de l'ordre dans son bureau. Elle
 avait rangé la formule et tous les documents pertinents dans le coffre-fort de son
 bureau, avant de se lancer dans le déchiquetage systématique de tous les autres
-documents. Oh, bien sûr, elle avait pensé à l'ironie que représenterait une erreur, si
-elle déchiquetait la formule. Mais elle avait bien vérifié, autant de fois qu'il le
-fallait pour s'en convaincre, que les documents importants étaient rangés et sécurisés.
-Elle était attachée à ce rituel quotidien, le déchiquetage de ses brouillons, des mémos
-et circulaires de la journée. Feuille après feuille, la machine avalait le papier et
-recrachait des petites bandelettes illisibles, dans un vrombissement apaisé. Une fois
+documents. Elle était attachée à ce rituel quotidien, la destruction de ses brouillons,
+des mémos et circulaires de la journée. Feuille après feuille, la machine avalait le
+papier et recrachait des petites bandelettes illisibles, dans un vrombissement apaisé.
+Oh, bien sûr, elle avait pensé à l'ironie que représenterait une erreur, si elle
+déchiquetait la formule. Mais elle avait bien vérifié, autant de fois qu'il le fallait
+pour s'en convaincre, que les documents importants étaient rangés et sécurisés. Une fois
 son bureau entièrement nettoyé, elle se demanda où elle avait mis la feuille sur
 laquelle était noté le nouveau code de son coffre-fort.
