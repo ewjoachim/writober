@@ -8,6 +8,7 @@ import sys
 sys.path.append(".")
 
 import datetime
+import pathlib
 
 import generate_card
 
@@ -33,6 +34,13 @@ if today_date.month == 10:
     exclude_patterns.extend(
         f"{today_date.year}/{i:02}-*.md" for i in range(today_date.day + 1, 32)
     )
+
+# Exclude empty ones
+exclude_patterns.extend(
+    str(p.relative_to(pathlib.Path.cwd()))
+    for p in pathlib.Path.cwd().glob("20*/*-*.md")
+    if p.read_text().strip().endswith("]")
+)
 
 language = "fr"
 
