@@ -16,7 +16,7 @@ une veste. Puis, enfin, le drap. Dans la machine à coudre, elle raccommoda, ell
 reprisa, elle rapiéça. Le résultat était impeccable. Elle replia l'étoffe. Elle allait
 la ranger dans l'étagère où allaient les ouvrages achevés, quand tout à coup, une
 bourrasque ouvrit la porte de l'atelier. Le vent s'engouffra en sifflant, balayant
-mannequins et étoffes. Le drap lui échappa des mains et virevolta dans le vent, emporté
+mannequins et costumes. Le drap lui échappa des mains et virevolta dans le vent, emporté
 hors de la boutique où il s'envola dans un bruit aigu, presque comme une voix d'enfant
 riant. Olympe referma la porte, et s'employa à remettre de l'ordre dans le capharnaüm.
 Sous un chapeau tombé, elle trouva un billet et deux pièces, l'appoint. Elle sourit.
