@@ -6,7 +6,7 @@ date: "2025-10-14"
 En plongeant sa lame aiguisée dans le monstre qui l'attaquait, Nilay s'écria "Satanées
 créatures de l'Enfer !". Ayant aperçu un mouvement derrière elle, elle fit un large
 moulinet du bras et l'épée finit sa course plantée dans la tête d'un orc.
-Un silence tomba sur la pièce, que seule la lourde respiration de Nilay ne dérangeait. Le
+Un silence tomba sur la pièce, que seule emplissait la lourde respiration de Nilay. Le
 dernier des assaillants était tombé, elle était à nouveau seule. Elle n'avait pas eu le
 temps d'observer la salle, l'embuscade l'ayant pris par surprise dès qu'elle en avait
 franchi le seuil. Il s'agissait d'une crypte plutôt classique, garnie, outre les
