@@ -9,7 +9,7 @@ vitrine reflétant des éclats multicolores dans toute la boutique. Olympe, la m
 couturière de la ville, ouvrait son magasin. En entrant, elle repéra quelque chose par
 terre, qui n'était pas là la veille. Un vieux drap blanc, à moitié déchiré. Probablement
 laissé par un client la veille ? Elle ne s'en souvenait plus. Dans le doute, elle
-ramassa le linge et l'examina. Une vilaine déchirure, tout un coin en lambeau. Elle le
+ramassa le linge et l'examina. Une vilaine déchirure, tout un coin en lambeaux. Elle le
 posa sur la pile, son travail pour la journée. Son propriétaire passerait bien à
 l'occasion. D'abord, une robe à retoucher. Ensuite, une réparation sur une veste. Puis,
 enfin, le drap. Dans la machine à coudre, elle raccommoda, elle reprisa, elle rapiéça.
