@@ -12,7 +12,7 @@ le jeu est sorti, plusieurs décennies auparavant. Ruslana a reçu la vieille co
 ses parents l'année précédente, mais elle est douée. Très douée. Et puis le jeu est
 plein de rebondissements. Jusqu'à la dernière seconde, les deux sont au coude à coude.
 Une peau de banane lancée avec précision signe la victoire sur le fil de la jeune
-Ruslana, sa quatrième contre son amie, à quelques mois d'intervalle. Raleigh,
-impressionnée, complimente Ruslana. Une poignée de main chaleureuse entre les deux
-filles et elle tire sa révérence, emportant sa faux posée à l'entrée de la chambre
-d'hôpital. Elle ne repart pas avec Ruslana aujourd'hui. Un marché est un marché.
+Ruslana, sa quatrième contre son amie, à quelques mois d'intervalle. Les deux filles se
+congratulent mutuellement, et c'est déjà l'heure du départ pour Raleigh. En sortant,
+elle attrape sa faux posée à l'entrée de la chambre d'hôpital. Elle ne repart pas avec
+Ruslana aujourd'hui. Un marché est un marché.
