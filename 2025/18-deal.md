@@ -6,7 +6,7 @@ date: "2025-10-18"
 Cette nuit, Ruslana et Raleigh sont assises sur le bord du lit, éclairées par la seule
 lumière de la petite télévision sur le mur en face. Le son, un murmure à peine audible,
 emplit pourtant la pièce. Les deux filles sont parfaitement concentrées sur l'écran, une
-manette de jeu dans les mains. Des karts pilotés par des personnages riches en couleurs
+manette de jeu dans les mains. Des karts pilotés par des personnages hauts en couleurs
 roulent à toute allure. Raleigh, la plus grande, est une experte. Elle y joue depuis que
 le jeu est sorti, plusieurs décennies auparavant. Ruslana a reçu la vieille console de
 ses parents l'année précédente, mais elle est douée. Très douée. Et puis le jeu est
