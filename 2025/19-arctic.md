@@ -3,7 +3,7 @@ date: "2025-10-19"
 ---
 # 19 - Arctique
 
-Sevilay, assise à son fauteuil, tenait son thé bien chaud dans ses paumes. Ce n'était
+Sevilay, assise à son fauteuil, se réchauffait les mains sur sa tasse de thé. Ce n'était
 pas tant qu'il faisait froid, l'atmosphère de la pièce était parfaitement régulée par
 l'ordinateur central, mais la simple pensée qu'elle était dans un complexe souterrain
 situé sous le cercle arctique donnait à la chaleur d'une tasse de thé un aspect
