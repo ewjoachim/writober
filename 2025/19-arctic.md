@@ -18,8 +18,9 @@ de venir avaient été accueillis. Ceux qui avaient préféré les radiations av
 depuis plus d'un siècle. L'ordinateur avait pour instruction de s'assurer qu'un ou une
 humaine soit toujours décongelée, en cas de problème inattendu. En plus de cent-vingt
 ans, aucun problème n'avait nécessité d'intervention humaine. Sevilay tenait ce rôle
-depuis dix-sept ans, un record, et pouvait demander à être remplacée à tout moment. Elle
-avait accès à tous les livres, films et albums que les guerres avaient épargnés, une
-salle de musique, une salle de sport, et une réserve à peu près illimitée de thés du
-monde entier. Et surtout: une paix royale. Quand parfois elle pensait à l'après, elle se
-disait que, décidément, ce à quoi elle aspirait était le maintenant.
+depuis dix-sept ans, un record, et pouvait demander à être remplacée à tout moment, pour
+se gagner des années des années de vies dans le monde d'après. Elle avait accès à tous
+les livres, films et albums que les guerres avaient épargnés, une salle de musique, une
+salle de sport, et une réserve à peu près illimitée de thés du monde entier. Et surtout:
+une paix royale. Quand parfois elle pensait à l'après, elle se disait que, décidément,
+ce à quoi elle aspirait était le maintenant.
