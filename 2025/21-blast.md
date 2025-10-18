@@ -3,19 +3,20 @@ date: "2025-10-21"
 ---
 # 21 - Explosion
 
-Ç'avait beau être la plus grosse explosion atomique que la Terre n'avait jamais connue,
-avec suffisamment d'énergie pour en désintégrer trois quarts, et laisser le reste dans
-un état peu recommandable, étrangement, aucun des neuf milliards d'humains sur Terre
-n'en mourut. L'explosion fut causée par une réaction en chaîne dans l'atmosphère,
-conséquence de la détonation accidentelle simultanée des arsenaux de toutes les
-puissances nucléaires du monde. Celle-ci fut elle-même causée par une onde
-électromagnétique puissante émise aléatoirement par le soleil dont la fréquence, au
-millième de Hertz près, entrait en résonance avec un composant de sécurité qui se
-trouvait équiper absolument toutes les bombes atomiques. Ces composants étaient tous
-identiques car produits par la seule société au monde qui en avait le brevet. Mais ceci
-n'explique pas pourquoi personne n'en mourut. La raison, était qu'une telle réaction, si
-différente de celles que l'on peut observer à l'intérieur des étoiles, fit intervenir
-nombre de matériaux exotiques, provoquant pendant quelques nano-secondes l'apparition de
-trois éléments chimiques jusqu'alors inconnus, complétant le tableau périodique des
-éléments. Ceci était une condition de victoire de l'univers, qui pris instantanément
-fin.
+C'était une stratégie risquée, mais Urtė aimait le risque. Elle menait plutôt largement
+au score, et elle pouvait perdre beaucoup si ça tournait mal, par exemple si elle
+détruisait la Terre et tous ses habitants. Elle avait stratégiquement accumulé dans sa
+main les cartes formant le combo parfait, et mit son plan en action. D'abord une
+entreprise qui développe un composant breveté améliorant la sécurité des armes
+nucléaires. Un peu de lobbying pour que ce composant équipe tous les arsenaux des
+puissances atomiques autour de la terre. Elle n'avait pas eu à faire grande chose, les
+humains étaient doués pour prendre ce genre de risques eux-mêmes. Enfin, la carte
+tempête solaire. Une onde électromagnétique surpuissante calibrée exactement à la bonne
+fréquence, au nanohertz près pour déclencher le bug dans le fameux composant, et détoner
+simultanément toutes les bombes atomiques de la planète. Ces explosions qui provoquent
+immédiatement une réaction en chaine surpuissante. Du fait des matériaux exotiques
+présents sur terre, l'explosion entraîne pendant une fraction de seconde l'apparition de
+trois éléments chimiques jusqu'alors inconnus dans l'univers, complétant le tableau
+périodique des éléments. Puisqu'il s'agit d'une condition de victoire du jeu, l'univers
+prend instantanément fin, deux milli-secondes avant l'annihilation complète de la
+planète, signant donc la victoire d'Urtė.
