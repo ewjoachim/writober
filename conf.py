@@ -39,7 +39,7 @@ if today_date.month == 10:
 exclude_patterns.extend(
     str(p.relative_to(pathlib.Path.cwd()))
     for p in pathlib.Path.cwd().glob("20*/*-*.md")
-    if p.read_text().strip().endswith("]")
+    if p.read_text().strip().splitlines()[0].startswith("#")
 )
 
 language = "fr"
