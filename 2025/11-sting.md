@@ -17,5 +17,5 @@ prestigieux qu'elle avait obtenu n'était pas mérité. Comment cela avait impre
 l'homme qu'elle avait rencontré l'année suivante, qui était devenu son mari, et le père
 de trois enfants merveilleux qu'elle avait volé au destin par sa fourberie. Que cette
 situation lui avait octroyé une stabilité grivelée, grâce à laquelle elle avait pu mener
-une vie confortable, et qu'aucun des engagements dans les associations caritatives ne
+une vie confortable, et qu'aucun de ses engagements dans les associations caritatives ne
 sauraient effacer sa lourde honte.
