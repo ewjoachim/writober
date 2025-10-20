@@ -6,7 +6,7 @@ date: "2025-10-20"
 Tinashe s'assit et ouvrit son téléphone, comme chaque jour. Elle était maintenant
 totalement accro. En tant que bêta-testeuse de l'app BetterLife depuis un mois, elle
 pouvait, à la fin de chaque journée, consulter l'ensemble des décisions significatives
-qu'elle avait prises ce jour-là, et regarder ce qui se serait passé pour touts les choix
+qu'elle avait prises ce jour-là, et regarder ce qui se serait passé pour tous les choix
 alternatifs. L'app attribuait même une note pour sa journée face à celle de toutes ses
 rivales virtuelles. Le but de l'application était de l'aider à prendre de meilleures
 décisions. Pour l'instant, l'effet de celle-ci était surtout de lui montrer à quel point
