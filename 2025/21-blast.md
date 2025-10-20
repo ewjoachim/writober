@@ -3,7 +3,7 @@ date: "2025-10-21"
 ---
 # 21 - Explosion
 
-C'était le tour d'Urtė. Dans l'univers de son adversaire, le voyage intersidéral est
+C'est le tour d'Urtė. Dans l'univers de son adversaire, le voyage intersidéral est
 inventé depuis plus de quatre tours, et la paix galactique sur le point d'éclore. Urtė
 doit donc agir vite. La planète sur laquelle elle avait tout misé est en retard. Ses
 habitants sont lents et belliqueux. Un demi-siècle après l'invention du voyage spatial,
