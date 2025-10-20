@@ -19,5 +19,5 @@ soir. Elle savait qu'elle avait fait une erreur de jugement en essayant de répo
 texto au volant en chemin vers sa banque. Elle le savait car le carambolage qui s'en
 était suivi avait détruit quatre voitures, heureusement sans faire de victimes. Elle ne
 comprit donc pas pourquoi BetterLife lui octroyait la note maximale. Il se trouve que
-toutes ses rivales virtuelles avaient péri dans le braquage de la banque là où elle
+toutes ses rivales virtuelles avaient péri dans le braquage de la banque tandis qu'elle
 avait détruit la voiture du braqueur.
