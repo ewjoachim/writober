@@ -15,4 +15,4 @@ Une peau de banane lancée avec précision signe la victoire sur le fil de la je
 Ruslana, sa quatrième contre son amie, à quelques mois d'intervalle. Les deux filles se
 congratulent mutuellement, et c'est déjà l'heure du départ pour Raleigh. En sortant,
 elle attrape sa faux posée à l'entrée de la chambre d'hôpital. Elle ne repart pas avec
-Ruslana aujourd'hui. Un marché est un marché.
+Ruslana aujourd'hui. Une promesse est une promesse.

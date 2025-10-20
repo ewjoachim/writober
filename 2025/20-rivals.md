@@ -16,8 +16,8 @@ promotion vers une poste plus intéressant. Le jour où elle avait trouvé l'amo
 vie, l'app avait noté ce choix comme désastreux -- un jugement qu'elle eut tôt fait de
 découvrir comme parfaitement mérité. Elle s'attendait au pire en lançant l'analyse ce
 soir. Elle savait qu'elle avait fait une erreur de jugement en essayant de répondre à ce
-texto au volant en chemin vers sa banque. Elle le savait car le carambolage qui s'en
+texto au volant, en chemin vers sa banque. Elle le savait car le carambolage qui s'en
 était suivi avait détruit quatre voitures, heureusement sans faire de victimes. Elle ne
 comprit donc pas pourquoi BetterLife lui octroyait la note maximale. Il se trouve que
-toutes ses rivales virtuelles avaient péri dans le braquage de la banque tandis qu'elle
+toutes ses rivales virtuelles avaient péri dans le braquage de la banque, tandis qu'elle
 avait détruit la voiture du braqueur.
