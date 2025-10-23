@@ -10,8 +10,8 @@ de prospection minière, à l’aide d’un robot ultra-perfectionné, bardé de
 capteurs. Dès qu’une once de minerai de valeur serait détectée, une armada de robots
 excavateurs serait envoyés sur zone, avec un respect absolument inexistant pour le
 bien-être de la faune et de la flore locale — à l’opposé de ce qu’affirmaient les
-phrases marketing sur les slides de présentation du projet aux investisseurs. Pas un
-centime d’argent public dans le projet. Plusieurs millions de dollars de lobbying pour
+phrases marketing sur les slides de présentation du projet aux investisseurs. Des
+millions d’argent public détournés vers le projet. D'autres millions en lobbying pour
 l’autoriser. Gül avait été rencardée par son amie Gifty, ingénieure en chef sur la
 conception du robot prospecteur, sur le fait que le mille-feuille organisationnel était
 si opaque, et chaque entreprise si obsédée par l’idée de minimiser son investissement
