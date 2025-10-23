@@ -23,6 +23,6 @@ pire par omission. Elle n’avait jamais reçu d’instructions sur ce qu’elle
 mais elle était là, à jouer avec le robot qui côtoyait les fonds marins, payée chaque
 jour rubis sur l’ongle. Elle savait que son pilotage était utilisé comme base pour
 entraîner une IA qui la remplacerait, et s’employait donc à être le plus inefficace
-possible pour retarder ce moment, tout en dérangeant le moins possible les habitants des
-lieux. Elle passait donc ses journées à déplacer des cailloux pour écrire, lettre par
-lettre, de la poésie sur les fonds marins.
+possible pour retarder ce moment, tout en dérangeant le moins possible les habitants
+sous-marins. Elle passait donc ses journées à déplacer des cailloux pour écrire, lettre
+par lettre, de la poésie sur les fonds marins.
