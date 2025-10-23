@@ -5,7 +5,7 @@ date: "2025-10-25"
 
 La tête de Yetunde tournait, son esprit flottait, elle avait mal partout. Une sacrée
 chute dans l'escalier en glissant sur la deuxième marche. Elle aurait définitivement dû
-mettre des meilleures chaussures pour descendre dans la cave. Elle se releva tant bien
+mettre de meilleures chaussures pour descendre dans la cave. Elle se releva tant bien
 que mal dans l'obscurité et commença à avancer à tâtons en cherchant la lumière. Une
 sensation bizarre la traversait. Son corps était différent. Quand elle commença à
 entendre des cris, sentir une chaleur intense et une odeur de chair grillée, elle
