@@ -1,7 +1,7 @@
 ---
-date: "2025-10-28"
+date: "2025-10-27"
 ---
-# 28 - Oignon
+# 27 - Oignon
 
 Le grand patron du consortium Absolute avait été très clair dans le message
 pré-enregistré de quatorze minutes que tous les employés devaient regarder à l’embauche
