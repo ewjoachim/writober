@@ -18,6 +18,6 @@ enfers, et il fallait s'occuper d'eux pour l'éternité, et c'était long et enn
 Simultanément, le nombre d'humains vivants sur Terre avait drastiquement diminué, et
 pour vivre à la surface, les démons avaient besoin d'un humain à posséder. Les quelques
 humains restants appartenaient à une minorité de riches démons, qui les louaient, et le
-marché était florissant. Elspeth reprit son travail, tout en revoyant à la baisse les
-critères des alertes sur l'application, elle fouettait distraitement de l'autre main des
-âmes de damnés qui criaient.
+marché était florissant. Elspeth reprit donc son travail, tout en revoyant à la baisse
+les critères des alertes sur l'application, elle fouettait distraitement de l'autre main
+des âmes damnées qui criaient.
