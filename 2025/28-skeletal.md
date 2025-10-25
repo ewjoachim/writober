@@ -5,7 +5,8 @@ date: "2025-10-28"
 
 Pour beaucoup de chanceuses et chanceux, la fête des morts était surtout une fête. Des
 costumes de squelettes et du maquillage, des couleurs, des crânes décorés, de la danse
-et beaucoup de musique. Des rues pleines d'animation, de bonnes odeurs, de vie. Pour
+et beaucoup de musique. Des rues pleines d'animation, de bonnes odeurs. On jouait avec
+la mort pour se rappeler qu'on était en vie, pour exorciser les pensées macabres. Pour
 toutes celles et ceux qui avaient perdu un être cher, c'était surtout l'occasion
 annuelle d'accomplir le rituel pour échanger quelques mots avec leurs disparus. Certains
 se donnaient des nouvelles, échangeaient des banalités ou du support émotionnel avec
