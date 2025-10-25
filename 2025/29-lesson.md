@@ -23,5 +23,5 @@ au bout de six métacycles, que ça fait quatre-vingt orbites autour de leur ét
 ont inventé le gépété (rires réprimés des enfants qui font des bruits avec leur bouche
 pour illustrer le mot, protestation de Clémentine, qui reprend rapidement), et du coup
 ils parlaient tous au gépété et plus entre eux, et du coup les maraudeurs ils les ont
-tous mangés et depuis, y a plus que les animaux et les plantes et du coup on a chassé
-les maraudeurs et on a une toute nouvelle planète pour nous!
+tous mangés et depuis, y a plus que les autres animaux et les plantes et du coup on a
+chassé les maraudeurs et on a une toute nouvelle planète pour nous!
