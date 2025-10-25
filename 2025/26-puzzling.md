@@ -28,5 +28,5 @@ petite barrière, et pendant qu'elle reprend sa marche, soulagée, il demande: a
 Elle désigne son nez. Portant le papier à ses narines, il sent ce mélange de pommes et
 d'épices, cette odeur sucrée, il revoit la vieille Zuleika et ses fameuses tartes
 qu'elle vend au marché. Il repense à la petite fille qui jouait autour de l'étal, qu'il
-n'a pas revu depuis plusieurs décennies quand ses parents ont émigré. Il crie à Zeynep:
-passe-lui le bonjour ! Elle s'éloigne, en riant.
+n'a pas revu depuis vingt ans quand ses parents ont émigré. Il crie à Zeynep: passe-lui
+le bonjour ! Elle s'éloigne, en riant.
