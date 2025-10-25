@@ -17,7 +17,7 @@ d'envoyer une large proportion des humains dans l'au-delà, nombre d'entre eux a
 enfers, et il fallait s'occuper d'eux pour l'éternité, et c'était long et ennuyeux.
 Simultanément, le nombre d'humains vivants sur Terre avait drastiquement diminué, et
 pour vivre à la surface, les démons avaient besoin d'un humain à posséder. Les quelques
-humains restants appartenaient à une minorité de riches démons, qui les louaient, et le
-marché était florissant. Elspeth reprit donc son travail, tout en revoyant à la baisse
-les critères des alertes sur l'application, elle fouettait distraitement de l'autre main
+humains restants étaient mis en location par une minorité de riches démons, et le marché
+était florissant. Elspeth reprit donc son travail, tout en revoyant à la baisse les
+critères des alertes sur l'application. De l'autre main, elle fouettait distraitement
 des âmes damnées qui criaient.
