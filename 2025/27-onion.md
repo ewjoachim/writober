@@ -9,7 +9,7 @@ et à nouveau tous les ans: pour que la multinationale fonctionne à tous les ni
 était impératif, je répète, im-pé-ra-tif, que chacun respecte son rang et ne participe
 pas à désorganiser l’entreprise. Celle-ci avait une structure hiérarchique parfaitement
 logique et adaptée, en oignon, où chaque employé n’échangeait qu’avec son propre
-manager. Cette règle ne souffrait aucune exception avait permis de développer dans
+manager. Cette règle qui ne souffrait aucune exception avait permis de développer dans
 l’entreprise des synergies exceptionnelles, ouvrant la voie à des accords qui avaient
 libéré l’entreprise des carcans du code du travail pour le faire rentrer de plain-pied
 dans l’ère moderne, en la préservant du développement de structures anarchistes comme
