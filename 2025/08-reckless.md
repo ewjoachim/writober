@@ -7,10 +7,10 @@ Pendant longtemps, la science-fiction avait imaginé qu’une fois le voyage dan
 inventé, on tournerait un bouton sur une machine et on serait transporté à la période
 voulue. Il n’en était rien. Il se trouve qu'après des millénaires de perfectionnement du
 tir à l’arc en trois dimensions, on avait découvert un procédé pour orienter les flèches
-différemment dans la quatrième dimension, permettant à celles-ci de se déplacer
-différemment à travers le temps, et en particulier dans le passé. Pour visiter un point
-de l’espace-temps, il fallait tirer sa flèche sur une distance d’autant plus longue
-qu’on voulait que la flèche voyage loin dans le passé, chaque mètre supplémentaire
+dans la quatrième dimension, permettant à celles-ci de se déplacer
+dans le passé. Si l'on voulait que la 
+flèche parte vers le passé, il fallait la tirer sur une distance d’autant plus longue
+qu’on voulait qu'elle voyage loin, chaque mètre supplémentaire
 ajoutant environ dix ans au voyage temporel. Pendant le vol de la flèche, et à mesure
 qu'elle rembobinait dans le passé, elle s’arrêterait dès que sa position
 spatio-temporelle coïncidait avec un objet solide. Atteindre sa cible demandait donc à
