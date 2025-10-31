@@ -3,7 +3,7 @@ date: "2025-10-31"
 ---
 # 31 - Prix
 
-Erina tournait la molette du petit appareil dans ses mais et, à chaque cran, la scène
+Erina tournait la molette du petit appareil dans ses mains et, à chaque cran, la scène
 changeait légèrement. Mais invariablement, elle était assise dans la salle et regardait
 un physicien recevoir le prix Nobel. C'était une profonde injustice. Elle méritait ce
 prix et elle le savait. Son travail à elle sur les univers parallèles était infiniment
