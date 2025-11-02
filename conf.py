@@ -4,12 +4,15 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
 import sys
+from collections.abc import Iterable
+from typing import Self
 
 import sphinx.application
 import sphinx.environment
 
 sys.path.append(".")
 
+import dataclasses
 import datetime
 import pathlib
 
@@ -36,21 +39,65 @@ extensions = ["myst_parser", "sphinxfeed", "sphinxext.opengraph"]
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", ".venv", "CONTRIBUTING.md"]
 
-# Assume we're in the correct timezone
-today_date = datetime.date.today()
-# Exclude all future pages
-if today_date.month == inktober_month:
-    exclude_patterns.extend(
-        f"{today_date.year}/{i:02}-*.md"
-        for i in range(today_date.day + 1, inktober_days + 1)
-    )
 
-# Exclude empty ones
-exclude_patterns.extend(
-    str(p.relative_to(pathlib.Path.cwd()))
-    for p in pathlib.Path.cwd().glob("20*/*-*.md")
-    if p.read_text().strip().splitlines()[-1].startswith("#")
-)
+class NotADay(Exception):
+    pass
+
+
+@dataclasses.dataclass
+class Day:
+    day: int
+    year: int
+    original_prompt: str
+
+    @classmethod
+    def from_path(cls, path: pathlib.Path) -> Self:
+        return cls.from_docname(f"{path.parent.name}/{path.stem}")
+
+    @classmethod
+    def from_docname(cls, docname: str) -> Self:
+        if "/" not in docname:
+            raise NotADay
+        year, day_title = docname.split("/", 1)
+        if "-" not in day_title:
+            raise NotADay
+        day, word = day_title.split("-", 1)
+        return cls(day=int(day), year=int(year), original_prompt=word)
+
+    @classmethod
+    def get_all(cls) -> Iterable[Self]:
+        here = pathlib.Path.cwd()
+        for path in here.glob("20*/*-*.md"):
+            yield cls.from_path(path.relative_to(here))
+
+    @property
+    def docname(self) -> str:
+        return f"{self.year}/{self.day:02}-{self.original_prompt}"
+
+    @property
+    def date(self) -> datetime.date:
+        return datetime.date(self.year, inktober_month, self.day)
+
+    @property
+    def path(self) -> pathlib.Path:
+        return pathlib.Path.cwd() / f"{self.docname}.md"
+
+
+def get_excluded_days() -> Iterable[str]:
+    # Assume we're in the correct timezone
+    today_date = datetime.date.today()
+    # Exclude all future pages
+    if today_date.month == inktober_month:
+        for i in range(today_date.day + 1, inktober_days + 1):
+            yield f"{today_date.year}/{i:02}-*.md"
+
+    # Exclude empty ones
+    for day in Day.get_all():
+        if day.path.read_text().strip().splitlines()[-1].startswith("#"):
+            yield day.docname
+
+
+exclude_patterns.extend(get_excluded_days())
 
 language = "fr"
 
@@ -98,15 +145,13 @@ def add_date(
     env: sphinx.environment.BuildEnvironment,
 ):
     for docname in env.tocs:
-        if "/" not in docname:
+        try:
+            day = Day.from_docname(docname)
+        except NotADay:
             continue
-        year, day_title = docname.split("/", 1)
-        if "-" not in day_title:
-            continue
-        day, word = day_title.split("-", 1)
         metadata = env.metadata[docname]
-        metadata["date"] = f"{year}/{inktober_month}/{day}"
-        metadata["original_prompt"] = word
+        metadata["date"] = str(day.date)
+        metadata["day"] = dataclasses.asdict(day)
         yield docname
 
 

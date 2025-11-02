@@ -1,4 +1,4 @@
-# 23 - ...
+# 23 - Oxyde
 
 Quand, sur la console, les voyants liés aux capteurs de surface s’allumèrent tous
 simultanément, simulant un kaléidoscope au plafond de la pièce mal éclairée, Waverly ne
@@ -26,8 +26,6 @@ prévoir leur contre-attaque et en réalité, la plupart étaient assez confiant
 qu’ils croyaient pouvoir se transformer en d’hypothétiques soldats surentraînés animés
 d’un feu sacré pour défendre leur planète natale, mais c’était la planète elle-même qui
 avait déjà entrepris d’organiser leur défense. Chaque jour, les mastodontes en fer nés
-au cœur des tempêtes d’acide sulfurique tombaient sous les assauts de l’oxygène et de
-l’eau, encore quelques mois et les plus coriaces, les plus entraînés d’entre eux ne
-seraient, comme tous les autres, plus qu’un tas de rouille.
-
-*Titre: Rouille*
+au cœur des tempêtes d’acide sulfurique vénusiennes tombaient sous les assauts de
+l’oxygène et de l’eau, encore quelques mois et les plus coriaces, les plus entraînés
+d’entre eux ne seraient, comme tous les autres, plus qu’un tas de rouille.
