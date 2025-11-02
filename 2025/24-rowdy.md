@@ -1,6 +1,3 @@
----
-date: "2025-10-24"
----
 # 24 - Hooligan
 
 Xóchitl aimait la castagne. Elle aimait casser, que ce soit des choses ou des gens. Elle

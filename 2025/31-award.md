@@ -1,6 +1,3 @@
----
-date: "2025-10-31"
----
 # 31 - Prix
 
 Erina tournait la molette du petit appareil dans ses mains et, à chaque cran, la scène

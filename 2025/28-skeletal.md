@@ -1,6 +1,3 @@
----
-date: "2025-10-28"
----
 # 28 - Squelettique
 
 Pour beaucoup de chanceuses et chanceux, la fête des morts était surtout une fête. Des

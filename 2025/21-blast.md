@@ -1,6 +1,3 @@
----
-date: "2025-10-21"
----
 # 21 - Explosion
 
 C'est le tour d'Urtė. Dans l'univers de son adversaire, le voyage intersidéral est

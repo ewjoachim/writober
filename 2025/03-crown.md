@@ -1,6 +1,3 @@
----
-date: "2025-10-03"
----
 # 03 - Couronne
 
 Calanthe était assise sur le trône, son cœur battait la chamade. Les musiciens royaux

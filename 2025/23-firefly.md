@@ -1,6 +1,3 @@
----
-date: "2025-10-23"
----
 # 23 - Lam-pire
 
 Sous la vive lumière du rayon éclairage, Willeke retourna la boite dans tous les sens

@@ -1,6 +1,3 @@
----
-date: 2025-10-01
----
 # 01 - Moustache
 
 Ailani caressait doucement derrière les oreilles d’Athena qui ronronnait en se léchant

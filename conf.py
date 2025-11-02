@@ -5,6 +5,9 @@
 
 import sys
 
+import sphinx.application
+import sphinx.environment
+
 sys.path.append(".")
 
 import datetime
@@ -19,6 +22,12 @@ project = "Ewjoachim's Writober Journal"
 copyright = "2024- Joachim Jablon - CC-BY-SA-NC"
 author = "Joachim Jablon"
 
+# Change this when inktober is moved to another month
+inktober_month = 10
+inktober_days = (
+    datetime.date(2000, (inktober_month) % 12 + 1, 1) - datetime.timedelta(days=1)
+).day
+
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
@@ -30,16 +39,17 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", ".venv", "CONTRIBUTING.m
 # Assume we're in the correct timezone
 today_date = datetime.date.today()
 # Exclude all future pages
-if today_date.month == 10:
+if today_date.month == inktober_month:
     exclude_patterns.extend(
-        f"{today_date.year}/{i:02}-*.md" for i in range(today_date.day + 1, 32)
+        f"{today_date.year}/{i:02}-*.md"
+        for i in range(today_date.day + 1, inktober_days + 1)
     )
 
 # Exclude empty ones
 exclude_patterns.extend(
     str(p.relative_to(pathlib.Path.cwd()))
     for p in pathlib.Path.cwd().glob("20*/*-*.md")
-    if p.read_text().strip().splitlines()[0].startswith("#")
+    if p.read_text().strip().splitlines()[-1].startswith("#")
 )
 
 language = "fr"
@@ -83,5 +93,23 @@ feed_field_name = "date"
 ogp_site_url = base_url
 
 
-def setup(app):
+def add_date(
+    app: sphinx.application.Sphinx,
+    env: sphinx.environment.BuildEnvironment,
+):
+    for docname in env.tocs:
+        if "/" not in docname:
+            continue
+        year, day_title = docname.split("/", 1)
+        if "-" not in day_title:
+            continue
+        day, word = day_title.split("-", 1)
+        metadata = env.metadata[docname]
+        metadata["date"] = f"{year}/{inktober_month}/{day}"
+        metadata["original_prompt"] = word
+        yield docname
+
+
+def setup(app: sphinx.application.Sphinx):
     app.connect("generate-social-card", generate_card.generate_card)
+    app.connect("env-updated", add_date)

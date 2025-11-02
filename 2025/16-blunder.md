@@ -1,6 +1,3 @@
----
-date: "2025-10-16"
----
 # 16 - Gaffe
 
 Bruit sourd. Bris. Silence. Tous les regards se retournent vers Pervin. Son quotidien.

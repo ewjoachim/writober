@@ -1,6 +1,3 @@
----
-date: 2024-10-18
----
 # 17&18 - Journal, Conduite
 
 Un tube de rock relativement insipide absorbait une partie du silence, le vrombissement

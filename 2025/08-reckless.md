@@ -1,6 +1,3 @@
----
-date: "2025-10-08"
----
 # 08 - Impé-tueuse
 
 Pendant longtemps, la science-fiction avait imaginé qu’une fois le voyage dans le temps

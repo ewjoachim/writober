@@ -1,6 +1,3 @@
----
-date: "2025-10-14"
----
 # 14 - Coffre
 
 En plongeant sa lame aiguisée dans le monstre qui l'attaquait, Nilay s'écria "Satanées

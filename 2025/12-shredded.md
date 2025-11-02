@@ -1,6 +1,3 @@
----
-date: "2025-10-12"
----
 # 12 - Déchiqueté
 
 Depuis la fuite de données au laboratoire l'an dernier, et du fait de la criticité des

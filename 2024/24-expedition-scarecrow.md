@@ -1,6 +1,3 @@
----
-date: 2024-10-25
----
 # 24&25 - Expédition, Epouvantail
 
 À bord de la frégate Victoria, la capitaine Ximena Fuentes fignolait les dernières

@@ -1,6 +1,3 @@
----
-date: "2025-10-17"
----
 # 17 - Orné
 
 La parure était magnifique. Au centre, un topaze étincelant, orné d’or et d’argent,

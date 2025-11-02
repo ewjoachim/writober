@@ -1,6 +1,3 @@
----
-date: "2025-10-18"
----
 # 18 - Marché
 
 Cette nuit, Ruslana et Raleigh sont assises sur le bord du lit, éclairées par la seule

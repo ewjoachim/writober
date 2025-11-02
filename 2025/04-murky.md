@@ -1,6 +1,3 @@
----
-date: "2025-10-04"
----
 # 04 - Ténébreux
 
 Assise à la fenêtre de son manoir, sous la lumière de la pleine lune, Dervla

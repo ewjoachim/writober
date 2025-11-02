@@ -1,6 +1,3 @@
----
-date: 2024-10-12
----
 # 12 - Remote
 
 Lemoniá entama, modérément enthousiaste, le troisième mois de présence dans son nouveau

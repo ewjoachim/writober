@@ -1,6 +1,3 @@
----
-date: "2025-10-22"
----
 # 22 - Bouton
 
 Viridiana, assise au bureau présidentiel, avait un air grave. Elle rentrait du parlement

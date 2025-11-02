@@ -1,6 +1,3 @@
----
-date: "2025-10-09"
----
 # 09 - Lourd
 
 Les sept membres d'équipage du Starship, vaisseau expérimental sous les ordres de la

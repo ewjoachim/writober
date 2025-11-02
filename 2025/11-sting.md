@@ -1,6 +1,3 @@
----
-date: "2025-10-11"
----
 # 11 - Arnaque
 
 Katja toussota. Autour d'elle, sa famille la regardait avec compassion, profitant des

@@ -1,6 +1,3 @@
----
-date: 2024-10-01
----
 # 01 - Sac à dos
 
 Dans la file d'attente de la sécurité avant la porte d'embarquement, Axelle se demandait

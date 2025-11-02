@@ -1,6 +1,3 @@
----
-date: 2024-10-02
----
 # 02 - Découverte
 
 Un sentiment de solennité emplissait Billie quand la porte de la navette s'ouvrit et

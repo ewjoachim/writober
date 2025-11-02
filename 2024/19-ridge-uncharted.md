@@ -1,6 +1,3 @@
----
-date: 2024-10-20
----
 # 19&20 - Crête, hors des cartes
 
 Après trois jours de randonnée ponctuée d’escalade, Sepideh approchait enfin du sommet.

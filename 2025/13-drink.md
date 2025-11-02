@@ -1,6 +1,3 @@
----
-date: "2025-10-13"
----
 # 13 - Boisson
 
 Maartje était émerveillée par tous les objets qui l'entouraient. Dans cette petite

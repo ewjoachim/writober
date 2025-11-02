@@ -1,6 +1,3 @@
----
-date: "2025-10-10"
----
 # 10 - Balayer
 
 Jagoda s'était levée beaucoup trop tôt ce matin. Elle avait onze galaxies à nettoyer

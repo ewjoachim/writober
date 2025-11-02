@@ -1,6 +1,3 @@
----
-date: "2025-10-29"
----
 # 29 - Leçon
 
 Bien, dit Celeste, l'institutrice. Qui a révisé son cours d'exobiologie ? Moi, moi, moi,

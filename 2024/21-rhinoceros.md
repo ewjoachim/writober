@@ -1,6 +1,3 @@
----
-date: 2024-10-21
----
 # 21 - Rhinocéros
 
 De la colère à l’état pur. En dessous, de la peur. Puis, de la tristesse. Et tout au

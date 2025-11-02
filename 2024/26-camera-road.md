@@ -1,6 +1,3 @@
----
-date: 2024-10-27
----
 # 26&27 - Appareil, Route
 
 Quand Acantha sortit de l’étrange boutique de Madame Zoria, un appareil photo dans les

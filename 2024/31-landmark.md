@@ -1,6 +1,3 @@
----
-date: 2024-10-31
----
 # 31 - Monument
 
 Madame la Maire d'Aigençon sur Laudarque terminait un discours vibrant sur la Science,

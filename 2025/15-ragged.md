@@ -1,6 +1,3 @@
----
-date: "2025-10-15"
----
 # 15 - En lambeaux
 
 Au cœur du centre-ville, le vent matinal sifflait le long des façades. Le lever de

@@ -1,6 +1,3 @@
----
-date: 2025-10-02
----
 # 02 - Tissage
 
 Une vieille femme qui tisse le fil de la vie, de la destinée, de l'âme, quel ennui. La

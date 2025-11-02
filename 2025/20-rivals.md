@@ -1,6 +1,3 @@
----
-date: "2025-10-20"
----
 # 20 - Rivales
 
 Tinashe s'assit et ouvrit son téléphone, comme chaque jour. Elle était maintenant

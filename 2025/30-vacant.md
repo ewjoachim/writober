@@ -1,6 +1,3 @@
----
-date: "2025-10-30"
----
 # 30 - Vacant
 
 Le téléphone d'Elspeth vibra. Elle s'interrompit immédiatement pour vérifier la

@@ -1,6 +1,3 @@
----
-date: "2025-10-27"
----
 # 27 - Oignon
 
 Le grand patron du consortium Absolute avait été très clair dans le message

@@ -1,6 +1,3 @@
----
-date: "2025-10-26"
----
 # 26 - Laisser-Perplexe
 
 Le royaume n'est reconnu par aucune instance officielle, ses quelques kilomètres carrés

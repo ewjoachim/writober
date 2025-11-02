@@ -1,6 +1,3 @@
----
-date: "2025-10-25"
----
 # 25 - Enfer
 
 La tête de Yetunde tournait, son esprit flottait, elle avait mal partout. Une sacrée

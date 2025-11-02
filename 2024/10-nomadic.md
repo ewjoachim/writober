@@ -1,6 +1,3 @@
----
-date: 2024-10-10
----
 # 10 - Nomade
 
 Quand la température commença à grimper, Jitsuko sut qu'il était temps de lever les

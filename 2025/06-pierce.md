@@ -1,6 +1,3 @@
----
-date: "2025-10-06"
----
 # 06 - Percer
 
 Le bruit assourdissant de la perceuse emplit la pièce. Fina approcha doucement

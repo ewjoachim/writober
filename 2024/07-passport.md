@@ -1,6 +1,3 @@
----
-date: 2024-10-07
----
 # 07 - Passeport
 
 Assise sur la chaise particulièrement inconfortable de la petite salle d’attente de la

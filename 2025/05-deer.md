@@ -1,6 +1,3 @@
----
-date: "2025-10-05"
----
 # 05 - Biche
 
 Quand elle eût fini de lire la dernière ligne de la nouvelle, Eirwen ne put s’empêcher

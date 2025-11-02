@@ -1,6 +1,3 @@
----
-date: "2025-10-07"
----
 # 07 - Starfish
 
 Onze. Totalement absurde. Absolument inefficace. C’était le nombre de niveaux de

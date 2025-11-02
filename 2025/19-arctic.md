@@ -1,6 +1,3 @@
----
-date: "2025-10-19"
----
 # 19 - Arctique
 
 Sevilay, assise à son fauteuil, se réchauffait les mains sur sa tasse de thé. Ce n'était

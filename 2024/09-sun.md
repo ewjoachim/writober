@@ -1,6 +1,3 @@
----
-date: 2024-10-09
----
 # 09 - Soleil
 
 Depuis sa plus tendre enfance (soit présentement), Isadora avait toujours voulu visiter
