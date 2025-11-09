@@ -1,0 +1,304 @@
+/* Fonts */
+/* latin-ext */
+@font-face {
+    font-family: "Quicksand";
+    font-style: normal;
+    font-weight: 300 700;
+    font-display: swap;
+    src: url(/_static/quicksand-ext.woff2) format('woff2');
+    unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+    font-family: "Quicksand";
+    font-style: normal;
+    font-weight: 300 700;
+    font-display: swap;
+    src: url(/_static/quicksand.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* latin-ext */
+@font-face {
+    font-family: 'Bitter';
+    font-style: italic;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url(bitter-it-ext.woff2) format('woff2');
+    unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+    font-family: 'Bitter';
+    font-style: italic;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url(bitter-it.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* latin-ext */
+@font-face {
+    font-family: 'Bitter';
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url(bitter-ext.woff2) format('woff2');
+    unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+    font-family: 'Bitter';
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url(bitter.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* Background and text */
+html {
+    background-color: hsl(0, 0%, 10%);
+    color: #ced6dd;
+}
+
+body {
+    font-size: 18px;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 400;
+    line-height: 1.65;
+    margin: 0 0 3em 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: "Bitter", sans-serif;
+    font-size: 2.5rem;
+    font-weight: 500;
+    margin: 0;
+}
+
+a {
+    color: inherit;
+}
+
+
+/* Layout */
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.markdown-block {
+    max-width: 850px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.markdown-line {
+    flex-basis: 4px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    margin-right: 30px;
+}
+
+
+.markdown a {
+    color: #e89217;
+}
+
+#menu {
+    width: 100%;
+}
+
+.svg-button {
+    margin: 1em;
+    cursor: pointer;
+}
+
+#burger {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+
+#burger line {
+    transition:
+        transform 0.4s ease,
+        opacity 0.4s ease;
+    transform-origin: center;
+}
+
+.menu-open #burger .top-bar {
+    transform: rotate(45deg) translateY(-.375em);
+}
+
+.menu-open #burger .middle-bar {
+    opacity: 0;
+}
+
+.menu-open #burger .bottom-bar {
+    transform: rotate(-45deg) translateY(.375em);
+}
+
+
+#menu-content {
+    width: 100%;
+    height: calc(100vh - 1.6em);
+    position: fixed;
+    top: 0;
+    overflow-y: scroll;
+    background-color: hsl(0, 0%, 10%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: top .3s;
+    top: -100%;
+}
+
+.menu-open #menu-content {
+    top: 0;
+}
+
+.gradient-hover {
+    background: hsl(0, 0%, 10%, 0);
+    transition: background 0.2s;
+}
+
+.gradient-hover:hover {
+    background: linear-gradient(-40deg, hsl(0, 0%, 12%) 0%, hsl(0, 0%, 15%) 50%, hsl(0, 0%, 20%) 100%);
+}
+
+nav {
+    max-width: 1000px;
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+
+}
+
+
+.toc-year {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 50px;
+
+}
+
+@media screen and (min-width: 60rem) {
+    .toc-year {
+        display: grid;
+        grid-gap: 1em;
+        grid-template-columns: repeat(auto-fit, minmax(min(100%, max(100px, 100%/8)), 1fr));
+    }
+}
+
+.day {
+    padding: 1em;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.day.empty {
+    display: none;
+}
+
+@media screen and (min-width: 60rem) {
+    .day.empty {
+        display: block;
+    }
+}
+
+.day.full {
+    border-radius: .3em;
+}
+
+.day.full.double {
+    grid-column: span 2;
+}
+
+a.day.full {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+
+.day .number {
+    font-size: 2.5em;
+    display: block;
+    font-family: "Bitter", sans-serif;
+
+}
+
+.day .number span {
+    text-decoration-line: underline;
+
+}
+
+.day .title {
+    font-size: .9em;
+    white-space: normal;
+    display: inline-block;
+    width: 100%;
+    line-height: 110%;
+    margin-top: .1em;
+    font-weight: 500;
+}
+
+.day .original-prompt {
+    opacity: 0;
+    transition: opacity .2s;
+    font-size: .65em;
+    font-style: italic;
+    display: block;
+    line-height: 110%;
+
+}
+
+.day:hover .original-prompt {
+    opacity: 1;
+}
+
+#prev-next-links {
+    margin-top: 40px;
+    width: 100%;
+    max-width: 850px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#year-links {
+    margin-top: 40px;
+    width: 100%;
+    max-width: 850px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    background-color: hsl(0, 0%, 10%);
+    margin-top: 50px;
+    color: #404040;
+    font-size: 0.9em;
+    padding: .3em 0;
+    width: 100%;
+    text-align: center;
+}

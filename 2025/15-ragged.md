@@ -1,4 +1,4 @@
-# 15 - En lambeaux
+# 15 - Lambeaux
 
 Au cœur du centre-ville, le vent matinal sifflait le long des façades. Le lever de
 soleil dans le ciel clair traversait la petite rue et illuminait les mannequins en

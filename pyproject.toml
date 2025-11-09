@@ -1,23 +1,70 @@
+[build-system]
+requires = ["uv_build>=0.9.8,<0.10.0"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-root = ""
+
 [project]
 name = "writober"
 version = "0.1.0"
-description = "Add your description here"
+description = "Python site generator for Writober (Inktober-prompted flash fiction)"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.14"
 dependencies = [
-    "brotli>=1.1.0",
-    "flowmark>=0.5.3",
+    "htpy>=25.10.0",
+    # Social cards:
+    "brotli>=1.1.0",     # for fonts
     "fonttools>=4.60.1",
-    "myst-parser>=4.0.1",
     "pillow>=11.3.0",
-    "sphinx>=8.2.3",
-    "sphinx-book-theme>=1.1.4",
-    "sphinxext-opengraph[social-cards]>=0.13.0",
-    "sphinxfeed-lsaffre>=0.3.5",
+    # RSS:
+    "feedgen>=1.0.0",
+    "markdown>=3.10",
+    "python-frontmatter>=1.1.0",
+    "numpy>=2.3.4",
 ]
+[project.scripts]
+writober = "writober.__main__:main"
 
 [dependency-groups]
-dev = ["ruff>=0.13.3"]
+dev = [
+    "fastapi>=0.121.0",
+    "pdbpp>=0.11.7",
+    "uvicorn>=0.38.0",
+    "watchfiles>=1.1.1",
+    "websockets>=15.0.1",
+]
+lint = ["ruff>=0.13.3", "flowmark>=0.5.3"]
 
-[tool.uv.sources]
-sphinxext-opengraph = { git = "https://github.com/ewjoachim/sphinxext-opengraph", branch = "customize-social-card" }
+[tool.writober]
+site_name = "Le Journal de Writober d'Ewjoachim"
+description = "Une nouvelle par jour d'octobre sur le thème du mot du jour d'Inktober"
+repository_url = "https://github.com/ewjoachim/writober"
+copyright = "2024- Joachim Jablon - CC-BY-SA-NC"
+author = "Joachim Jablon"
+month = 10
+month_name = "octobre"
+language = "fr"
+base_url = "https://writober.ewjoach.im"
+
+[tool.basedpyright]
+exclude = [".venv"]
+reportUnknownMemberType = false
+reportUnusedCallResult = false
+reportAny = false
+reportExplicitAny = false
+reportUnreachable = false
+
+
+[tool.ruff.lint]
+extend-select = [
+    "UP",  # pyupgrade
+    "I",   # isort
+    "E",   # pycodestyle errors
+    "W",   # pycodestyle warnings
+    "RUF", # ruff
+]
+fixable = ["ALL"]
+extend-ignore = [
+    "E501", # line too long
+]
