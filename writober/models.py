@@ -197,9 +197,6 @@ class Writing:
                 title=title,
             )
 
-    def get_repository_url_path(self):
-        return f"blob/HEAD/{self.md_path}"
-
     def social_preview_filename(self, signature: str) -> str:
         return str(self.path(f"{signature}.png")).replace("/", "-")
 
@@ -256,7 +253,7 @@ class PageMetadata:
     url_path: str | None
     description: str
     social_preview_path: pathlib.Path
-    repository_url_path: str
+    repository_url_path: pathlib.Path
 
 
 @dataclasses.dataclass

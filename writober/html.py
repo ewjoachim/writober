@@ -23,7 +23,7 @@ def layout(
     repository_url = (
         settings.repository_url.rstrip("/")
         + "/"
-        + (page_metadata.repository_url_path or "")
+        + (str(page_metadata.repository_url_path))
     )
 
     return h.html(lang=settings.language)[
@@ -273,7 +273,7 @@ def writing_page(
         url_path=str(writing.html_path),
         description=writing.excerpt(),
         social_preview_path=social_preview_path,
-        repository_url_path=writing.get_repository_url_path(),
+        repository_url_path=utils.get_github_path_for_file(writing.md_path),
     )
     links = []
     prev_day = utils.get_prev(obj=writing, iterable=writings[writing.year])
@@ -327,7 +327,7 @@ def index_page(
         url_path="/",
         description=markdown_file.excerpt(),
         social_preview_path=social_preview_path,
-        repository_url_path="README.md",
+        repository_url_path=utils.get_github_path_for_file(markdown_file.md_path),
     )
 
     return settings_context.provider(

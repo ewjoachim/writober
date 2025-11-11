@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import functools
 import itertools
+import pathlib
 from collections.abc import Iterable
 
 import bs4
@@ -52,3 +53,7 @@ def get_next[T](obj: T, iterable: Iterable[T]) -> T | None:
         if current is obj:
             return next
     return None
+
+
+def get_github_path_for_file(file: pathlib.Path) -> pathlib.Path:
+    return "blob/HEAD" / file
