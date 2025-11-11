@@ -78,7 +78,11 @@ def head(
             ),
             social_preview_meta(),
             h.title[" — ".join(title_elements)],
-            h.link(rel="stylesheet", type="text/css", href="/_static/style.css"),
+            h.link(
+                rel="stylesheet",
+                type="text/css",
+                href=f"/_static/style.css?{utils.cache_bust()}",
+            ),
             h.link(
                 rel="apple-touch-icon",
                 sizes="180x180",

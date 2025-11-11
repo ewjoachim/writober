@@ -3,6 +3,8 @@ from __future__ import annotations
 import functools
 import itertools
 import pathlib
+import random
+import string
 from collections.abc import Iterable
 
 import bs4
@@ -57,3 +59,7 @@ def get_next[T](obj: T, iterable: Iterable[T]) -> T | None:
 
 def get_github_path_for_file(file: pathlib.Path) -> pathlib.Path:
     return "blob/HEAD" / file
+
+
+def cache_bust():
+    return "".join(random.choices(string.digits + string.ascii_letters, k=12))
