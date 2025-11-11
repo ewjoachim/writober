@@ -36,7 +36,7 @@ def layout(
                     f"{settings.copyright} | ",
                     h.a(href=(repository_url))["GitHub"],
                     " | ",
-                    h.a(href=("/feed.atom"))["Feed"],
+                    h.a(href=(f"/{settings.atom_path}"))["Feed"],
                 ],
             ],
             burger(),
@@ -111,7 +111,7 @@ def head(
                 rel="alternate",
                 type="application/atom+xml",
                 title="Atom",
-                href=f"{settings.base_url}/atom.xml",
+                href=f"{settings.base_url / settings.atom_path}",
             ),
         ],
     )

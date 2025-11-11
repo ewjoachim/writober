@@ -17,6 +17,7 @@ class Feed:
         self.feed_gen.subtitle(settings.description)
         self.feed_gen.language(settings.language)
         self.timezone: str = settings.timezone
+        self.atom_path: pathlib.Path = settings.atom_path
 
     def add_entry(self, id: str, title: str, link: str, date: datetime.date):
         entry = self.feed_gen.add_entry()  # pyright: ignore[reportUnknownVariableType]
@@ -33,4 +34,4 @@ class Feed:
         contents: bytes = self.feed_gen.atom_str(  # pyright: ignore[reportUnknownVariableType]
             pretty=True
         )  # Get the ATOM feed as string
-        return models.BytesArtifact(path=pathlib.Path("feed.atom"), contents=contents)  # pyright: ignore[reportUnknownArgumentType]
+        return models.BytesArtifact(path=self.atom_path, contents=contents)  # pyright: ignore[reportUnknownArgumentType]

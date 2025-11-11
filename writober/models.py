@@ -232,6 +232,7 @@ class Settings:
     html_logo: pathlib.Path = pathlib.Path(
         "writober/static/_static/android-chrome-512x512.png"
     )
+    atom_path = pathlib.Path("feed.atom")
 
     @classmethod
     def from_pyproject(cls, args: Args) -> Self:
