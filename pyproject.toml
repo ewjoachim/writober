@@ -47,6 +47,51 @@ month_name = "octobre"
 language = "fr"
 base_url = "https://writober.ewjoach.im"
 timezone = "Europe/Paris"
+colors = [
+    "#dd3300",
+    "#f46101",
+    "#f9980d",
+    "#f4ca26",
+    "#c0de48",
+    "#77e173",
+    "#31c8a7",
+    "#de3e02",
+    "#f47504",
+    "#fdad16",
+    "#fddc41",
+    "#dbf172",
+    "#9df1a3",
+    "#4bcac3",
+    "#da340c",
+    "#f36710",
+    "#fba921",
+    "#f9df4c",
+    "#c4f383",
+    "#82f1af",
+    "#3ac5c8",
+    "#ce2619",
+    "#f24d17",
+    "#f88220",
+    "#f9be4a",
+    "#b4be9b",
+    "#62ccc0",
+    "#29abcd",
+    "#bf1424",
+    "#e22014",
+    "#e84a31",
+    "#e47178",
+    "#9d69bb",
+    "#4b73d5",
+    "#156bce",
+    "#901653",
+    "#ae183e",
+    "#b02b56",
+    "#ad4084",
+    "#773fae",
+    "#3d40c1",
+    "#153db7",
+]
+index_colors = ["#fdad16", "#9df1a3", "#3ac5c8", "#ae183e"]
 
 [tool.basedpyright]
 exclude = [".venv"]

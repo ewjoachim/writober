@@ -19,55 +19,9 @@ from . import utils
 @dataclasses.dataclass
 class Prompt:
     day_number: int
-    color: str
+    color_index: int
     title: str
     original_prompt: str
-
-
-COLORS = [
-    "#dd3300",
-    "#f46101",
-    "#f9980d",
-    "#f4ca26",
-    "#c0de48",
-    "#77e173",
-    "#31c8a7",
-    "#de3e02",
-    "#f47504",
-    "#fdad16",
-    "#fddc41",
-    "#dbf172",
-    "#9df1a3",
-    "#4bcac3",
-    "#da340c",
-    "#f36710",
-    "#fba921",
-    "#f9df4c",
-    "#c4f383",
-    "#82f1af",
-    "#3ac5c8",
-    "#ce2619",
-    "#f24d17",
-    "#f88220",
-    "#f9be4a",
-    "#b4be9b",
-    "#62ccc0",
-    "#29abcd",
-    "#bf1424",
-    "#e22014",
-    "#e84a31",
-    "#e47178",
-    "#9d69bb",
-    "#4b73d5",
-    "#156bce",
-    "#901653",
-    "#ae183e",
-    "#b02b56",
-    "#ad4084",
-    "#773fae",
-    "#3d40c1",
-    "#153db7",
-]
 
 
 @dataclasses.dataclass
@@ -97,6 +51,14 @@ class MarkdownFile:
     @property
     def title(self) -> str:
         return self.title_elements[-1]
+
+
+@dataclasses.dataclass
+class Colors:
+    colors: list[str]
+
+    def __getitem__(self, i: int):
+        return self.colors[i % len(self.colors)]
 
 
 @dataclasses.dataclass
@@ -192,7 +154,7 @@ class Writing:
         ):
             yield Prompt(
                 day_number=day_number,
-                color=COLORS[day_number + first - 1],
+                color_index=(day_number + first - 1),
                 original_prompt=original_prompt.title(),
                 title=title,
             )
@@ -224,6 +186,8 @@ class Settings:
     build_dir: pathlib.Path
     until: datetime.date
     timezone: str
+    colors: Colors
+    index_colors: list[str]
     inject_hot_reload_js: bool = False
     social_preview_width: int = 1200
     social_preview_height: int = 630
@@ -236,8 +200,10 @@ class Settings:
     @classmethod
     def from_pyproject(cls, args: Args) -> Self:
         pyproject = pathlib.Path("pyproject.toml")
+        pyprojects_settings = tomllib.loads(pyproject.read_text())["tool"]["writober"]
+        pyprojects_settings["colors"] = Colors(pyprojects_settings["colors"])
         settings = cls(
-            **tomllib.loads(pyproject.read_text())["tool"]["writober"],
+            **pyprojects_settings,
             **dataclasses.asdict(args),
         )
         if not settings.until:

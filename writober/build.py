@@ -50,7 +50,7 @@ def writing_artifacts(
         urllib.parse.urlparse(settings.base_url).hostname or "",
         settings.site_name,
     ]
-    colors = [prompt.color for prompt in writing.prompts]
+    colors = [settings.colors[prompt.color_index] for prompt in writing.prompts]
     social_preview_contents = models.SocialPreviewContents(
         top_line=" — ".join(top_line),
         title=writing.title,
@@ -92,7 +92,7 @@ def index_artifacts(
     settings: models.Settings, writings: models.Writings
 ) -> Iterable[models.Artifact]:
     # Diagonal through the rectangle of colors
-    colors = models.COLORS[6::6]
+    colors = settings.index_colors
     social_preview_contents = models.SocialPreviewContents(
         top_line=urllib.parse.urlparse(settings.base_url).hostname or "",
         title=settings.site_name,

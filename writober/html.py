@@ -205,12 +205,12 @@ def nav_year(
                     models.Writing.first_weekday(year=year, month=settings.month)
                 )
             ),
-            (nav_day(day) for day in writings[year]),
+            (nav_day(writing=writing, settings=settings) for writing in writings[year]),
         ],
     ]
 
 
-def nav_day(writing: models.Writing):
+def nav_day(writing: models.Writing, settings: models.Settings):
     return h.a(
         class_=[
             "day",
@@ -224,7 +224,9 @@ def nav_day(writing: models.Writing):
             h.div(".original-prompt")[
                 join(
                     (
-                        h.span({"style": f"color: {p.color}"})[p.original_prompt]
+                        h.span({"style": f"color: {settings.colors[p.color_index]}"})[
+                            p.original_prompt
+                        ]
                         for p in writing.prompts
                     ),
                     ", ",
@@ -236,7 +238,9 @@ def nav_day(writing: models.Writing):
         h.div(".title")[
             join(
                 (
-                    h.span({"style": f"color: {p.color}"})[p.title]
+                    h.span({"style": f"color: {settings.colors[p.color_index]}"})[
+                        p.title
+                    ]
                     for p in writing.prompts
                 ),
                 ", ",
@@ -245,9 +249,11 @@ def nav_day(writing: models.Writing):
         h.div(".number")[
             join(
                 (
-                    h.span({"style": f"text-decoration-color: {p.color}"})[
-                        f"{p.day_number:02}"
-                    ]
+                    h.span(
+                        {
+                            "style": f"text-decoration-color: {settings.colors[p.color_index]}"
+                        }
+                    )[f"{p.day_number:02}"]
                     for p in writing.prompts
                 ),
                 "&",
@@ -284,11 +290,15 @@ def writing_page(
         repository_url_path=utils.get_github_path_for_file(writing.md_path),
     )
     links = []
-    prev_day = utils.get_prev(obj=writing, iterable=writings[writing.year])
-    links.append(nav_day(prev_day) if prev_day else empty_day())
+    if prev_writing := utils.get_prev(obj=writing, iterable=writings[writing.year]):
+        links.append(nav_day(writing=prev_writing, settings=settings))
+    else:
+        links.append(empty_day())
 
-    next_day = utils.get_next(obj=writing, iterable=writings[writing.year])
-    links.append(nav_day(next_day) if next_day else empty_day())
+    if next_writing := utils.get_next(obj=writing, iterable=writings[writing.year]):
+        links.append(nav_day(writing=next_writing, settings=settings))
+    else:
+        links.append(empty_day())
 
     return settings_context.provider(
         settings,
