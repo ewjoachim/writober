@@ -77,14 +77,13 @@ class Writing:
         return cls(date=datetime.date(int(year), month, int(day)), original_prompt=word)
 
     @classmethod
-    def get_all(cls, month: int, until: datetime.date) -> Writings:
-        here = pathlib.Path.cwd()
+    def get_all(cls, settings: Settings) -> Writings:
         result: dict[int, list[Self]] = {}
-        for year_folder in sorted(here.glob("20[0-9][0-9]")):
-            year = int(f"{year_folder.name}")
+        for year in settings.years:
+            year_folder = settings.args.source_dir / f"{year}"
             for path in sorted(year_folder.glob("[0-9][0-9]-*.md")):
-                writing = cls.from_path(path, month=month)
-                if writing.date > until:
+                writing = cls.from_path(path, month=settings.month)
+                if writing.date > settings.until:
                     return result
                 result.setdefault(year, []).append(writing)
 
@@ -191,6 +190,7 @@ class Settings(pydantic.BaseModel):
     author: str
     month: int
     month_name: str
+    years: list[int]
     language: str
     base_url: str
     repository_url: str

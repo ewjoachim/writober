@@ -27,7 +27,7 @@ def build(settings: models.Settings):
 
 
 def get_artifacts(settings: models.Settings) -> Iterable[models.Artifact]:
-    writings = models.Writing.get_all(month=settings.month, until=settings.until)
+    writings = models.Writing.get_all(settings=settings)
     yield from index_artifacts(settings=settings, writings=writings)
     yield from static_artifacts(settings=settings)
     for year_writings in writings.values():
