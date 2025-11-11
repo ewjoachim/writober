@@ -67,23 +67,13 @@ def head(
     if page_metadata.title:
         title_elements.insert(0, page_metadata.title)
 
-    url = settings.base_url.rstrip("/") + "/" + (page_metadata.url_path or "")
-
     return (
         h.head[
             h.meta(charset="utf-8"),
             h.meta(name="viewport", content="width=device-width, initial-scale=1.0"),
             h.meta(name="viewport", content="width=device-width, initial-scale=1"),
-            h.meta(property="og:title", content=page_metadata.title),
-            h.meta(property="og:type", content="website"),
-            h.meta(property="og:url", content=url),
-            h.meta(property="og:site_name", content=settings.site_name),
             h.meta(
                 name="description",
-                content=page_metadata.description,
-            ),
-            h.meta(
-                property="og:description",
                 content=page_metadata.description,
             ),
             social_preview_meta(),
@@ -123,7 +113,17 @@ def social_preview_meta(
     settings: models.Settings,
     page_metadata: models.PageMetadata,
 ):
+    url = f"{settings.base_url}/{page_metadata.url_path or ''}"
+    image = f"{settings.base_url}/{page_metadata.social_preview_path}"
     return [
+        h.meta(property="og:title", content=page_metadata.title),
+        h.meta(property="og:type", content="website"),
+        h.meta(property="og:url", content=url),
+        h.meta(property="og:site_name", content=settings.site_name),
+        h.meta(
+            property="og:description",
+            content=page_metadata.description,
+        ),
         h.meta(property="og:image:width", content=f"{settings.social_preview_width}"),
         h.meta(property="og:image:height", content=f"{settings.social_preview_height}"),
         h.meta(
@@ -134,6 +134,10 @@ def social_preview_meta(
             property="og:image:alt",
             content=page_metadata.description,
         ),
+        h.meta(name="twitter:title", content=page_metadata.title),
+        h.meta(name="twitter:description", content=page_metadata.description),
+        h.meta(name="twitter:image", content=image),
+        h.meta(name="twitter:card", content="summary_large_image"),
     ]
 
 
