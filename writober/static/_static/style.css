@@ -133,8 +133,6 @@ a {
     background-color: hsl(0, 0%, 10%);
     border-radius: .7em;
     line-height: 0;
-
-
 }
 
 
@@ -275,8 +273,6 @@ a.day.full {
 }
 
 .day .original-prompt {
-    opacity: 0;
-    transition: opacity .2s;
     font-size: .65em;
     font-style: italic;
     display: block;
@@ -284,8 +280,15 @@ a.day.full {
 
 }
 
-.day:hover .original-prompt {
-    opacity: 1;
+@media (pointer: fine) {
+    .day .original-prompt {
+        opacity: 0;
+        transition: opacity .2s;
+    }
+
+    .day:hover .original-prompt {
+        opacity: 1;
+    }
 }
 
 #prev-next-links {
