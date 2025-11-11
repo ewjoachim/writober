@@ -81,7 +81,7 @@ def writing_artifacts(
             link=link,
             date=writing.date,
         ),
-        models.TextArtifact(path=writing.html_path, contents=str(renderable)),
+        models.HTMLArtifact(path=writing.html_path, contents=str(renderable)),
         social_preview_artifact(
             contents=social_preview_contents, path=social_preview_path
         ),
@@ -116,7 +116,7 @@ def index_artifacts(
     )
 
     return [
-        models.TextArtifact(path=pathlib.Path("index.html"), contents=str(renderable)),
+        models.HTMLArtifact(path=pathlib.Path("index.html"), contents=str(renderable)),
         social_preview_artifact(
             contents=social_preview_contents, path=social_preview_path
         ),

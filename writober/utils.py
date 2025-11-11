@@ -4,15 +4,16 @@ import functools
 import itertools
 from collections.abc import Iterable
 
+import bs4
+import markdown as markdown_module
+
 
 @functools.cache
 def excerpt(markdown: str, max_length: int = 200) -> str:
-    words = [
-        word.strip()
-        for line in markdown.splitlines()[1:]
-        if line.strip()
-        for word in line.strip().split()
-    ]
+    soup = bs4.BeautifulSoup(markdown_module.markdown(markdown), "html.parser")
+    soup.h1.clear()
+    words = soup.get_text().split()
+
     length = 0
     take_first = 0
     suffix = "…"

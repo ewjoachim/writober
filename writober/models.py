@@ -9,7 +9,9 @@ import pathlib
 import tomllib
 import zoneinfo
 from collections.abc import Iterable, Mapping, Sequence
-from typing import Self
+from typing import Self, override
+
+import bs4
 
 from . import utils
 
@@ -271,6 +273,17 @@ class TextArtifact:
 
 
 @dataclasses.dataclass
+class HTMLArtifact(TextArtifact):
+    path: pathlib.Path
+    contents: str
+
+    @override
+    def write(self, dir: pathlib.Path):
+        self.contents = bs4.BeautifulSoup(self.contents, "html.parser").prettify()
+        super().write(dir=dir)
+
+
+@dataclasses.dataclass
 class BytesArtifact:
     path: pathlib.Path
     contents: bytes
@@ -291,7 +304,7 @@ class FeedEntryArtifact:
     date: datetime.date
 
 
-type Artifact = TextArtifact | BytesArtifact | FeedEntryArtifact
+type Artifact = TextArtifact | HTMLArtifact | BytesArtifact | FeedEntryArtifact
 
 
 @dataclasses.dataclass

@@ -14,6 +14,7 @@ requires-python = ">=3.14"
 dependencies = [
     "htpy>=25.10.0",
     "markdown>=3.10",
+    "beautifulsoup4>=4.14.2",
     # Social cards:
     "brotli>=1.1.0",     # for fonts
     "fonttools>=4.60.1",
