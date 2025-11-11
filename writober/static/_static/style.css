@@ -306,8 +306,14 @@ a.day.full {
     background-color: hsl(0, 0%, 10%);
     margin-top: 50px;
     color: #404040;
-    font-size: 0.9em;
+    font-size: 0.7em;
     padding: .3em 0;
     width: 100%;
     text-align: center;
+}
+
+@media screen and (min-width: 60rem) {
+    .footer {
+        font-size: 0.9em;
+    }
 }
