@@ -30,7 +30,7 @@ class Feed:
             ).isoformat()
         )
 
-    def get_artifact(self) -> models.Artifact:
+    def get_artifact(self) -> models.BytesArtifact:
         contents: bytes = self.feed_gen.atom_str(  # pyright: ignore[reportUnknownVariableType]
             pretty=True
         )  # Get the ATOM feed as string

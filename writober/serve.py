@@ -41,10 +41,11 @@ async def serve_async(settings: models.Settings):
         except fastapi.WebSocketDisconnect:
             pass
 
-    settings.build_dir.mkdir(exist_ok=True, parents=True)
+    settings.args.build_dir.mkdir(exist_ok=True, parents=True)
     app.websocket("/ws")(websocket_endpoint)
     app.mount(
-        "/", fastapi.staticfiles.StaticFiles(directory=settings.build_dir, html=True)
+        "/",
+        fastapi.staticfiles.StaticFiles(directory=settings.args.build_dir, html=True),
     )
 
     async def ping_websocket(file_changes: set[watchfiles.main.FileChange]) -> None:
@@ -74,7 +75,7 @@ async def serve_async(settings: models.Settings):
             watchfiles.arun_process(
                 ".",
                 watch_filter=watchfiles.DefaultFilter(
-                    ignore_paths=[settings.build_dir.absolute()]
+                    ignore_paths=[settings.args.build_dir.absolute()]
                 ),
                 target=functools.partial(build.build, settings=settings),
                 target_type="function",

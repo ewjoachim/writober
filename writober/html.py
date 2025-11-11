@@ -78,37 +78,56 @@ def head(
             ),
             social_preview_meta(),
             h.title[" — ".join(title_elements)],
+            [
+                h.link(
+                    rel="stylesheet",
+                    type="text/css",
+                    href=f"/{settings.build_static_dir}/{extra_css}?{utils.cache_bust()}",
+                )
+                for extra_css in settings.extra_css
+            ],
             h.link(
                 rel="stylesheet",
                 type="text/css",
-                href=f"/_static/style.css?{utils.cache_bust()}",
+                href=f"/{settings.build_static_dir}/style.css?{utils.cache_bust()}",
             ),
-            h.link(
-                rel="apple-touch-icon",
-                sizes="180x180",
-                href="/_static/apple-touch-icon.png",
-            ),
-            h.link(
-                rel="icon",
-                type="image/png",
-                sizes="32x32",
-                href="/_static/favicon-32x32.png",
-            ),
-            h.link(
-                rel="icon",
-                type="image/png",
-                sizes="16x16",
-                href="/_static/favicon-16x16.png",
-            ),
-            h.link(rel="manifest", href="/_static/site.webmanifest"),
+            favicons(),
             h.link(
                 rel="alternate",
                 type="application/atom+xml",
                 title="Atom",
                 href=f"{settings.base_url / settings.atom_path}",
             ),
+            h.style[
+                markupsafe.Markup(f"""
+body {{
+    font-family: {settings.body_font_family};
+}}
+
+h1,
+h2,
+h3,
+h4 {{
+    font-family: {settings.title_font_family};
+}}""")
+            ],
         ],
     )
+
+
+@settings_context.consumer
+def favicons(
+    settings: models.Settings,
+) -> h.Node:
+    return [
+        h.link(
+            rel=icon_link.rel,
+            type=icon_link.type,
+            sizes=icon_link.sizes,
+            href=f"/{icon_link.href}",
+        )
+        for icon_link in settings.icon_links or []
+    ]
 
 
 @page_metadata_context.consumer
@@ -224,9 +243,9 @@ def nav_day(writing: models.Writing, settings: models.Settings):
             h.div(".original-prompt")[
                 join(
                     (
-                        h.span({"style": f"color: {settings.colors[p.color_index]}"})[
-                            p.original_prompt
-                        ]
+                        h.span(
+                            {"style": f"color: {settings.color_cycle[p.color_index]}"}
+                        )[p.original_prompt]
                         for p in writing.prompts
                     ),
                     ", ",
@@ -238,7 +257,7 @@ def nav_day(writing: models.Writing, settings: models.Settings):
         h.div(".title")[
             join(
                 (
-                    h.span({"style": f"color: {settings.colors[p.color_index]}"})[
+                    h.span({"style": f"color: {settings.color_cycle[p.color_index]}"})[
                         p.title
                     ]
                     for p in writing.prompts
@@ -247,17 +266,19 @@ def nav_day(writing: models.Writing, settings: models.Settings):
             )
         ],
         h.div(".number")[
-            join(
-                (
-                    h.span(
-                        {
-                            "style": f"text-decoration-color: {settings.colors[p.color_index]}"
-                        }
-                    )[f"{p.day_number:02}"]
-                    for p in writing.prompts
-                ),
-                "&",
-            )
+            h.h4[
+                join(
+                    (
+                        h.span(
+                            {
+                                "style": f"text-decoration-color: {settings.color_cycle[p.color_index]}"
+                            }
+                        )[f"{p.day_number:02}"]
+                        for p in writing.prompts
+                    ),
+                    "&",
+                )
+            ]
         ],
     ]
 

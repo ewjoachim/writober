@@ -22,6 +22,8 @@ dependencies = [
     "numpy>=2.3.4",
     # RSS:
     "feedgen>=1.0.0",
+    "pydantic>=2.12.4",
+    "pydantic-extra-types>=2.10.6",
 ]
 [project.scripts]
 writober = "writober.__main__:main"
@@ -44,6 +46,7 @@ copyright = "2024- Joachim Jablon - CC-BY-SA-NC"
 author = "Joachim Jablon"
 month = 10
 month_name = "octobre"
+years = [2024, 2025]
 language = "fr"
 base_url = "https://writober.ewjoach.im"
 timezone = "Europe/Paris"
@@ -92,6 +95,18 @@ colors = [
     "#153db7",
 ]
 index_colors = ["#fdad16", "#9df1a3", "#3ac5c8", "#ae183e"]
+icon_links = [
+    { rel = "icon", type = "image/png", sizes = "32x32", href = "favicon-32x32.png" },
+    { rel = "icon", type = "image/png", sizes = "16x16", href = "favicon-16x16.png" },
+    { rel = "apple-touch-icon", sizes = "180x180", href = "apple-touch-icon.png" },
+    { rel = "manifest", href = "site.webmanifest" },
+]
+body_font_family = '''"Quicksand", sans-serif'''
+body_font_file_woff2 = "quicksand.woff2"
+title_font_family = '''"Bitter", sans-serif'''
+title_font_file_woff2 = "bitter.woff2"
+logo = "android-chrome-512x512.png"
+extra_css = ["fonts.css"]
 
 [tool.basedpyright]
 exclude = [".venv"]

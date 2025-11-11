@@ -28,27 +28,27 @@ def generate_social_preview(contents: models.SocialPreviewContents) -> io.BytesI
     image = Image.new(mode="RGBA", size=(1200, 630), color="#1d1d1d")
     draw = ImageDraw.Draw(image)
 
-    bitter = get_ttf_font(pathlib.Path("writober/static/_static/bitter.woff2"))
-    quicksand = get_ttf_font(pathlib.Path("writober/static/_static/quicksand.woff2"))
+    title_font = get_ttf_font(contents.title_font_file_woff2)
+    body_font = get_ttf_font(contents.body_font_file_woff2)
 
-    top_line_font = bitter.font_variant(size=36)
+    top_line_font = title_font.font_variant(size=36)
     top_line_font.set_variation_by_name("SemiBold")
 
-    title_font = bitter.font_variant(size=60)
-    title_font.set_variation_by_name("SemiBold")
+    title_variant = title_font.font_variant(size=60)
+    title_variant.set_variation_by_name("SemiBold")
 
-    text_font = quicksand.font_variant(size=36)
-    text_font.set_variation_by_name("Medium")
+    text_variant = body_font.font_variant(size=36)
+    text_variant.set_variation_by_name("Medium")
 
     draw.text((100, 50), contents.top_line, font=top_line_font, fill="#ced6dd")
-    logo = Image.open(contents.html_logo)
+    logo = Image.open(contents.logo)
     logo = logo.resize((36, 36))
     image.alpha_composite(logo, (55, 50))
 
-    draw.text((100, 150), contents.title, font=title_font, fill="#ced6dd")
+    draw.text((100, 150), contents.title, font=title_variant, fill="#ced6dd")
 
     if date := contents.date:
-        draw.text((100, 220), date, font=text_font, fill="#ced6dd")
+        draw.text((100, 220), date, font=text_variant, fill="#ced6dd")
 
     draw_vertical_gradient(
         image=image, c1=(65, 150), c2=(70, 600), colors=contents.colors
@@ -59,7 +59,7 @@ def generate_social_preview(contents: models.SocialPreviewContents) -> io.BytesI
     text = "\n".join(textwrap.wrap(contents.description, width=char_width))
     lines = text.count("\n") + 1
     height = 36 * lines + 4 * (lines - 1)
-    draw.text((100, 600 - height), text, font=text_font, fill="#ced6dd")
+    draw.text((100, 600 - height), text, font=text_variant, fill="#ced6dd")
 
     bytes_obj = io.BytesIO()
     image.save(bytes_obj, format="png")

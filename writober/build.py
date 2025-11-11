@@ -9,8 +9,8 @@ from . import atom, html, models, social_preview
 
 
 def build(settings: models.Settings):
-    if settings.build_dir.exists():
-        shutil.rmtree(settings.build_dir)
+    if settings.args.build_dir.exists():
+        shutil.rmtree(settings.args.build_dir)
 
     feed = atom.Feed(settings=settings)
     for artifact in get_artifacts(settings=settings):
@@ -22,14 +22,14 @@ def build(settings: models.Settings):
                 date=artifact.date,
             )
             continue
-        artifact.write(dir=settings.build_dir)
-    feed.get_artifact().write(dir=settings.build_dir)
+        artifact.write(dir=settings.args.build_dir)
+    feed.get_artifact().write(dir=settings.args.build_dir)
 
 
 def get_artifacts(settings: models.Settings) -> Iterable[models.Artifact]:
     writings = models.Writing.get_all(month=settings.month, until=settings.until)
     yield from index_artifacts(settings=settings, writings=writings)
-    yield from static_artifacts()
+    yield from static_artifacts(settings=settings)
     for year_writings in writings.values():
         for writing in year_writings:
             yield from writing_artifacts(
@@ -37,10 +37,17 @@ def get_artifacts(settings: models.Settings) -> Iterable[models.Artifact]:
             )
 
 
-def static_artifacts() -> Iterable[models.Artifact]:
-    static = pathlib.Path(__file__).parent / "static"
+def static_artifacts(settings: models.Settings) -> Iterable[models.Artifact]:
+    framework_static = pathlib.Path(__file__).parent / "static"
+    project_static = settings.args.source_dir / settings.source_static_dir
 
-    return [models.FileArtifact(path=p, source=static) for p in static.iterdir()]
+    yield from [
+        models.FileArtifact(
+            path=p, source=source, destination=settings.build_static_dir
+        )
+        for source in [framework_static, project_static]
+        for p in source.iterdir()
+    ]
 
 
 def writing_artifacts(
@@ -50,14 +57,17 @@ def writing_artifacts(
         urllib.parse.urlparse(settings.base_url).hostname or "",
         settings.site_name,
     ]
-    colors = [settings.colors[prompt.color_index] for prompt in writing.prompts]
+    colors = [settings.color_cycle[prompt.color_index] for prompt in writing.prompts]
     social_preview_contents = models.SocialPreviewContents(
         top_line=" — ".join(top_line),
         title=writing.title,
         description=writing.excerpt(),
-        html_logo=settings.html_logo,
+        logo=settings.source_static_dir / settings.logo,
         date=french_dates(writing=writing, month_name=settings.month_name),
         colors=colors,
+        body_font_file_woff2=settings.source_static_dir / settings.body_font_file_woff2,
+        title_font_file_woff2=settings.source_static_dir
+        / settings.title_font_file_woff2,
     )
     filename = writing.social_preview_filename(
         signature=social_preview_contents.signature
@@ -97,9 +107,12 @@ def index_artifacts(
         top_line=urllib.parse.urlparse(settings.base_url).hostname or "",
         title=settings.site_name,
         description=settings.description,
-        html_logo=settings.html_logo,
+        logo=settings.source_static_dir / settings.logo,
         date=None,
         colors=colors,
+        body_font_file_woff2=settings.source_static_dir / settings.body_font_file_woff2,
+        title_font_file_woff2=settings.source_static_dir
+        / settings.title_font_file_woff2,
     )
     filename = f"index.{social_preview_contents.signature}.png"
 

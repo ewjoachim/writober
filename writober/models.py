@@ -12,11 +12,14 @@ from collections.abc import Iterable, Mapping, Sequence
 from typing import Self, override
 
 import bs4
+import pydantic
+import pydantic_extra_types.color
+from pydantic import dataclasses as pdataclasses
 
 from . import utils
 
 
-@dataclasses.dataclass
+@pdataclasses.dataclass(kw_only=True)
 class Prompt:
     day_number: int
     color_index: int
@@ -24,7 +27,7 @@ class Prompt:
     original_prompt: str
 
 
-@dataclasses.dataclass
+@pdataclasses.dataclass(kw_only=True)
 class MarkdownFile:
     md_path: pathlib.Path
 
@@ -53,15 +56,15 @@ class MarkdownFile:
         return self.title_elements[-1]
 
 
-@dataclasses.dataclass
-class Colors:
-    colors: list[str]
+@pdataclasses.dataclass
+class ColorCycle:
+    colors: list[pydantic_extra_types.color.Color]
 
-    def __getitem__(self, i: int):
-        return self.colors[i % len(self.colors)]
+    def __getitem__(self, i: int) -> str:
+        return self.colors[i % len(self.colors)].as_hex()
 
 
-@dataclasses.dataclass
+@pdataclasses.dataclass(kw_only=True)
 class Writing:
     date: datetime.date
     original_prompt: str
@@ -166,14 +169,22 @@ class Writing:
 type Writings = Mapping[int, Sequence[Writing]]
 
 
-@dataclasses.dataclass
+@pdataclasses.dataclass(kw_only=True)
 class Args:
+    source_dir: pathlib.Path
     build_dir: pathlib.Path
-    until: datetime.date | None
+    provided_until: datetime.date | None
 
 
-@dataclasses.dataclass(kw_only=True)
-class Settings:
+class IconLink(pydantic.BaseModel):
+    rel: str
+    type: str | None = None
+    sizes: str | None = None
+    href: str
+
+
+class Settings(pydantic.BaseModel):
+    args: Args
     site_name: str
     description: str
     copyright: str
@@ -183,37 +194,44 @@ class Settings:
     language: str
     base_url: str
     repository_url: str
-    build_dir: pathlib.Path
-    until: datetime.date
     timezone: str
-    colors: Colors
+    colors: list[pydantic_extra_types.color.Color]
     index_colors: list[str]
     inject_hot_reload_js: bool = False
     social_preview_width: int = 1200
     social_preview_height: int = 630
     social_preview_path: pathlib.Path = pathlib.Path("social_previews")
-    html_logo: pathlib.Path = pathlib.Path(
-        "writober/static/_static/android-chrome-512x512.png"
-    )
-    atom_path = pathlib.Path("feed.atom")
+    logo: pathlib.Path
+    atom_path: pathlib.Path = pathlib.Path("feed.atom")
+    icon_links: list[IconLink]
+    body_font_family: str
+    body_font_file_woff2: pathlib.Path
+    title_font_family: str
+    title_font_file_woff2: pathlib.Path
+    source_static_dir: pathlib.Path = pathlib.Path("static")
+    build_static_dir: pathlib.Path = pathlib.Path("static")
+    extra_css: list[pathlib.Path] = []
+
+    @property
+    def until(self) -> datetime.date:
+        return (
+            self.args.provided_until
+            or datetime.datetime.now(tz=zoneinfo.ZoneInfo(self.timezone)).date()
+        )
+
+    @property
+    def color_cycle(self) -> ColorCycle:
+        return ColorCycle(self.colors)
 
     @classmethod
     def from_pyproject(cls, args: Args) -> Self:
-        pyproject = pathlib.Path("pyproject.toml")
+        pyproject = args.source_dir / "pyproject.toml"
         pyprojects_settings = tomllib.loads(pyproject.read_text())["tool"]["writober"]
-        pyprojects_settings["colors"] = Colors(pyprojects_settings["colors"])
-        settings = cls(
-            **pyprojects_settings,
-            **dataclasses.asdict(args),
-        )
-        if not settings.until:
-            settings.until = datetime.datetime.now(
-                tz=zoneinfo.ZoneInfo(settings.timezone)
-            ).date()
+        settings = cls(**pyprojects_settings, args=args)
         return settings
 
 
-@dataclasses.dataclass
+@pdataclasses.dataclass(kw_only=True)
 class PageMetadata:
     title: str | None
     url_path: str | None
@@ -222,7 +240,7 @@ class PageMetadata:
     repository_url_path: pathlib.Path
 
 
-@dataclasses.dataclass
+@pdataclasses.dataclass(kw_only=True)
 class TextArtifact:
     path: pathlib.Path
     contents: str
@@ -235,18 +253,15 @@ class TextArtifact:
         (dir / self.path).write_text(self.contents)
 
 
-@dataclasses.dataclass
+@pdataclasses.dataclass(kw_only=True)
 class HTMLArtifact(TextArtifact):
-    path: pathlib.Path
-    contents: str
-
     @override
     def write(self, dir: pathlib.Path):
-        self.contents = bs4.BeautifulSoup(self.contents, "html.parser").prettify()
+        self.contents: str = bs4.BeautifulSoup(self.contents, "html.parser").prettify()
         super().write(dir=dir)
 
 
-@dataclasses.dataclass
+@pdataclasses.dataclass(kw_only=True)
 class BytesArtifact:
     path: pathlib.Path
     contents: bytes
@@ -259,7 +274,7 @@ class BytesArtifact:
         (dir / self.path).write_bytes(self.contents)
 
 
-@dataclasses.dataclass
+@pdataclasses.dataclass(kw_only=True)
 class FeedEntryArtifact:
     id: str
     title: str
@@ -267,22 +282,25 @@ class FeedEntryArtifact:
     date: datetime.date
 
 
-type Artifact = TextArtifact | HTMLArtifact | BytesArtifact | FeedEntryArtifact
+type Artifact = (
+    TextArtifact | HTMLArtifact | BytesArtifact | FeedEntryArtifact | FileArtifact
+)
 
 
-@dataclasses.dataclass
+@pdataclasses.dataclass(kw_only=True)
 class FileArtifact:
     path: pathlib.Path
     source: pathlib.Path
+    destination: pathlib.Path
 
     def write(self, dir: pathlib.Path):
         rel = self.path.relative_to(self.source)
-        destination = dir / rel
+        destination = dir / self.destination / rel
         destination.parent.mkdir(exist_ok=True, parents=True)
         self.path.copy(destination)
 
 
-@dataclasses.dataclass
+@pdataclasses.dataclass(kw_only=True)
 class SocialPreviewContents:
     """
     Parameters for generating a social preview PNG.
@@ -291,9 +309,11 @@ class SocialPreviewContents:
     top_line: str
     title: str
     description: str
-    html_logo: pathlib.Path
+    logo: pathlib.Path
     date: str | None  # this might not strictly be a date
     colors: list[str]
+    body_font_file_woff2: pathlib.Path
+    title_font_file_woff2: pathlib.Path
 
     @property
     def signature(self) -> str:

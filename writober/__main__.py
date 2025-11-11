@@ -12,8 +12,9 @@ def main():
     parser = argparse.ArgumentParser(
         prog="writober", description="Build the writober website"
     )
+    parser.add_argument("--source", type=pathlib.Path, default=pathlib.Path.cwd())
     parser.add_argument(
-        "--destination", type=pathlib.Path, default=pathlib.Path("_build")
+        "--destination", type=pathlib.Path, default=pathlib.Path.cwd() / "_build"
     )
     parser.add_argument("--until", type=datetime.date.fromisoformat)
     subparsers = parser.add_subparsers(required=True)
@@ -25,7 +26,11 @@ def main():
 
     namespace = parser.parse_args(sys.argv[1:])
     settings = models.Settings.from_pyproject(
-        args=models.Args(build_dir=namespace.destination, until=namespace.until)
+        args=models.Args(
+            source_dir=namespace.source,
+            build_dir=namespace.destination,
+            provided_until=namespace.until,
+        )
     )
     namespace.command(settings)
 

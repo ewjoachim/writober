@@ -14,7 +14,9 @@ import markdown as markdown_module
 @functools.cache
 def excerpt(markdown: str, max_length: int = 200) -> str:
     soup = bs4.BeautifulSoup(markdown_module.markdown(markdown), "html.parser")
-    soup.h1.clear()
+    h1 = soup.h1
+    assert h1
+    h1.clear()
     words = soup.get_text().split()
 
     length = 0
