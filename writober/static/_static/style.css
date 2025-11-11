@@ -94,6 +94,7 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 0 0.5em;
 }
 
 
@@ -129,6 +130,11 @@ a {
     position: fixed;
     top: 0;
     right: 0;
+    background-color: hsl(0, 0%, 10%);
+    border-radius: .7em;
+    line-height: 0;
+
+
 }
 
 
