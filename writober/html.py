@@ -124,7 +124,7 @@ def favicons(
             rel=icon_link.rel,
             type=icon_link.type,
             sizes=icon_link.sizes,
-            href=f"/{icon_link.href}",
+            href=f"/{settings.build_static_dir}/{icon_link.href}",
         )
         for icon_link in settings.icon_links or []
     ]
