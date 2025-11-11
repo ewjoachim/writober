@@ -11,7 +11,6 @@ import zoneinfo
 from collections.abc import Iterable, Mapping, Sequence
 from typing import Self, override
 
-import bs4
 import pydantic
 import pydantic_extra_types.color
 from pydantic import dataclasses as pdataclasses
@@ -257,7 +256,10 @@ class TextArtifact:
 class HTMLArtifact(TextArtifact):
     @override
     def write(self, dir: pathlib.Path):
-        self.contents: str = bs4.BeautifulSoup(self.contents, "html.parser").prettify()
+        # BS really bears its name right.
+        # Its prettify function adds whitespace and changes the sementics of the doc
+        # Until I can find a better formatter, I'm disabling html formatting :(
+        # self.contents: str = bs4.BeautifulSoup(self.contents, "html.parser").prettify()
         super().write(dir=dir)
 
 

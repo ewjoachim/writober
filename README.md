@@ -17,4 +17,4 @@ appréciables.
 Bonne lecture!
 
 *Pour signaler d'éventuelles fautes (il y en a sûrement) contactez-moi ou faites une
-[Pull Request](https://github.com/ewjoachim/writober)*
+[Pull Request](https://github.com/ewjoachim/writober).*
