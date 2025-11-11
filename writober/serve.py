@@ -34,7 +34,6 @@ async def serve_async(settings: models.Settings):
                     if task is reload_task:
                         break
                     else:
-                        print("Stopping websocket")
                         return
                 await asyncio.sleep(2)
                 await websocket.send_text(data="reload")

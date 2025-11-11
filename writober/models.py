@@ -116,7 +116,6 @@ class Writing:
             year = int(f"{year_folder.name}")
             for path in sorted(year_folder.glob("[0-9][0-9]-*.md")):
                 writing = cls.from_path(path, month=month)
-                print(writing.date, until, writing.date > until)
                 if writing.date > until:
                     return result
                 result.setdefault(year, []).append(writing)

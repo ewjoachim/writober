@@ -51,9 +51,7 @@ ws.onmessage = () => window.location.reload();
             markupsafe.Markup("""
 function toggleMenu(){document.querySelector("body").classList.toggle("menu-open")}
 """)
-        ]
-        if settings.inject_hot_reload_js
-        else None,
+        ],
     ]
 
 
