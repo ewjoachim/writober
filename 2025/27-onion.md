@@ -14,9 +14,9 @@ des syndicats remplis d’agitateurs. Fin de citation. Évidemment, les employé
 invariablement besoin de parler avec des collègues pour gérer le quotidien, donc la
 règle valait surtout au sens de: ne vous faites pas attraper. Après quelques mois, la
 plupart des salariés, comme Aella, se retrouvaient au moins une fois réprimandés, les
-récidivistes écopant de sanctions salariales. Ainsi, le jour où Aella vit le directeur général
-s'écrouler d'une crise cardiaque dans le parking, elle monta patiemment à son bureau et
-fit un long mail détaillé à sa coordinatrice, qui lui fixa un rendez-vous le jour-même
-pour évaluer la situation, avant de décider de faire de même, et dans le respect total
-d'une hiérarchie synergique, logique et adaptée, les secouristes vinrent avec un
-défibrillateur tenter une réanimation cinq jours plus tard.
+récidivistes écopant de sanctions salariales. Ainsi, le jour où Aella vit le directeur
+général s'écrouler d'une crise cardiaque dans le parking, elle monta patiemment à son
+bureau et fit un long mail détaillé à sa coordinatrice, qui lui fixa un rendez-vous le
+jour-même pour évaluer la situation, avant de décider de faire de même, et dans le
+respect total d'une hiérarchie synergique, logique et adaptée, les secouristes vinrent
+avec un défibrillateur tenter une réanimation cinq jours plus tard.
