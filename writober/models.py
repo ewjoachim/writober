@@ -7,8 +7,9 @@ import functools
 import hashlib
 import pathlib
 import tomllib
+import zoneinfo
 from collections.abc import Iterable, Mapping, Sequence
-from typing import Protocol, Self
+from typing import Self
 
 from . import utils
 
@@ -207,7 +208,7 @@ type Writings = Mapping[int, Sequence[Writing]]
 @dataclasses.dataclass
 class Args:
     build_dir: pathlib.Path
-    until: datetime.date
+    until: datetime.date | None
 
 
 @dataclasses.dataclass(kw_only=True)
@@ -223,6 +224,7 @@ class Settings:
     repository_url: str
     build_dir: pathlib.Path
     until: datetime.date
+    timezone: str
     inject_hot_reload_js: bool = False
     social_preview_width: int = 1200
     social_preview_height: int = 630
@@ -234,10 +236,15 @@ class Settings:
     @classmethod
     def from_pyproject(cls, args: Args) -> Self:
         pyproject = pathlib.Path("pyproject.toml")
-        return cls(
+        settings = cls(
             **tomllib.loads(pyproject.read_text())["tool"]["writober"],
             **dataclasses.asdict(args),
         )
+        if not settings.until:
+            settings.until = datetime.datetime.now(
+                tz=zoneinfo.ZoneInfo(settings.timezone)
+            ).date()
+        return settings
 
 
 @dataclasses.dataclass
@@ -247,12 +254,6 @@ class PageMetadata:
     description: str
     social_preview_path: pathlib.Path
     repository_url_path: str
-
-
-class Artifact(Protocol):
-    path: pathlib.Path
-
-    def write(self, dir: pathlib.Path): ...
 
 
 @dataclasses.dataclass
@@ -279,6 +280,17 @@ class BytesArtifact:
 
         (dir / self.path).parent.mkdir(exist_ok=True, parents=True)
         (dir / self.path).write_bytes(self.contents)
+
+
+@dataclasses.dataclass
+class FeedEntryArtifact:
+    id: str
+    title: str
+    link: str
+    date: datetime.date
+
+
+type Artifact = TextArtifact | BytesArtifact | FeedEntryArtifact
 
 
 @dataclasses.dataclass

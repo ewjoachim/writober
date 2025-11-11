@@ -15,9 +15,7 @@ def main():
     parser.add_argument(
         "--destination", type=pathlib.Path, default=pathlib.Path("_build")
     )
-    parser.add_argument(
-        "--until", type=datetime.date.fromisoformat, default=datetime.date.today()
-    )
+    parser.add_argument("--until", type=datetime.date.fromisoformat)
     subparsers = parser.add_subparsers(required=True)
     build_command = subparsers.add_parser("build")
     build_command.set_defaults(command=build_website)

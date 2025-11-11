@@ -13,15 +13,14 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "htpy>=25.10.0",
+    "markdown>=3.10",
     # Social cards:
     "brotli>=1.1.0",     # for fonts
     "fonttools>=4.60.1",
     "pillow>=11.3.0",
+    "numpy>=2.3.4",
     # RSS:
     "feedgen>=1.0.0",
-    "markdown>=3.10",
-    "python-frontmatter>=1.1.0",
-    "numpy>=2.3.4",
 ]
 [project.scripts]
 writober = "writober.__main__:main"
@@ -46,6 +45,7 @@ month = 10
 month_name = "octobre"
 language = "fr"
 base_url = "https://writober.ewjoach.im"
+timezone = "Europe/Paris"
 
 [tool.basedpyright]
 exclude = [".venv"]

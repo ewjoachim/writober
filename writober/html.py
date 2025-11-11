@@ -35,6 +35,8 @@ def layout(
                 h.div(".footer", role="contentinfo")[
                     f"{settings.copyright} | ",
                     h.a(href=(repository_url))["GitHub"],
+                    " | ",
+                    h.a(href=("/feed.atom"))["Feed"],
                 ],
             ],
             burger(),
@@ -105,6 +107,12 @@ def head(
                 href="/_static/favicon-16x16.png",
             ),
             h.link(rel="manifest", href="/_static/site.webmanifest"),
+            h.link(
+                rel="alternate",
+                type="application/atom+xml",
+                title="Atom",
+                href=f"{settings.base_url}/atom.xml",
+            ),
         ],
     )
 

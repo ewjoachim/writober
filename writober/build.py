@@ -5,14 +5,25 @@ import shutil
 import urllib.parse
 from collections.abc import Iterable
 
-from . import html, models, social_preview
+from . import atom, html, models, social_preview
 
 
 def build(settings: models.Settings):
     if settings.build_dir.exists():
         shutil.rmtree(settings.build_dir)
+
+    feed = atom.Feed(settings=settings)
     for artifact in get_artifacts(settings=settings):
+        if isinstance(artifact, models.FeedEntryArtifact):
+            feed.add_entry(
+                id=artifact.id,
+                title=artifact.title,
+                link=artifact.link,
+                date=artifact.date,
+            )
+            continue
         artifact.write(dir=settings.build_dir)
+    feed.get_artifact().write(dir=settings.build_dir)
 
 
 def get_artifacts(settings: models.Settings) -> Iterable[models.Artifact]:
@@ -61,7 +72,15 @@ def writing_artifacts(
         colors=colors,
     )
 
+    link = f"{settings.base_url}/{writing.html_path}"
+
     return [
+        models.FeedEntryArtifact(
+            id=writing.date.isoformat(),
+            title=writing.full_title,
+            link=link,
+            date=writing.date,
+        ),
         models.TextArtifact(path=writing.html_path, contents=str(renderable)),
         social_preview_artifact(
             contents=social_preview_contents, path=social_preview_path

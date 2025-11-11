@@ -1,0 +1,36 @@
+import datetime
+import pathlib
+import zoneinfo
+
+from feedgen.feed import FeedGenerator  # pyright: ignore[reportMissingTypeStubs]
+
+from . import models
+
+
+class Feed:
+    def __init__(self, settings: models.Settings):
+        self.feed_gen: FeedGenerator = FeedGenerator()
+        self.feed_gen.id(settings.base_url)
+        self.feed_gen.title(settings.site_name)
+        self.feed_gen.author(name=settings.author)
+        self.feed_gen.link(href=settings.base_url, rel="self")
+        self.feed_gen.subtitle(settings.description)
+        self.feed_gen.language(settings.language)
+        self.timezone: str = settings.timezone
+
+    def add_entry(self, id: str, title: str, link: str, date: datetime.date):
+        entry = self.feed_gen.add_entry()  # pyright: ignore[reportUnknownVariableType]
+        entry.id(id)
+        entry.title(title)
+        entry.link(href=link)
+        entry.updated(
+            datetime.datetime.combine(
+                date, datetime.time(), tzinfo=zoneinfo.ZoneInfo(self.timezone)
+            ).isoformat()
+        )
+
+    def get_artifact(self) -> models.Artifact:
+        contents: bytes = self.feed_gen.atom_str(  # pyright: ignore[reportUnknownVariableType]
+            pretty=True
+        )  # Get the ATOM feed as string
+        return models.BytesArtifact(path=pathlib.Path("feed.atom"), contents=contents)  # pyright: ignore[reportUnknownArgumentType]
