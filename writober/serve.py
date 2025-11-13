@@ -64,7 +64,7 @@ async def serve_async(settings: models.Settings):
             stop_event.set()
             await super().shutdown(*args, **kwargs)
 
-    config = uvicorn.Config(app, port=8000, workers=1)
+    config = uvicorn.Config(app, host="0.0.0.0", port=8000, workers=1)
     server = ShutdownServer(config)
 
     settings.inject_hot_reload_js = True

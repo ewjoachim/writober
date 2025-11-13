@@ -71,7 +71,6 @@ def head(
         h.head[
             h.meta(charset="utf-8"),
             h.meta(name="viewport", content="width=device-width, initial-scale=1.0"),
-            h.meta(name="viewport", content="width=device-width, initial-scale=1"),
             h.meta(
                 name="description",
                 content=page_metadata.description,
@@ -167,12 +166,10 @@ def social_preview_meta(
 @writings_context.consumer
 @settings_context.consumer
 def nav(settings: models.Settings, writings: models.Writings) -> h.Node:
-    return h.div("#menu")[
-        h.div("#menu-content.closed")[
-            h.nav(role="navigation", aria_label="Main")[
-                h.h4[h.a(href="/")[settings.site_name]],
-                (nav_year(year=year) for year in sorted(writings, reverse=True)),
-            ],
+    return h.div("#menu.closed")[
+        h.nav(role="navigation", aria_label="Main")[
+            h.h4[h.a(href="/")[settings.site_name]],
+            (nav_year(year=year) for year in sorted(writings, reverse=True)),
         ],
     ]
 

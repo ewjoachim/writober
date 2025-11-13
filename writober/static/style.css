@@ -54,10 +54,6 @@ a {
     color: #e89217;
 }
 
-#menu {
-    width: 100%;
-}
-
 .svg-button {
     margin: 1em;
     cursor: pointer;
@@ -92,12 +88,10 @@ a {
     transform: rotate(-45deg) translateY(.375em);
 }
 
-
-#menu-content {
+#menu {
     width: 100%;
-    height: calc(100vh - 1.6em);
+    height: 100%;
     position: fixed;
-    top: 0;
     overflow: scroll;
     background-color: hsl(0, 0%, 10%);
     display: flex;
@@ -111,7 +105,7 @@ a {
     overflow: hidden;
 }
 
-.menu-open #menu-content {
+.menu-open #menu {
     top: 0;
 }
 
