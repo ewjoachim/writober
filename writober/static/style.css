@@ -6,7 +6,7 @@ html {
 
 body {
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 1.65;
     margin: 0 0 3em 0;
 }
@@ -197,7 +197,6 @@ a.day.full {
     width: 100%;
     line-height: 110%;
     margin-top: .1em;
-    font-weight: 500;
 }
 
 .day .original-prompt {
