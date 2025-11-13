@@ -94,7 +94,7 @@ colors = [
     "#3d40c1",
     "#153db7",
 ]
-index_colors = ["#fdad16", "#9df1a3", "#3ac5c8", "#ae183e"]
+index_colors = ["#fdad16", "#9df1a3", "#3ac5c8", "#773fae", "#ae183e"]
 icon_links = [
     { rel = "icon", type = "image/png", sizes = "32x32", href = "favicon-32x32.png" },
     { rel = "icon", type = "image/png", sizes = "16x16", href = "favicon-16x16.png" },
