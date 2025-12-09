@@ -1,1 +1,4 @@
 _build
+_cache
+.ruff_cache
+.venv

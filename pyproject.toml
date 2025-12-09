@@ -1,131 +1,14 @@
-[build-system]
-requires = ["uv_build>=0.9.8,<0.10.0"]
-build-backend = "uv_build"
-
-[tool.uv.build-backend]
-module-root = ""
-
 [project]
 name = "writober"
 version = "0.1.0"
-description = "Python site generator for Writober (Inktober-prompted flash fiction)"
+authors = [{ name = "Joachim Jablon", email = "ewjoachim@gmail.com" }]
+description = "Une nouvelle par jour d'octobre sur le thème du mot du jour d'Inktober"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = [
-    "htpy>=25.10.0",
-    "markdown>=3.10",
-    "beautifulsoup4>=4.14.2",
-    "pydantic>=2.12.4",
-    "pydantic-extra-types>=2.10.6",
-    # Social cards:
-    "brotli>=1.1.0",     # for fonts
-    "fonttools>=4.60.1",
-    "pillow>=11.3.0",
-    "numpy>=2.3.4",
-    # RSS:
-    "feedgen>=1.0.0",
-]
-[project.scripts]
-writober = "writober.__main__:main"
-
+dependencies = ["daily-writing[server]"]
 [dependency-groups]
-dev = [
-    "fastapi>=0.121.0",
-    "pdbpp>=0.11.7",
-    "uvicorn>=0.38.0",
-    "watchfiles>=1.1.1",
-    "websockets>=15.0.1",
-]
-lint = ["ruff>=0.13.3", "flowmark>=0.5.3"]
+lint = ["flowmark>=0.5.3"]
 
-[tool.writober]
-site_name = "Le Journal de Writober d'Ewjoachim"
-description = "Une nouvelle par jour d'octobre sur le thème du mot du jour d'Inktober"
-repository_url = "https://github.com/ewjoachim/writober"
-copyright = "2024- Joachim Jablon - CC-BY-SA-NC"
-author = "Joachim Jablon"
-month = 10
-month_name = "octobre"
-years = [2024, 2025]
-language = "fr"
-base_url = "https://writober.ewjoach.im"
-timezone = "Europe/Paris"
-colors = [
-    "#dd3300",
-    "#f46101",
-    "#f9980d",
-    "#f4ca26",
-    "#c0de48",
-    "#77e173",
-    "#31c8a7",
-    "#de3e02",
-    "#f47504",
-    "#fdad16",
-    "#fddc41",
-    "#dbf172",
-    "#9df1a3",
-    "#4bcac3",
-    "#da340c",
-    "#f36710",
-    "#fba921",
-    "#f9df4c",
-    "#c4f383",
-    "#82f1af",
-    "#3ac5c8",
-    "#ce2619",
-    "#f24d17",
-    "#f88220",
-    "#f9be4a",
-    "#b4be9b",
-    "#62ccc0",
-    "#29abcd",
-    "#bf1424",
-    "#e22014",
-    "#e84a31",
-    "#e47178",
-    "#9d69bb",
-    "#4b73d5",
-    "#156bce",
-    "#901653",
-    "#ae183e",
-    "#b02b56",
-    "#ad4084",
-    "#773fae",
-    "#3d40c1",
-    "#153db7",
-]
-index_colors = ["#fdad16", "#9df1a3", "#3ac5c8", "#773fae", "#ae183e"]
-icon_links = [
-    { rel = "icon", type = "image/png", sizes = "32x32", href = "favicon-32x32.png" },
-    { rel = "icon", type = "image/png", sizes = "16x16", href = "favicon-16x16.png" },
-    { rel = "apple-touch-icon", sizes = "180x180", href = "apple-touch-icon.png" },
-    { rel = "manifest", href = "site.webmanifest" },
-]
-body_font_family = '''"Quicksand", sans-serif'''
-body_font_file_woff2 = "quicksand.woff2"
-title_font_family = '''"Bitter", sans-serif'''
-title_font_file_woff2 = "bitter.woff2"
-logo = "android-chrome-512x512.png"
-extra_css = ["fonts.css"]
-
-[tool.basedpyright]
-exclude = [".venv"]
-reportUnknownMemberType = false
-reportUnusedCallResult = false
-reportAny = false
-reportExplicitAny = false
-reportUnreachable = false
-
-
-[tool.ruff.lint]
-extend-select = [
-    "UP",  # pyupgrade
-    "I",   # isort
-    "E",   # pycodestyle errors
-    "W",   # pycodestyle warnings
-    "RUF", # ruff
-]
-fixable = ["ALL"]
-extend-ignore = [
-    "E501", # line too long
-]
+# Un/comment when relevant
+[tool.uv.sources]
+daily-writing = { path = "../daily-writing", editable = true }

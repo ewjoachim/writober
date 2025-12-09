@@ -7,32 +7,17 @@ repos:
     rev: v6.0.0
     hooks:
       # File names
-      - id: check-case-conflict
-          # File formats
-      - id: pretty-format-json
-      - id: check-json
+      - id: check-case-conflict # File formats
       - id: check-toml
-      - id: check-yaml
           # Executables
-      - id: check-executables-have-shebangs
-      - id: check-shebang-scripts-are-executable
           # Git shenanigans
       - id: check-merge-conflict
       - id: check-added-large-files
           # Python issues
-      - id: check-ast
-      - id: debug-statements
           # Whitespace
       - id: end-of-file-fixer
       - id: trailing-whitespace
       - id: mixed-line-ending
-
-  - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.14.4
-    hooks:
-      - id: ruff
-        args: [--fix, --unsafe-fixes, --show-fixes]
-      - id: ruff-format
 
   - repo: https://github.com/ewjoachim/sync-pre-commit-with-uv
     rev: 1.1.0
@@ -46,10 +31,8 @@ repos:
 
   - repo: local
     hooks:
-      - id: flowmark
-        name: flowmark
-        entry: ./flowmark
-        additional_dependencies: [flowmark==0.5.3]
-        exclude: index\.md
-        types: [markdown]
+      - id: normalize
+        name: normalize
+        entry: uv run --active daily-writing normalize
+        types: [ markdown ]
         language: python
