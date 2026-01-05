@@ -28,7 +28,7 @@ repos:
       - id: mixed-line-ending
 
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.14.4
+    rev: v0.14.10
     hooks:
       - id: ruff
         args: [--fix, --unsafe-fixes, --show-fixes]
@@ -40,7 +40,7 @@ repos:
       - id: sync
 
   - repo: https://github.com/astral-sh/uv-pre-commit
-    rev: 0.8.13
+    rev: 0.9.21
     hooks:
       - id: uv-lock
 
