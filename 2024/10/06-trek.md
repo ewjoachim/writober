@@ -1,4 +1,5 @@
 ---
+date: 2024-10-06
 full_title: 06 - Trek
 prompts:
 - date: 2024-10-06

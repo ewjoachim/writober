@@ -1,4 +1,5 @@
 ---
+date: 2025-10-23
 full_title: 23 - Lam-pire
 prompts:
 - date: 2025-10-23

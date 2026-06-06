@@ -1,4 +1,5 @@
 ---
+date: 2024-10-10
 full_title: 10 - Nomade
 prompts:
 - date: 2024-10-10

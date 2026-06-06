@@ -1,4 +1,5 @@
 ---
+date: 2025-10-04
 full_title: 04 - Ténébreux
 prompts:
 - date: 2025-10-04

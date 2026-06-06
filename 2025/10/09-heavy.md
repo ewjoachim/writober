@@ -1,4 +1,5 @@
 ---
+date: 2025-10-09
 full_title: 09 - Lourd
 prompts:
 - date: 2025-10-09

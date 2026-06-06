@@ -1,4 +1,5 @@
 ---
+date: 2024-10-22
 full_title: 22 - Camp
 prompts:
 - date: 2024-10-22

@@ -4,7 +4,7 @@ copyright = "2024- Joachim Jablon - CC-BY-SA-NC"
 author = "Joachim Jablon"
 locale = "fr-fr"
 timezone = "Europe/Paris"
-base_url = "https://writober.ewjoach.im"
+server_url = "https://writober.ewjoach.im"
 repository_url = "https://github.com/ewjoachim/writober"
 colors = [
     "#dd3300",
@@ -52,11 +52,30 @@ colors = [
 ]
 index_colors = ["#fdad16", "#9df1a3", "#3ac5c8", "#773fae", "#ae183e"]
 logo = "android-chrome-512x512.png"
-icon_links = [
-    { rel = "icon", type = "image/png", sizes = "32x32", href = "favicon-32x32.png" },
-    { rel = "icon", type = "image/png", sizes = "16x16", href = "favicon-16x16.png" },
-    { rel = "apple-touch-icon", sizes = "180x180", href = "apple-touch-icon.png" },
-    { rel = "manifest", href = "site.webmanifest" },
-]
 title_ttf_font = "Quicksand"
 body_ttf_font = "Bitter"
+
+[[icon_links]]
+rel = "icon"
+type = "image/png"
+sizes = "32x32"
+href = "favicon-32x32.png"
+
+[[icon_links]]
+rel = "icon"
+type = "image/png"
+sizes = "16x16"
+href = "favicon-16x16.png"
+
+[[icon_links]]
+rel = "apple-touch-icon"
+sizes = "180x180"
+href = "apple-touch-icon.png"
+
+[[icon_links]]
+rel = "manifest"
+href = "site.webmanifest"
+
+[cms_config.backend]
+repo = "ewjoachim/writober"
+name = "github"

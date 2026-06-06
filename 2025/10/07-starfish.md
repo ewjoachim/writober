@@ -1,4 +1,5 @@
 ---
+date: 2025-10-07
 full_title: 07 - Starfish
 prompts:
 - date: 2025-10-07

@@ -1,4 +1,5 @@
 ---
+date: 2024-10-31
 full_title: 31 - Monument
 prompts:
 - date: 2024-10-31

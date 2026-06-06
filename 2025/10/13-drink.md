@@ -1,4 +1,5 @@
 ---
+date: 2025-10-13
 full_title: 13 - Boisson
 prompts:
 - date: 2025-10-13

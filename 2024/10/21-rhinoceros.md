@@ -1,4 +1,5 @@
 ---
+date: 2024-10-21
 full_title: 21 - Rhinocéros
 prompts:
 - date: 2024-10-21

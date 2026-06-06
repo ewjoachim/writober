@@ -1,4 +1,5 @@
 ---
+date: 2024-10-09
 full_title: 09 - Soleil
 prompts:
 - date: 2024-10-09

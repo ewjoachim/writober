@@ -1,4 +1,5 @@
 ---
+date: 2025-10-14
 full_title: 14 - Coffre
 prompts:
 - date: 2025-10-14

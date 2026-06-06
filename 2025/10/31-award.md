@@ -1,4 +1,5 @@
 ---
+date: 2025-10-31
 full_title: 31 - Prix
 prompts:
 - date: 2025-10-31

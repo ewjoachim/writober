@@ -1,4 +1,5 @@
 ---
+date: 2024-10-02
 full_title: 02 - Découverte
 prompts:
 - date: 2024-10-02

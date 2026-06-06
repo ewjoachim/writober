@@ -1,4 +1,5 @@
 ---
+date: 2024-10-01
 full_title: 01 - Sac à dos
 prompts:
 - date: 2024-10-01

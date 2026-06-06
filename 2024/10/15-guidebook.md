@@ -1,4 +1,5 @@
 ---
+date: 2024-10-15
 full_title: 15 - Guide touristique
 prompts:
 - date: 2024-10-15

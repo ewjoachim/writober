@@ -1,4 +1,5 @@
 ---
+date: 2025-10-29
 full_title: 29 - Leçon
 prompts:
 - date: 2025-10-29

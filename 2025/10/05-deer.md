@@ -1,4 +1,5 @@
 ---
+date: 2025-10-05
 full_title: 05 - Biche
 prompts:
 - date: 2025-10-05

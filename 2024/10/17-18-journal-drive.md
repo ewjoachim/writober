@@ -1,4 +1,5 @@
 ---
+date: 2024-10-17
 full_title: 17&18 - Journal, Conduite
 prompts:
 - date: 2024-10-17

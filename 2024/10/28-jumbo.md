@@ -1,4 +1,5 @@
 ---
+date: 2024-10-28
 full_title: 28 - Jumbo
 prompts:
 - date: 2024-10-28

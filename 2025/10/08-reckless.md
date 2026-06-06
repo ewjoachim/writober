@@ -1,4 +1,5 @@
 ---
+date: 2025-10-08
 full_title: 08 - Impé-tueuse
 prompts:
 - date: 2025-10-08

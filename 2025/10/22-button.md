@@ -1,4 +1,5 @@
 ---
+date: 2025-10-22
 full_title: 22 - Bouton
 prompts:
 - date: 2025-10-22

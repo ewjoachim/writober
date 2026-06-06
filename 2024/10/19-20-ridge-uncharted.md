@@ -1,4 +1,5 @@
 ---
+date: 2024-10-19
 full_title: 19&20 - Crête, hors des cartes
 prompts:
 - date: 2024-10-19

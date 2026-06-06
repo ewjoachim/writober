@@ -1,4 +1,5 @@
 ---
+date: 2024-10-03
 full_title: 03 - Démarre !
 prompts:
 - date: 2024-10-03

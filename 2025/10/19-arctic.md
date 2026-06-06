@@ -1,4 +1,5 @@
 ---
+date: 2025-10-19
 full_title: 19 - Arctique
 prompts:
 - date: 2025-10-19

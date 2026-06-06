@@ -1,4 +1,5 @@
 ---
+date: 2025-10-01
 full_title: 01 - Moustache
 prompts:
 - date: 2025-10-01

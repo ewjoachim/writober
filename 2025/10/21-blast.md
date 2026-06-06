@@ -1,4 +1,5 @@
 ---
+date: 2025-10-21
 full_title: 21 - Explosion
 prompts:
 - date: 2025-10-21

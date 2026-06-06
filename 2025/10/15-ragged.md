@@ -1,4 +1,5 @@
 ---
+date: 2025-10-15
 full_title: 15 - Lambeaux
 prompts:
 - date: 2025-10-15

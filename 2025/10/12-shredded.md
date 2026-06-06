@@ -1,4 +1,5 @@
 ---
+date: 2025-10-12
 full_title: 12 - Déchiqueté
 prompts:
 - date: 2025-10-12

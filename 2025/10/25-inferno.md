@@ -1,4 +1,5 @@
 ---
+date: 2025-10-25
 full_title: 25 - Enfer
 prompts:
 - date: 2025-10-25

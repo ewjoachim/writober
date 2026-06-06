@@ -1,4 +1,5 @@
 ---
+date: 2025-10-27
 full_title: 27 - Oignon
 prompts:
 - date: 2025-10-27

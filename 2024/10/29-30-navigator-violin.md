@@ -1,4 +1,5 @@
 ---
+date: 2024-10-29
 full_title: 29&30 - Navigatrice, Violon
 prompts:
 - date: 2024-10-29

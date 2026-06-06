@@ -1,4 +1,5 @@
 ---
+date: 2025-10-16
 full_title: 16 - Gaffe
 prompts:
 - date: 2025-10-16

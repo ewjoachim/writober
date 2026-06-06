@@ -1,4 +1,5 @@
 ---
+date: 2025-10-10
 full_title: 10 - Balayer
 prompts:
 - date: 2025-10-10

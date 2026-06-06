@@ -1,4 +1,5 @@
 ---
+date: 2025-10-11
 full_title: 11 - Arnaque
 prompts:
 - date: 2025-10-11

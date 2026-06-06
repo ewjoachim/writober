@@ -1,4 +1,5 @@
 ---
+date: 2025-10-06
 full_title: 06 - Percer
 prompts:
 - date: 2025-10-06

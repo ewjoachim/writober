@@ -1,4 +1,5 @@
 ---
+date: 2024-10-26
 full_title: 26&27 - Appareil, Route
 prompts:
 - date: 2024-10-26

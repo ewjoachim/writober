@@ -1,4 +1,5 @@
 ---
+date: 2025-10-26
 full_title: 26 - Laisser-Perplexe
 prompts:
 - date: 2025-10-26

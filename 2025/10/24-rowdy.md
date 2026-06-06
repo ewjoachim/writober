@@ -1,4 +1,5 @@
 ---
+date: 2025-10-24
 full_title: 24 - Hooligan
 prompts:
 - date: 2025-10-24

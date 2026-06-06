@@ -1,4 +1,5 @@
 ---
+date: 2025-10-20
 full_title: 20 - Rivales
 prompts:
 - date: 2025-10-20

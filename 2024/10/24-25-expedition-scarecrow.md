@@ -1,4 +1,5 @@
 ---
+date: 2024-10-24
 full_title: 24&25 - Expédition, Epouvantail
 prompts:
 - date: 2024-10-24

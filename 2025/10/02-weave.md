@@ -1,4 +1,5 @@
 ---
+date: 2025-10-02
 full_title: 02 - Tissage
 prompts:
 - date: 2025-10-02

@@ -1,4 +1,5 @@
 ---
+date: 2025-10-17
 full_title: 17 - Orné
 prompts:
 - date: 2025-10-17

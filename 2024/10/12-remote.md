@@ -1,4 +1,5 @@
 ---
+date: 2024-10-12
 full_title: 12 - Remote
 prompts:
 - date: 2024-10-12

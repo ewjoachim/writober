@@ -1,4 +1,5 @@
 ---
+date: 2024-10-04
 full_title: 04 - Exotique
 prompts:
 - date: 2024-10-04

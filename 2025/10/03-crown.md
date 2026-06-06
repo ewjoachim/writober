@@ -1,4 +1,5 @@
 ---
+date: 2025-10-03
 full_title: 03 - Couronne
 prompts:
 - date: 2025-10-03

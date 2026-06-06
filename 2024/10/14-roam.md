@@ -1,4 +1,5 @@
 ---
+date: 2024-10-14
 full_title: 14 - Errsdsdance
 prompts:
 - date: 2024-10-14

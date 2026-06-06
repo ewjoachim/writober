@@ -1,4 +1,5 @@
 ---
+date: 2025-10-18
 full_title: 18 - Marché
 prompts:
 - date: 2025-10-18

@@ -1,4 +1,5 @@
 ---
+date: 2024-10-11
 full_title: 11 - Snacks
 prompts:
 - date: 2024-10-11

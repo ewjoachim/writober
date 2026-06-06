@@ -1,4 +1,5 @@
 ---
+date: 2025-10-30
 full_title: 30 - Vacant
 prompts:
 - date: 2025-10-30

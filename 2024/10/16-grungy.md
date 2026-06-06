@@ -1,4 +1,5 @@
 ---
+date: 2024-10-16
 full_title: 16 - Crasseux
 prompts:
 - date: 2024-10-16
