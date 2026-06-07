@@ -79,3 +79,4 @@ href = "site.webmanifest"
 [cms_config.backend]
 repo = "ewjoachim/writober"
 name = "github"
+base_url = "https://sveltia-cms-auth.ewjoachim.workers.dev/"
