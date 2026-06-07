@@ -10,5 +10,5 @@ dependencies = ["daily-writing[server]"]
 lint = ["flowmark>=0.5.3"]
 
 # Un/comment when relevant
-[tool.uv.sources]
-daily-writing = { path = "../daily-writing", editable = true }
+# [tool.uv.sources]
+# daily-writing = { path = "../daily-writing", editable = true }

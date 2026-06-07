@@ -8,11 +8,13 @@ repos:
     hooks:
       # File names
       - id: check-case-conflict # File formats
-      - id: check-toml
+      - id:
+          check-toml
           # Executables
           # Git shenanigans
       - id: check-merge-conflict
-      - id: check-added-large-files
+      - id:
+          check-added-large-files
           # Python issues
           # Whitespace
       - id: end-of-file-fixer
@@ -33,6 +35,6 @@ repos:
     hooks:
       - id: normalize
         name: normalize
-        entry: uv run --active daily-writing normalize
-        types: [ markdown ]
+        entry: uv run --no-active daily-writing normalize
+        types: [markdown]
         language: python
