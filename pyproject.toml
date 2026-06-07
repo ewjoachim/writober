@@ -5,6 +5,7 @@ authors = [{ name = "Joachim Jablon", email = "ewjoachim@gmail.com" }]
 description = "Une nouvelle par jour d'octobre sur le thème du mot du jour d'Inktober"
 readme = "README.md"
 requires-python = ">=3.14"
+license = { file = "LICENSE" }
 dependencies = ["daily-writing"]
 [dependency-groups]
 lint = ["flowmark>=0.5.3"]
