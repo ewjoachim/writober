@@ -92,7 +92,7 @@ wheels = [
 [[package]]
 name = "daily-writing"
 version = "0.1.0"
-source = { registry = "https://pypi.org/simple" }
+source = { editable = "../daily-writing" }
 dependencies = [
     { name = "babel" },
     { name = "brotli" },
@@ -114,10 +114,6 @@ dependencies = [
     { name = "tzlocal" },
     { name = "yarl" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/78/c6/275d9b0dfb4bc5feb5061114af3ea228cf07dd1cfd236775aa848252f42b/daily_writing-0.1.0.tar.gz", hash = "sha256:9c5874eb1e65643e9ff2fb18676d02240690404081db80d15fc1f13d01ad0095", size = 32158, upload-time = "2026-06-07T00:50:12.71Z" }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/a7/ae/9c8dfdb2d9164f9d3d9e618f07ebe75a3fa3378be3a3c38ecc2350526cd3/daily_writing-0.1.0-py3-none-any.whl", hash = "sha256:f328c4e7405abbc6f65e4c8b4213c30ce781d8e53e64feff28aa31d2112b0fab", size = 37837, upload-time = "2026-06-07T00:50:11.321Z" },
-]
 
 [package.optional-dependencies]
 server = [
@@ -126,6 +122,46 @@ server = [
     { name = "uvicorn" },
     { name = "watchfiles" },
     { name = "websockets" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "babel", specifier = ">=2.17.0" },
+    { name = "brotli", specifier = ">=1.1.0" },
+    { name = "fastapi", marker = "extra == 'server'", specifier = ">=0.121.0" },
+    { name = "feedgen", specifier = ">=1.0.0" },
+    { name = "flowmark", specifier = ">=0.6.1" },
+    { name = "fonttools", specifier = ">=4.60.1" },
+    { name = "htpy", specifier = ">=25.10.0" },
+    { name = "httpx", specifier = ">=0.28.1" },
+    { name = "langcodes", specifier = ">=3.5.1" },
+    { name = "markdown-it-py", extras = ["plugins"], specifier = ">=4.0.0" },
+    { name = "numpy", specifier = ">=2.3.4" },
+    { name = "pdbpp", marker = "extra == 'server'", specifier = ">=0.11.7" },
+    { name = "pillow", specifier = ">=11.3.0" },
+    { name = "pydantic", specifier = ">=2.12.4" },
+    { name = "pydantic-extra-types", extras = ["pycountry"], specifier = ">=2.10.6" },
+    { name = "pydantic-settings", specifier = ">=2.12.0" },
+    { name = "python-frontmatter", specifier = ">=1.1.0" },
+    { name = "pyyaml", specifier = ">=6.0.3" },
+    { name = "typing-extensions", specifier = ">=4.15.0" },
+    { name = "tzlocal", specifier = ">=5.3.1" },
+    { name = "uvicorn", marker = "extra == 'server'", specifier = ">=0.38.0" },
+    { name = "watchfiles", marker = "extra == 'server'", specifier = ">=1.1.1" },
+    { name = "websockets", marker = "extra == 'server'", specifier = ">=15.0.1" },
+    { name = "yarl", specifier = ">=1.24.2" },
+]
+provides-extras = ["server"]
+
+[package.metadata.requires-dev]
+lint = [
+    { name = "basedpyright", specifier = ">=1.39.6" },
+    { name = "ruff", specifier = ">=0.13.3" },
+]
+test = [
+    { name = "pytest", specifier = ">=0.13.3" },
+    { name = "pytest-cov", specifier = ">=7.1.0" },
+    { name = "pytest-httpx", specifier = ">=0.36.2" },
 ]
 
 [[package]]
@@ -945,11 +981,11 @@ local = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "daily-writing" }]
+requires-dist = [{ name = "daily-writing", editable = "../daily-writing" }]
 
 [package.metadata.requires-dev]
 lint = [{ name = "flowmark", specifier = ">=0.5.3" }]
-local = [{ name = "daily-writing", extras = ["server"] }]
+local = [{ name = "daily-writing", extras = ["server"], editable = "../daily-writing" }]
 
 [[package]]
 name = "yarl"

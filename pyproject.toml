@@ -6,7 +6,7 @@ description = "Une nouvelle par jour d'octobre sur le thème du mot du jour d'In
 readme = "README.md"
 requires-python = ">=3.14"
 license = { file = "LICENSE" }
-dependencies = ["daily-writing"]
+dependencies = ["daily-writing>=2026.6.1"]
 [dependency-groups]
 lint = ["flowmark>=0.5.3"]
 local = ["daily-writing[server]"]
@@ -16,5 +16,5 @@ Homepage = "https://writober.ewjoach.im"
 Repository = "https://github.com/ewjoachim/writober"
 
 # Un/comment when relevant
-# [tool.uv.sources]
-# daily-writing = { path = "../daily-writing", editable = true }
+[tool.uv.sources]
+daily-writing = { path = "../daily-writing", editable = true }
