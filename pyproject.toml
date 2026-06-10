@@ -11,6 +11,10 @@ dependencies = ["daily-writing"]
 lint = ["flowmark>=0.5.3"]
 local = ["daily-writing[server]"]
 
+[project.urls]
+Homepage = "https://writober.ewjoach.im"
+Repository = "https://github.com/ewjoachim/writober"
+
 # Un/comment when relevant
 # [tool.uv.sources]
 # daily-writing = { path = "../daily-writing", editable = true }

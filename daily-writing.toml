@@ -1,11 +1,7 @@
 site_name = "Le Journal de Writober d'Ewjoachim"
-description = "Une nouvelle par jour d'octobre sur le thème du mot du jour d'Inktober"
 copyright = "2024- Joachim Jablon - CC-BY-SA-NC"
-author = "Joachim Jablon"
 locale = "fr-fr"
 timezone = "Europe/Paris"
-server_url = "https://writober.ewjoach.im"
-repository_url = "https://github.com/ewjoachim/writober"
 colors = [
     "#dd3300",
     "#f46101",
