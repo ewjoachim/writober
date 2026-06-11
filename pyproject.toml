@@ -16,5 +16,5 @@ Homepage = "https://writober.ewjoach.im"
 Repository = "https://github.com/ewjoachim/writober"
 
 # Un/comment when relevant
-[tool.uv.sources]
-daily-writing = { path = "../daily-writing", editable = true }
+# [tool.uv.sources]
+# daily-writing = { path = "../daily-writing", editable = true }
