@@ -23,6 +23,7 @@ jobs:
       - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
 
       - name: Setup Pages
+        id: pages
         uses: actions/configure-pages@v5
 
       - uses: astral-sh/setup-uv@d0cc045d04ccac9d8b7881df0226f9e82c39688e # v6.8.0
@@ -31,6 +32,8 @@ jobs:
         uses: j178/prek-action@bdca6f102f98e2b4c7029491a53dfd366469e33d # v2.0.4
 
       - name: Build website
+        env:
+          DAILY_WRITING_SITE_URL: ${{ steps.pages.outputs.base_url }}
         run: uv run daily-writing build
 
       - name: Upload artifact
