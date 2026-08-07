@@ -1,10 +1,5 @@
-ci:
-  autoupdate_schedule: quarterly
-# See https://pre-commit.com for more information
-# See https://pre-commit.com/hooks.html for more hooks
 repos:
-  - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v6.0.0
+  - repo: builtin
     hooks:
       # File names
       - id: check-case-conflict # File formats
@@ -21,20 +16,26 @@ repos:
       - id: trailing-whitespace
       - id: mixed-line-ending
 
-  - repo: https://github.com/ewjoachim/sync-pre-commit-with-uv
-    rev: 1.1.0
-    hooks:
-      - id: sync
-
-  - repo: https://github.com/astral-sh/uv-pre-commit
-    rev: 0.12.2
-    hooks:
-      - id: uv-lock
-
   - repo: local
     hooks:
+      - id: uv-lock
+        name: uv-lock
+        entry: uv lock
+        language: system
+        files: ^(uv\.lock|pyproject\.toml|uv\.toml)$
+        pass_filenames: false
+
       - id: normalize
         name: normalize
         entry: uv run --no-active daily-writing normalize
         types: [markdown]
         language: python
+
+      # zizmor is not a project dependency, so run it as a one-off tool.
+      - id: zizmor
+        name: zizmor
+        entry: uvx zizmor@1.28.0 --no-progress --fix=all
+        language: system
+        types: [yaml]
+        files: (\.github/(workflows/.*|dependabot\.ya?ml))|(action\.ya?ml)$
+        require_serial: true

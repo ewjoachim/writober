@@ -6,7 +6,7 @@ description = "Une nouvelle par jour d'octobre sur le thème du mot du jour d'In
 readme = "README.md"
 requires-python = ">=3.14"
 license = { file = "LICENSE" }
-dependencies = ["daily-writing>=2026.7.1"]
+dependencies = ["daily-writing"]
 [dependency-groups]
 lint = ["flowmark>=0.5.3"]
 local = ["daily-writing[server]"]
