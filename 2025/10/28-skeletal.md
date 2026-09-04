@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-28
   original_prompt: Skeletal
   title: Squelettique
+redirect_aliases:
+- 2025/28-skeletal.html
 ---
 # 28 - Squelettique
 

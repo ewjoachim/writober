@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-07
   original_prompt: Starfish
   title: Starfish
+redirect_aliases:
+- 2025/07-starfish.html
 ---
 # 07 - Starfish
 

@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-08
   original_prompt: Hike
   title: Randonnée
+redirect_aliases:
+- 2024/08-hike.html
 ---
 # 08 - Randonnée
 

@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-17
   original_prompt: Ornate
   title: Orné
+redirect_aliases:
+- 2025/17-ornate.html
 ---
 # 17 - Orné
 

@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-21
   original_prompt: Blast
   title: Explosion
+redirect_aliases:
+- 2025/21-blast.html
 ---
 # 21 - Explosion
 

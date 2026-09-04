@@ -5,6 +5,9 @@ prompts:
 - date: 2025-10-02
   original_prompt: Weave
   title: Tissage
+redirect_aliases:
+- 2025/02-weave.html
+- 2025/02-weave/index.html
 ---
 # 02 - Tissage
 

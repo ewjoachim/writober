@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-29
   original_prompt: Lesson
   title: Leçon
+redirect_aliases:
+- 2025/29-lesson.html
 ---
 # 29 - Leçon
 

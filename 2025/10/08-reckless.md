@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-08
   original_prompt: Reckless
   title: Impé-tueuse
+redirect_aliases:
+- 2025/08-reckless.html
 ---
 # 08 - Impé-tueuse
 

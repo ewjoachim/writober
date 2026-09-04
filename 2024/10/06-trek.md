@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-06
   original_prompt: Trek
   title: Trek
+redirect_aliases:
+- 2024/06-trek.html
 ---
 # 06 - Trek
 

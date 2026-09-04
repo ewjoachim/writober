@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-23
   original_prompt: Firefly
   title: Lam-pire
+redirect_aliases:
+- 2025/23-firefly.html
 ---
 # 23 - Lam-pire
 

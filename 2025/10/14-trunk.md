@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-14
   original_prompt: Trunk
   title: Coffre
+redirect_aliases:
+- 2025/14-trunk.html
 ---
 # 14 - Coffre
 

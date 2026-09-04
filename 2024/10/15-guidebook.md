@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-15
   original_prompt: Guidebook
   title: Guide touristique
+redirect_aliases:
+- 2024/15-guidebook.html
 ---
 # 15 - Guide touristique
 

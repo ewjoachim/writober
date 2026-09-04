@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-12
   original_prompt: Remote
   title: Remote
+redirect_aliases:
+- 2024/12-remote.html
 ---
 # 12 - Remote
 

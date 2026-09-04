@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-10
   original_prompt: Sweep
   title: Balayer
+redirect_aliases:
+- 2025/10-sweep.html
 ---
 # 10 - Balayer
 

@@ -5,6 +5,9 @@ prompts:
 - date: 2025-10-01
   original_prompt: Mustache
   title: Moustache
+redirect_aliases:
+- 2025/01-mustache.html
+- 2025/01-mustache/index.html
 ---
 # 01 - Moustache
 

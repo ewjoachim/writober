@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-09
   original_prompt: Sun
   title: Soleil
+redirect_aliases:
+- 2024/09-sun.html
 ---
 # 09 - Soleil
 

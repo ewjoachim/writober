@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-05
   original_prompt: Binoculars
   title: Jumelles
+redirect_aliases:
+- 2024/05-binoculars.html
 ---
 # 05 - Jumelles
 

@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-16
   original_prompt: Grungy
   title: Crasseux
+redirect_aliases:
+- 2024/16-grungy.html
 ---
 # 16 - Crasseux
 

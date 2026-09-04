@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-30
   original_prompt: Vacant
   title: Vacant
+redirect_aliases:
+- 2025/30-vacant.html
 ---
 # 30 - Vacant
 

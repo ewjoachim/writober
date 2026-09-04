@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-04
   original_prompt: Exotic
   title: Exotique
+redirect_aliases:
+- 2024/04-exotic.html
 ---
 # 04 - Exotique
 

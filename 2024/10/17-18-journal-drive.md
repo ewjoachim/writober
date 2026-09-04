@@ -8,6 +8,8 @@ prompts:
 - date: 2024-10-18
   original_prompt: Drive
   title: Conduite
+redirect_aliases:
+- 2024/17-journal-drive.html
 ---
 # 17&18 - Journal, Conduite
 

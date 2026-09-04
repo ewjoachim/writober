@@ -8,6 +8,8 @@ prompts:
 - date: 2024-10-20
   original_prompt: Uncharted
   title: hors des cartes
+redirect_aliases:
+- 2024/19-ridge-uncharted.html
 ---
 # 19&20 - Crête, hors des cartes
 

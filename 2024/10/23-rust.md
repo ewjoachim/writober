@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-23
   original_prompt: Rust
   title: Oxyde
+redirect_aliases:
+- 2024/23-censored.html
 ---
 # 23 - Oxyde
 

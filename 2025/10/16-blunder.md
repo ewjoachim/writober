@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-16
   original_prompt: Blunder
   title: Gaffe
+redirect_aliases:
+- 2025/16-blunder.html
 ---
 # 16 - Gaffe
 

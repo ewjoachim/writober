@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-05
   original_prompt: Deer
   title: Biche
+redirect_aliases:
+- 2025/05-deer.html
 ---
 # 05 - Biche
 

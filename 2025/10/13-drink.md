@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-13
   original_prompt: Drink
   title: Boisson
+redirect_aliases:
+- 2025/13-drink.html
 ---
 # 13 - Boisson
 

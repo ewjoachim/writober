@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-02
   original_prompt: Discover
   title: Découverte
+redirect_aliases:
+- 2024/02-discover.html
 ---
 # 02 - Découverte
 

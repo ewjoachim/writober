@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-28
   original_prompt: Jumbo
   title: Jumbo
+redirect_aliases:
+- 2024/28-jumbo.html
 ---
 # 28 - Jumbo
 

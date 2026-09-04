@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-27
   original_prompt: Onion
   title: Oignon
+redirect_aliases:
+- 2025/27-onion.html
 ---
 # 27 - Oignon
 

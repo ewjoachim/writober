@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-11
   original_prompt: Sting
   title: Arnaque
+redirect_aliases:
+- 2025/11-sting.html
 ---
 # 11 - Arnaque
 

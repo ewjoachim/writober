@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-18
   original_prompt: Deal
   title: Marché
+redirect_aliases:
+- 2025/18-deal.html
 ---
 # 18 - Marché
 

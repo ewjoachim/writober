@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-07
   original_prompt: Passport
   title: Passeport
+redirect_aliases:
+- 2024/07-passport.html
 ---
 # 07 - Passeport
 

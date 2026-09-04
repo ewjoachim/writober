@@ -8,6 +8,8 @@ prompts:
 - date: 2024-10-25
   original_prompt: Scarecrow
   title: Epouvantail
+redirect_aliases:
+- 2024/24-expedition-scarecrow.html
 ---
 # 24&25 - Expédition, Epouvantail
 

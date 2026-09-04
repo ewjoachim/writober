@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-24
   original_prompt: Rowdy
   title: Hooligan
+redirect_aliases:
+- 2025/24-rowdy.html
 ---
 # 24 - Hooligan
 

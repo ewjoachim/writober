@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-31
   original_prompt: Landmark
   title: Monument
+redirect_aliases:
+- 2024/31-landmark.html
 ---
 # 31 - Monument
 

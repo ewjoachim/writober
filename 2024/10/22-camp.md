@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-22
   original_prompt: Camp
   title: Camp
+redirect_aliases:
+- 2024/22-camp.html
 ---
 # 22 - Camp
 

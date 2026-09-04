@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-03
   original_prompt: Boots
   title: Démarre !
+redirect_aliases:
+- 2024/03-boots.html
 ---
 # 03 - Démarre !
 

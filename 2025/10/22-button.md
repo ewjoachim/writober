@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-22
   original_prompt: Button
   title: Bouton
+redirect_aliases:
+- 2025/22-button.html
 ---
 # 22 - Bouton
 

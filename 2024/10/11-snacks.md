@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-11
   original_prompt: Snacks
   title: Snacks
+redirect_aliases:
+- 2024/11-snacks.html
 ---
 # 11 - Snacks
 

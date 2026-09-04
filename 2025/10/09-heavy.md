@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-09
   original_prompt: Heavy
   title: Lourd
+redirect_aliases:
+- 2025/09-heavy.html
 ---
 # 09 - Lourd
 

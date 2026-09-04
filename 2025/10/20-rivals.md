@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-20
   original_prompt: Rivals
   title: Rivales
+redirect_aliases:
+- 2025/20-rivals.html
 ---
 # 20 - Rivales
 

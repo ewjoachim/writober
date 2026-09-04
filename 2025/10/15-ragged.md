@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-15
   original_prompt: Ragged
   title: Lambeaux
+redirect_aliases:
+- 2025/15-ragged.html
 ---
 # 15 - Lambeaux
 

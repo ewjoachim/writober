@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-13
   original_prompt: Horizon
   title: Horizon
+redirect_aliases:
+- 2024/13-horizon.html
 ---
 # 13 - Horizon
 

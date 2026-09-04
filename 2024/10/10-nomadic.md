@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-10
   original_prompt: Nomadic
   title: Nomade
+redirect_aliases:
+- 2024/10-nomadic.html
 ---
 # 10 - Nomade
 

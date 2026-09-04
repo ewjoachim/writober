@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-14
   original_prompt: Roam
   title: Errance
+redirect_aliases:
+- 2024/14-roam.html
 ---
 # 14 - Errsdsdance
 

@@ -5,6 +5,8 @@ prompts:
   - title: Prix
     original_prompt: Award
     date: 2025-10-31
+redirect_aliases:
+- 2025/31-award.html
 ---
 
 # 31 - Prix

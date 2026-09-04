@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-03
   original_prompt: Crown
   title: Couronne
+redirect_aliases:
+- 2025/03-crown.html
 ---
 # 03 - Couronne
 

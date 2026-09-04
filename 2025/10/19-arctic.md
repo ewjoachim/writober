@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-19
   original_prompt: Arctic
   title: Arctique
+redirect_aliases:
+- 2025/19-arctic.html
 ---
 # 19 - Arctique
 

@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-01
   original_prompt: Backpack
   title: Sac à dos
+redirect_aliases:
+- 2024/01-backpack.html
 ---
 # 01 - Sac à dos
 

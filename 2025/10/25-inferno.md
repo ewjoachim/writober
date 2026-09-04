@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-25
   original_prompt: Inferno
   title: Enfer
+redirect_aliases:
+- 2025/25-inferno.html
 ---
 # 25 - Enfer
 

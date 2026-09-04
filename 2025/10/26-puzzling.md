@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-26
   original_prompt: Puzzling
   title: Laisser-Perplexe
+redirect_aliases:
+- 2025/26-puzzling.html
 ---
 # 26 - Laisser-Perplexe
 

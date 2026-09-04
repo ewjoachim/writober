@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-06
   original_prompt: Pierce
   title: Percer
+redirect_aliases:
+- 2025/06-pierce.html
 ---
 # 06 - Percer
 

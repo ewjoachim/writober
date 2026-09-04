@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-12
   original_prompt: Shredded
   title: Déchiqueté
+redirect_aliases:
+- 2025/12-shredded.html
 ---
 # 12 - Déchiqueté
 

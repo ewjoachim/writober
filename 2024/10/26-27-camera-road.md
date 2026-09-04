@@ -8,6 +8,8 @@ prompts:
 - date: 2024-10-27
   original_prompt: Road
   title: Route
+redirect_aliases:
+- 2024/26-camera-road.html
 ---
 # 26&27 - Appareil, Route
 

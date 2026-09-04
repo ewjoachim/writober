@@ -5,6 +5,8 @@ prompts:
 - date: 2025-10-04
   original_prompt: Murky
   title: Ténébreux
+redirect_aliases:
+- 2025/04-murky.html
 ---
 # 04 - Ténébreux
 

@@ -8,6 +8,8 @@ prompts:
 - date: 2024-10-30
   original_prompt: Violin
   title: Violon
+redirect_aliases:
+- 2024/29-navigator-violin.html
 ---
 # 29&30 - Navigatrice, Violon
 

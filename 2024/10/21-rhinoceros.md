@@ -5,6 +5,8 @@ prompts:
 - date: 2024-10-21
   original_prompt: Rhinoceros
   title: Rhinocéros
+redirect_aliases:
+- 2024/21-rhinoceros.html
 ---
 # 21 - Rhinocéros
 
