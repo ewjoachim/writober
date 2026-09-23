@@ -1,5 +1,6 @@
 ---
 date: 2026-10-03
+is_draft: false
 full_title: 03 - Miniature
 prompts:
 - date: 2026-10-03

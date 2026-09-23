@@ -1,5 +1,6 @@
 ---
 date: 2026-10-01
+is_draft: false
 full_title: 01 - Pomme
 prompts:
 - date: 2026-10-01

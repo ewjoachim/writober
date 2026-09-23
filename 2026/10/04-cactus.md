@@ -1,5 +1,6 @@
 ---
 date: 2026-10-04
+is_draft: false
 full_title: 04 - Cactus
 prompts:
 - date: 2026-10-04

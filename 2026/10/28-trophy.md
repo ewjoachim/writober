@@ -1,5 +1,6 @@
 ---
 date: 2026-10-28
+is_draft: true
 full_title: 28 - ?
 prompts:
 - date: 2026-10-28

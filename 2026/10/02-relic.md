@@ -1,5 +1,6 @@
 ---
 date: 2026-10-02
+is_draft: false
 full_title: 02 - Relique
 prompts:
 - date: 2026-10-02
