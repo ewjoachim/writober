@@ -1,5 +1,5 @@
 ---
-full_title: 06 - ?
+full_title: 06 - Ogresse
 date: 2026-10-06
 is_draft: true
 prompts:
