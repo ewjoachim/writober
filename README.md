@@ -18,3 +18,7 @@ Bonne lecture!
 
 *Pour signaler d'éventuelles fautes (il y en a sûrement) contactez-moi ou faites une
 [Pull Request](https://github.com/ewjoachim/writober).*
+
+*Ce site fonctionne à l'aide de [`daily-writing`](https://github.com/ewjoachim/daily-writing), une librairie open-source dont je suis
+également l'auteur. Si vous souhaitez publier votre propre journal sur le même principe,
+n'hésitez pas, c'est fait pour (même si vous n'êtes pas vous-même dev)(envoyez-moi le lien, je serai ravi de vous lire).*
