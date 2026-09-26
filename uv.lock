@@ -89,7 +89,7 @@ wheels = [
 
 [[package]]
 name = "daily-writing"
-version = "2026.9.5"
+version = "2026.9.7"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "babel" },
@@ -114,9 +114,9 @@ dependencies = [
     { name = "tzlocal" },
     { name = "yarl" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/59/bf/861731e1a862a86c691eb9a0ad4b0513cab98a24829f4068d328d54eab18/daily_writing-2026.9.5.tar.gz", hash = "sha256:00abd9988aa98c6f294416db95007b7338c6b88c69f21ecf8e15ef4184ada888", size = 1001215, upload-time = "2026-09-23T21:58:17.969Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/86/ec/83bed81c35e23a6c43576b82fcc212e95c524d20c1018ff4efdb2f6cc428/daily_writing-2026.9.7.tar.gz", hash = "sha256:a13a91d619150f6df671062bb458694e0c08fd8d74bbb1b47bc39db473b27fbe", size = 1002727, upload-time = "2026-09-25T20:22:47.625Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/cf/79/84123719eb1a60bbb1ebaec0ce1a6f6354d96c07fac0d80e968fb3252c20/daily_writing-2026.9.5-py3-none-any.whl", hash = "sha256:9cd476098a5bde8e1e92a44f7e888fce9816c0780a7b73e08612219408087589", size = 44889, upload-time = "2026-09-23T21:58:16.616Z" },
+    { url = "https://files.pythonhosted.org/packages/ad/a7/9fe978af5d28cee7d7b91cd84bde0010f937921ed09831659af4592c8357/daily_writing-2026.9.7-py3-none-any.whl", hash = "sha256:243a45535595dc971e50961a8e46b222971f7d101d15f04d9e160e4b5bd403d2", size = 45628, upload-time = "2026-09-25T20:22:46.189Z" },
 ]
 
 [package.optional-dependencies]
@@ -1162,15 +1162,15 @@ wheels = [
 
 [[package]]
 name = "uvicorn"
-version = "0.53.0"
+version = "0.54.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "click" },
     { name = "h11" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/5d/ad/04bbb797c84fc1f26cb171f7394716f4865ffb8d8c5e1eef42565c2dfa6b/uvicorn-0.53.0.tar.gz", hash = "sha256:a9356f0cb89b3b8621529c5d5eebd69bfe154f4c3f68b4cf2de47e45fa855c2e", size = 110881, upload-time = "2026-09-14T07:44:23.815Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/da/34/30e9280707135d2cfc589dfff3cb796bd07a3aeb1a3e415ba09dd89d7bb4/uvicorn-0.54.0.tar.gz", hash = "sha256:a2e33cbfaa0306f8e6b0c13e0cb89d7d7a2da3e62b90c66e18c33d9807b28620", size = 112283, upload-time = "2026-09-25T06:52:37.601Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/76/18/0eea75741ee812e9f598b687619ce2454f6c3a1c5cd21ea990ec6bd26f45/uvicorn-0.53.0-py3-none-any.whl", hash = "sha256:e8dca71ec86dce5f04e333f0d56cdedf942446e6643b9cea1af0d6d3a02cb03e", size = 87081, upload-time = "2026-09-14T07:44:22.179Z" },
+    { url = "https://files.pythonhosted.org/packages/38/0c/b54a4fdd7f90a3af8b02ebc9ce6712c2c208b7926a2f7bad95c33ebbe943/uvicorn-0.54.0-py3-none-any.whl", hash = "sha256:505bdb0f318731d45f1f712071fc781a8981f6847a31c902c9f5e652d4f67faf", size = 87427, upload-time = "2026-09-25T06:52:35.829Z" },
 ]
 
 [[package]]
