@@ -89,7 +89,7 @@ wheels = [
 
 [[package]]
 name = "daily-writing"
-version = "2026.9.9"
+version = "2026.9.10"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "babel" },
@@ -114,9 +114,9 @@ dependencies = [
     { name = "tzlocal" },
     { name = "yarl" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/08/c3/0c464f35af3154e75c2c50def3fb2a69afe2104fc2802c5cb515e42c984a/daily_writing-2026.9.9.tar.gz", hash = "sha256:9db5e6d8d5f864557320ba6018e81346a6f02031fd0a7dad938500a4eebd10fc", size = 1002847, upload-time = "2026-09-26T14:38:49.156Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/f5/5c/6895b8c34e08a5fc59df7b7db198d3d13a8ac59145dfa6ec3c91c3b88166/daily_writing-2026.9.10.tar.gz", hash = "sha256:ab13290ae2555e8bce4154496915478dee3a0061a612bd7f5cfab460f98cce9d", size = 1002905, upload-time = "2026-09-26T17:03:55.619Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/7b/e3/4599c5d7013b72993cb5e021f239b6598709f7983c9593dfd18da14e6891/daily_writing-2026.9.9-py3-none-any.whl", hash = "sha256:41a31ab07362765b9770dd7c96143604c7d1ada4a188b92ad21535edf6cee701", size = 45496, upload-time = "2026-09-26T14:38:47.716Z" },
+    { url = "https://files.pythonhosted.org/packages/c7/b9/b6991f06cc9e5bd5d7b8460b09983aadd4bdeda4916f64ef852a1200992a/daily_writing-2026.9.10-py3-none-any.whl", hash = "sha256:695d3ec88aa271e85b712553f868ed24f5b6a93575943f20b24f732eea9eb78f", size = 45518, upload-time = "2026-09-26T17:03:53.948Z" },
 ]
 
 [package.optional-dependencies]
