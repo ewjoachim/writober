@@ -17,7 +17,7 @@ appréciables.
 Bonne lecture!
 
 *Pour signaler d'éventuelles fautes (il y en a sûrement) contactez-moi ou faites une
-[Pull Request](https://github.com/ewjoachim/writober).*
+Pull Request (le lien vers la source de chaque écrit est indiqué en pied de page).*
 
 *Ce site fonctionne à l'aide de [`daily-writing`](https://github.com/ewjoachim/daily-writing), une librairie open-source dont je suis
 également l'auteur. Si vous souhaitez publier votre propre journal sur le même principe,
