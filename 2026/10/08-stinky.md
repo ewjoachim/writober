@@ -1,10 +1,11 @@
 ---
-date: 2026-10-08
 full_title: 08 - Nauséabond
+date: 2026-10-08
 is_draft: true
 prompts:
-- date: 2026-10-08
-  original_prompt: stinky
-  title: Nauséabond
+  - title: Nauséabond
+    original_prompt: stinky
+    date: 2026-10-08
 ---
+
 -

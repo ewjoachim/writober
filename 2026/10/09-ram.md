@@ -1,10 +1,11 @@
 ---
-date: 2026-10-09
 full_title: 09 - RAM
+date: 2026-10-09
 is_draft: true
 prompts:
-- date: 2026-10-09
-  original_prompt: ram
-  title: RAM
+  - title: RAM
+    original_prompt: ram
+    date: 2026-10-09
 ---
+
 -

@@ -1,12 +1,13 @@
 ---
-date: 2026-10-01
 full_title: 01 - Pomme
+date: 2026-10-01
 is_draft: false
 prompts:
-- date: 2026-10-01
-  original_prompt: apple
-  title: Pomme
+  - title: Pomme
+    original_prompt: apple
+    date: 2026-10-01
 ---
+
 Altera était dos au mur, ou plus précisément dos au tronc.
 Son adversaire, Miss Genealia avait pris le dessus depuis les premières secondes.
 Les deux super-héroïnes se regardaient dans les yeux.
@@ -21,9 +22,9 @@ police, avait profité d'un moment d'inattention pour bondir sur son adversaire,
 l'avait instantanément mise au sol, d'une simple prise.
 
 Miss Genealia savait invoquer l'âme de ses ancêtres.
-Derrière le masque, elle s'appelait Ginny, et elle passait des heures dans les archives
-et les bibliothèques, à trouver la trace ici d'un grand-père artificier, là d'une
-arrière-arrière-grand-mère suffragette rodée au ju-jitsu.
+Derrière le masque, elle s'appelait Ginny, et elle passait des heures dans les archives et les bibliothèques, à
+trouver la trace ici d'un grand-père artificier, là d'une arrière-arrière-grand-mère
+suffragette rodée au ju-jitsu.
 Lorsque le combat les avait amenées devant un grand pommier, c'est son glorieux
 ascendant charmeur de serpents qu'elle avait appelé, et instantanément, un gigantesque
 boa avait agrippé Altera l'attachant à l'arbre, serrant de plus en plus fort.
@@ -48,5 +49,4 @@ revint dans ses poumons.
 Le serpent s'était volatilisé.
 En reprenant ses esprits, elle vit Miss Genealia par terre, assommée, deux policiers
 occupés à la menotter.
-Altera, de son vrai nom Amelia Newton, prit la pomme sur le sol à ses pieds et s'éloigna
-en la croquant.
+Altera, de son vrai nom Amelia Newton, prit la pomme sur le sol à ses pieds et s'éloigna en la croquant.
