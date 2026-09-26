@@ -1,14 +1,13 @@
 ---
-full_title: 31 - Prix
 date: 2025-10-31
+full_title: 31 - Prix
 prompts:
-  - title: Prix
-    original_prompt: Award
-    date: 2025-10-31
+- date: 2025-10-31
+  original_prompt: Award
+  title: Prix
 redirect_aliases:
 - 2025/31-award.html
 ---
-
 # 31 - Prix
 
 Erina tournait la molette du petit appareil dans ses mains et, à chaque cran, la scène
@@ -34,6 +33,7 @@ Cette théorie prédit de manière forte qu'en suivant les lois qui régissent n
 univers, aucun un matériau suffisamment magnétostrictif ne peut exister, ce qui condamne
 ma découverte du saut multiversel à rester entièrement théorique …"
 
-***
+* * *
 
-_Merci pour votre lecture ! N'hésitez pas à me faire des retours et à l'année prochaine !_
+*Merci pour votre lecture ! N'hésitez pas à me faire des retours et à l'année prochaine
+!*

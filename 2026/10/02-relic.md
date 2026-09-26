@@ -1,13 +1,12 @@
 ---
 date: 2026-10-02
-is_draft: false
 full_title: 02 - Relique
+is_draft: false
 prompts:
 - date: 2026-10-02
   original_prompt: relic
   title: Relique
 ---
-
 Berrin restait là, un peu ébahie, n'osant commencer à bouger de peur de se couper.
 Finalement, elle commença à se déplacer au milieu du verre brisé, faisant bien attention
 avant de poser chacune de ses mandibules.

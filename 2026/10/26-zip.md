@@ -1,9 +1,9 @@
 ---
 date: 2026-10-26
-is_draft: true
 full_title: 26 - Zip
+is_draft: true
 prompts:
 - date: 2026-10-26
   original_prompt: zip
-  title: 'Zip'
+  title: Zip
 ---

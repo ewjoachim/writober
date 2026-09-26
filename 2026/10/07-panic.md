@@ -1,11 +1,10 @@
 ---
-full_title: 07 - Panique
 date: 2026-10-07
+full_title: 07 - Panique
 is_draft: true
 prompts:
-  - title: Panique
-    original_prompt: panic
-    date: 2026-10-07
+- date: 2026-10-07
+  original_prompt: panic
+  title: Panique
 ---
-
 -
