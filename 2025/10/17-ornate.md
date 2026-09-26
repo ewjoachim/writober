@@ -29,8 +29,8 @@ avait fait ses emplettes, distribuant à ses officiers plusieurs pièces de vale
 élan de générosité qui ne lui ressemblait guère; elle s’était néanmoins gardée les plus
 belles pour elle-même.
 
-Voici maintenant une longue minute qu’elle portait le collier.
-Elle arborait toujours ce sourire satisfait, en effet, à son contact, celui-ci avait
-bloqué instantanément et complètement le moindre de ses muscles. Son visage changeait
-lentement de teinte. Elle aurait voulu crier, mais ne le pouvait pas. De toute façon, sa
-servante avait quitté la pièce depuis longtemps, ne voulant assister au spectacle.
+Voici maintenant une longue minute qu’elle portait le collier. Elle arborait toujours ce
+sourire satisfait, en effet, à son contact, celui-ci avait bloqué instantanément et
+complètement le moindre de ses muscles. Son visage changeait lentement de teinte. Elle
+aurait voulu crier, mais ne le pouvait pas. De toute façon, sa servante avait quitté la
+pièce depuis longtemps, ne voulant assister au spectacle.

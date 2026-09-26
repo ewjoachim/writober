@@ -37,8 +37,8 @@ résolu à limiter les incursions dans l'hyperespace aux trajets les plus sommai
 qui ne nécessitaient aucun pilotage. Entrer, attendre quelques minutes ou plusieurs
 heures dans le noir sans bouger, sortir. Même si cela avait permis l'avènement et la
 démocratisation du voyage interstellaire, celui-ci avait dû se limiter aux trajets
-simples. Certains trajets qui auraient théoriquement été possibles en quelques minutes à peine
-nécessitaient plusieurs centaines de sauts, et plusieurs semaines.
+simples. Certains trajets qui auraient théoriquement été possibles en quelques minutes à
+peine nécessitaient plusieurs centaines de sauts, et plusieurs semaines.
 
 Et ce jusqu'à la mise au point récente par la géniale Professeure Dagný Tjörvadóttir du
 sonoritrope, un dispositif analogique qui permettait par un habile mécanisme de paroi

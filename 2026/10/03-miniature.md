@@ -1,13 +1,12 @@
 ---
 date: 2026-10-03
-is_draft: false
 full_title: 03 - Miniature
+is_draft: false
 prompts:
 - date: 2026-10-03
   original_prompt: miniature
   title: Miniature
 ---
-
 Chiara actionna l'interrupteur du sous-sol. Les néons froids s'allumèrent un par un,
 éclairant les deux parties du gigantesque sous-sol: le laboratoire d'un côté, et de
 l'autre, la grande maquette de sa ville et du chemin de fer qui la traversait. La

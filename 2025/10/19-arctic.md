@@ -32,8 +32,7 @@ humaine, soit toujours décongelée, en cas de problème inattendu.
 
 En plus de cent-vingt ans, aucun problème n'avait nécessité d'intervention humaine.
 Sevilay tenait ce rôle depuis dix-sept ans, un record, et pouvait demander à être
-remplacée à tout moment, pour se gagner des années de vies dans le monde
-d'après.
+remplacée à tout moment, pour se gagner des années de vies dans le monde d'après.
 
 Mais elle avait accès à tous les livres, films et albums que les guerres avaient
 épargnés, une salle de musique, une salle de sport, et une réserve à peu près illimitée

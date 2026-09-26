@@ -24,9 +24,9 @@ seule différence qui, à travers un ensemble de conséquences chaotiques, assur
 inéluctablement une paix durable et salutaire à l’humanité, était qu’il était absolument
 nécessaire que Freja ce jour-là trouve l’ermitage.
 
-Onze générations de moines avaient donc pris à cœur de répéter dans les moindres
-détails cette interaction depuis plusieurs siècles afin que, le jour donné, elle soit
-parfaite. Celui qui fut choisi pour donner l’indication était celui qui avait étudié le
-plus assidument les textes, avait répété l’interaction tous les soirs pendant soixante
-ans. Malheureusement, la disparition totale de l’humanité ne permit pas à l’histoire de
+Onze générations de moines avaient donc pris à cœur de répéter dans les moindres détails
+cette interaction depuis plusieurs siècles afin que, le jour donné, elle soit parfaite.
+Celui qui fut choisi pour donner l’indication était celui qui avait étudié le plus
+assidument les textes, avait répété l’interaction tous les soirs pendant soixante ans.
+Malheureusement, la disparition totale de l’humanité ne permit pas à l’histoire de
 retenir qu’il confondait sa droite et sa gauche.

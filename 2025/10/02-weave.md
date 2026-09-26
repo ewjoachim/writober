@@ -23,7 +23,6 @@ gouvernent tout, des particules élémentaires aux amas de galaxies. Je brode su
 de fond de l'univers. Je tricote le cœur des étoiles, et je les décore avec quelques
 quarks étranges au crochet.
 
-
 J'ai passé dix milliards d'années à tisser l'univers avant de me lasser, je me suis
 alors lancée dans un petit projet: créer un nouveau type de fil autorépliquant sur
 quelques planètes de la Voie Lactée. Tisser des brins d'ARN, puis d'ADN, ça m'a amusée

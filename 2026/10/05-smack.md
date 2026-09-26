@@ -1,13 +1,12 @@
 ---
-full_title: 05 - Sémaque
 date: 2026-10-05
+full_title: 05 - Sémaque
 is_draft: false
 prompts:
-  - title: Sémaque
-    original_prompt: smack
-    date: 2026-10-05
+- date: 2026-10-05
+  original_prompt: smack
+  title: Sémaque
 ---
-
 Au petit matin, Everdina manœuvrait seule le grand sémaque, le reste de l'équipage
 finissant leur courte nuit. En suivant la côte, elles atteindraient dans quelques heures
 la ville de Holwerd. Voilà plusieurs mois qu'Emma, Elizabeth et Everdina avaient

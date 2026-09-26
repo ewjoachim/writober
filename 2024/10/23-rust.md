@@ -35,7 +35,7 @@ faudrait.
 Quelques dizaines de milliers d’individus, c’était largement suffisant pour que
 l’humanité puisse renaître une fois sortie de ses cachettes, mais encore faudrait-il
 qu’ils sortent, et peu de gens parmi les nouveaux troglodytes envisageaient de le faire
-avant qu’ils n’y soient contraints. La plupart des bunkers avaient au  moins un an de
+avant qu’ils n’y soient contraints. La plupart des bunkers avaient au moins un an de
 provisions d’avance. Les humains avaient donc à peu près ce temps-là pour prévoir leur
 contre-attaque et en réalité, la plupart étaient assez confiants: non pas qu’ils
 croyaient pouvoir se transformer en d’hypothétiques soldats surentraînés animés d’un feu

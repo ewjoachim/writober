@@ -28,6 +28,7 @@ sûre de faire comme il faut. Après tout, la plupart des humains normaux savent
 et elle était une humaine normale (et pas une androïde). Cela faisait vingt-huit heures
 et treize minutes qu'elle marchait d'un bon train, quand elle passa à quelques mètres de
 son point de départ, comme toutes les deux heures et vingt et unes minutes depuis le
-début de l'aventure mais le signal sur le poteau était formel, pour continuer, il fallait
-aller tout droit, et non tourner à gauche pour revenir exactement au point de départ.
-C'est donc forcément par là que la randonnée continuait. Hemmi continua donc tout droit.
+début de l'aventure mais le signal sur le poteau était formel, pour continuer, il
+fallait aller tout droit, et non tourner à gauche pour revenir exactement au point de
+départ. C'est donc forcément par là que la randonnée continuait. Hemmi continua donc
+tout droit.
