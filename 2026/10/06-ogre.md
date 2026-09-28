@@ -1,7 +1,7 @@
 ---
 full_title: 06 - Ogres
 date: 2026-10-06
-is_draft: true
+is_draft: false
 prompts:
   - title: Ogres
     original_prompt: ogre
