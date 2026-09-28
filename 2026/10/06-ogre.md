@@ -9,7 +9,8 @@ prompts:
 ---
 Intéressons-nous à une catégorie spécifique d’univers parallèles: le sous-ensemble dans
 lequel Felicia sauve des enfants. Dans chaque univers elle tente de les sauver, et
-toujours de la même façon: elle prend leur défense, lève des fonds et passe à l'action. D’un univers à l’autre, par contre, les dangers qui les guettent varient.
+toujours de la même façon: elle prend leur défense, lève des fonds et passe à l'action.
+D’un univers à l’autre, par contre, les dangers qui les guettent varient.
 
 Dans cet univers-ci, les ogres vivent avec les humains. Ils mangeaient du veau, de
 l’agneau. Ils se sont convertis à l’anti-spécisme, sans pour autant devenir végétariens,
