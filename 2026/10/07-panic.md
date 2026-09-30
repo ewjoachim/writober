@@ -19,18 +19,18 @@ consistant principalement à ne toucher à rien.
 
 Ce poste qui, suite à une coupe budgétaire, n'était plus depuis quelques mois pourvu que
 par une seule personne, consistait à surveiller les principaux indicateurs de l'univers,
-et d'ajuster les constantes fondamentales en fonction des besoins. Depuis le big bang,
+et d'ajuster les constantes fondamentales en fonction des besoins. Depuis le Big Bang,
 la console n'avait été activée que quelques fois seulement, pour changer la vitesse
 d'expansion de l'univers. Autant dire que l'urgence n'était pas le quotidien de cette
 administration. En revenant des toilettes, Geovanna s'était pris les pieds sur la marche
-à l'entrée et s'était machinalement rattrapée aux boutons du panneau de commande, en
+à l'entrée et s'était machinalement rattrapée aux boutons du panneau de commande, en en
 déréglant une bonne partie. D'où: sirènes, gyrophares et alarmes.
 
 Geovanna se mit au travail pour tenter de réparer la bourde. D'abord: les constantes
 primaires. La vitesse de la lumière était actuellement réglée à quatorze kilomètres par
-heure. Elle était à peu près sûr que la valeur originale était plus élevée, mais de
+heure. Elle était à peu près sûre que la valeur originale était plus élevée, mais de
 combien ? Elle tourna la molette un peu aléatoirement, tentant de se souvenir de ses
-cours de physiques. Ça remontait à plusieurs éons. Elle choisit quelque chose qui lui
+cours de physique. Ça remontait à plusieurs éons. Elle choisit quelque chose qui lui
 semblait bien. Elle enchaîna sur la fréquence de transition hyperfine du césium 133.
 Puis la constante de Planck. Trou de mémoire. Elle se souvenait distinctement de son
 vieux professeur répétant "Planck, Six dix trente-quatre" mais était-ce six fois dix à
