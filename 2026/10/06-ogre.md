@@ -35,7 +35,7 @@ Oh, comme ce nouvel univers est proche du vôtre ! Ici, leurs droits fondamentau
 déjà l’objet d’une convention ratifiée par presque tous les États, comme chez vous. Et
 pourtant, étrangement, ils meurent toujours. Malnutrition, guerres, génocides, maladies
 et complications évitables. Une naissance sur cent, qui meurt avant l’âge adulte,
-exactement autant que la broyeuse, mais les ogres, d'ici, sont politiques. Felicia est
+exactement autant que la broyeuse, mais les ogres d'ici sont politiques. Felicia est
 acclamée pour tous les projets qu'elle a menés de par le monde. Trois cents enfants
 sauvés là grâce à une livraison spéciale de vaccins. Une soupe populaire ici en a nourri
 cinq cents. Elle a mené une campagne de communication pour sensibiliser tout un pays au
