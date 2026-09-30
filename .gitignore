@@ -2,3 +2,5 @@ _build
 _cache
 .ruff_cache
 .venv
+.wrangler
+node_modules

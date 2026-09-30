@@ -1,0 +1,18 @@
+# Triggers the Deploy workflow at midnight Paris time, because GitHub's own
+# `schedule` trigger is often late. The GitHub schedule stays as a fallback.
+#
+# Setup (from this directory):
+#   npm ci
+#   npx wrangler login
+#   npx wrangler secret put GITHUB_TOKEN  # fine-grained PAT, this repo only, Actions: read & write
+#   npm run deploy
+#
+# Local test: `npm run dev`, then curl "http://localhost:8787/__scheduled?cron=0+22+*+10+*"
+name = "writober-midnight"
+main = "src/index.js"
+compatibility_date = "2026-09-30"
+
+[triggers]
+# Cron triggers are UTC-only: fire at both possible offsets, the handler keeps
+# the one that is 00:xx in Paris.
+crons = ["0 22,23 * 10 *"]
