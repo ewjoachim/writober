@@ -43,8 +43,8 @@ commerce. Rien qui n'allait lui permettre de prendre le dessus. Elle commençait
 suffoquer, son visage prenant une teinte bleutée.
 
 Elle comprit alors qu'elle n'avait qu'une seule chance, un seul malentendu qui pourrait
-la sauver. Elle ferma les yeux, se concentra, entendit un bruit sourd, suivi d'un second:
-Miss Genealia qui tombait assommée. Soudain, l'air revint dans ses poumons. Le
+la sauver. Elle ferma les yeux, se concentra, entendit un bruit sourd, suivi d'un
+second: Miss Genealia qui tombait assommée. Soudain, l'air revint dans ses poumons. Le
 serpent s'était volatilisé. Elle reprit ses esprits. Deux policiers étaient en train de
 menotter la criminelle. Altera, ou plutôt Amelia Newton, prit la pomme sur le sol à ses
 pieds et s'éloigna en la croquant. Elle n'aurait jamais imaginé descendre réellement
