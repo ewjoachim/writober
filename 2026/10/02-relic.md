@@ -13,9 +13,9 @@ Berrin restait là, un peu ébahie, n'osant commencer à bouger de peur de se co
 Finalement, elle commença à se déplacer au milieu du verre brisé, faisant bien attention
 avant de poser chacune de ses mandibules. Elle tapota un code sur la petite console près
 de la porte et bientôt, une douzaine de petits robots arrivèrent, se déplaçant le long
-du sol pour ramasser les éclats, passer la serpillère et remettre le petit laboratoire
-en état. Elle avait beau être une brillante chercheuse du département d'exobiologie,
-elle n'en restait pas moins une incorrigible maladroite.
+du sol pour ramasser les éclats, passer la serpillère, stériliser et remettre le petit
+laboratoire en état. Elle avait beau être une brillante chercheuse du département
+d'exobiologie, elle n'en restait pas moins une incorrigible maladroite.
 
 Consultant son ordinateur, elle constata que l'échantillon brisé était unique. Du reste,
 il n'y avait que trois autres échantillons en provenance de celle planète là, ramenés
