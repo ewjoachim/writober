@@ -32,7 +32,7 @@ de se battre contre les intérêts du marché, mais Felicia est pleine de ressou
 tous sauvés.
 
 Oh, comme ce nouvel univers est proche du vôtre ! Ici, leurs droits fondamentaux font
-l’objet d’une convention ratifiée par presque tous les États, comme chez vous. Et
+déjà l’objet d’une convention ratifiée par presque tous les États, comme chez vous. Et
 pourtant, étrangement, ils meurent toujours. Malnutrition, guerres, génocides, maladies
 et complications évitables. Une naissance sur cent, qui meurt avant l’âge adulte,
 exactement autant que la broyeuse, mais les ogres, d'ici, sont politiques. Felicia est
