@@ -4,7 +4,7 @@ full_title: 07 - Panique
 is_draft: false
 prompts:
 - date: 2026-10-07
-  original_prompt: panic
+  original_prompt: Panic
   title: Panique
 ---
 Alors que toutes les sirènes, gyrophares et alarmes sonnaient dans une discorde

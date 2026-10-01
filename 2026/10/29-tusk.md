@@ -4,6 +4,6 @@ full_title: 29 - Défense
 is_draft: true
 prompts:
 - date: 2026-10-29
-  original_prompt: tusk
+  original_prompt: Tusk
   title: Défense
 ---

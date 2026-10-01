@@ -4,7 +4,7 @@ full_title: 09 - RAM
 is_draft: true
 prompts:
 - date: 2026-10-09
-  original_prompt: ram
+  original_prompt: Ram
   title: RAM
 ---
 -

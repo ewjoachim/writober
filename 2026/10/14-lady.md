@@ -4,6 +4,6 @@ full_title: 14 - Lady
 is_draft: true
 prompts:
 - date: 2026-10-14
-  original_prompt: lady
+  original_prompt: Lady
   title: Lady
 ---

@@ -4,7 +4,7 @@ full_title: 10 - Mystique
 is_draft: true
 prompts:
 - date: 2026-10-10
-  original_prompt: mystical
+  original_prompt: Mystical
   title: Mystique
 ---
 -

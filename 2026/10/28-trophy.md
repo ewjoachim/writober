@@ -4,6 +4,6 @@ full_title: 28 - Trophée
 is_draft: true
 prompts:
 - date: 2026-10-28
-  original_prompt: trophy
+  original_prompt: Trophy
   title: Trophée
 ---

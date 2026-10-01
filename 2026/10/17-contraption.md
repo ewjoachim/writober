@@ -4,6 +4,6 @@ full_title: 17 - ?
 is_draft: true
 prompts:
 - date: 2026-10-17
-  original_prompt: contraption
+  original_prompt: Contraption
   title: '?'
 ---

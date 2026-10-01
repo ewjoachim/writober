@@ -4,6 +4,6 @@ full_title: 25 - Fracture
 is_draft: true
 prompts:
 - date: 2026-10-25
-  original_prompt: fracture
+  original_prompt: Fracture
   title: Fracture
 ---

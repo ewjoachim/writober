@@ -4,6 +4,6 @@ full_title: 24 - ?
 is_draft: true
 prompts:
 - date: 2026-10-24
-  original_prompt: bake
+  original_prompt: Bake
   title: '?'
 ---

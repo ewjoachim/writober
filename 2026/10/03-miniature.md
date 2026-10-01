@@ -4,7 +4,7 @@ full_title: 03 - Miniature
 is_draft: false
 prompts:
 - date: 2026-10-03
-  original_prompt: miniature
+  original_prompt: Miniature
   title: Miniature
 ---
 Chiara actionna l'interrupteur du sous-sol. Les néons froids s'allumèrent un par un,

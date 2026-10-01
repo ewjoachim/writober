@@ -4,7 +4,7 @@ full_title: 04 - Cactus
 is_draft: false
 prompts:
 - date: 2026-10-04
-  original_prompt: cactus
+  original_prompt: Cactus
   title: Cactus
 ---
 Deepali, comme à son habitude, emballait méthodiquement la plante, d’un geste lent et

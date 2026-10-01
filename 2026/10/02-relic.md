@@ -4,7 +4,7 @@ full_title: 02 - Relique
 is_draft: false
 prompts:
 - date: 2026-10-02
-  original_prompt: relic
+  original_prompt: Relic
   title: Relique
 ---
 Berrin restait là, un peu ébahie, n'osant commencer à bouger de peur de se couper.

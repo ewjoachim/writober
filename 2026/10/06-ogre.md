@@ -4,7 +4,7 @@ full_title: 06 - Ogres
 is_draft: false
 prompts:
 - date: 2026-10-06
-  original_prompt: ogre
+  original_prompt: Ogre
   title: Ogres
 ---
 Intéressons-nous maintenant à une catégorie spécifique d’univers parallèles: ceux dans

@@ -4,7 +4,7 @@ full_title: 01 - Pomme
 is_draft: false
 prompts:
 - date: 2026-10-01
-  original_prompt: apple
+  original_prompt: Apple
   title: Pomme
 ---
 Altera était dos au mur, ou plus précisément dos au tronc. Son adversaire, Miss Genealia

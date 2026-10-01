@@ -4,7 +4,7 @@ full_title: 05 - Sémaque
 is_draft: false
 prompts:
 - date: 2026-10-05
-  original_prompt: smack
+  original_prompt: Smack
   title: Sémaque
 ---
 Au petit matin, Everdina manœuvrait seule le grand sémaque, le reste de l'équipage

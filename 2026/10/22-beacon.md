@@ -4,6 +4,6 @@ full_title: 22 - Phare
 is_draft: true
 prompts:
 - date: 2026-10-22
-  original_prompt: beacon
+  original_prompt: Beacon
   title: Phare
 ---
