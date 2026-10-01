@@ -7,6 +7,7 @@ prompts:
   title: Percer
 redirect_aliases:
 - 2025/06-pierce.html
+- 2025/10/6-Pierce/index.html
 ---
 # 06 - Percer
 

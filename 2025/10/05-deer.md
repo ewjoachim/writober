@@ -7,6 +7,7 @@ prompts:
   title: Biche
 redirect_aliases:
 - 2025/05-deer.html
+- 2025/10/5-Deer/index.html
 ---
 # 05 - Biche
 

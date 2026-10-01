@@ -7,6 +7,7 @@ prompts:
   title: Trek
 redirect_aliases:
 - 2024/06-trek.html
+- 2024/10/6-Trek/index.html
 ---
 # 06 - Trek
 

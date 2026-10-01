@@ -2,6 +2,7 @@ site_name = "Le Journal de Writober d'Ewjoachim"
 copyright = "2024- Joachim Jablon - CC-BY-SA-NC"
 locale = "fr-fr"
 timezone = "Europe/Paris"
+zero_pad_url_dates = true
 colors = [
     "#dd3300",
     "#f46101",

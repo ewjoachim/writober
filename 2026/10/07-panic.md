@@ -6,6 +6,8 @@ prompts:
 - date: 2026-10-07
   original_prompt: Panic
   title: Panique
+redirect_aliases:
+- 2026/10/7-Panic/index.html
 ---
 Alors que toutes les sirènes, gyrophares et alarmes sonnaient dans une discorde
 assourdissante, Geovanna prit une longue respiration. Paniquer ne servirait à rien.

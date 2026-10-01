@@ -7,6 +7,7 @@ prompts:
   title: Couronne
 redirect_aliases:
 - 2025/03-crown.html
+- 2025/10/3-Crown/index.html
 ---
 # 03 - Couronne
 

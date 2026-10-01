@@ -7,6 +7,7 @@ prompts:
   title: Ténébreux
 redirect_aliases:
 - 2025/04-murky.html
+- 2025/10/4-Murky/index.html
 ---
 # 04 - Ténébreux
 

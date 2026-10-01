@@ -7,6 +7,7 @@ prompts:
   title: Soleil
 redirect_aliases:
 - 2024/09-sun.html
+- 2024/10/9-Sun/index.html
 ---
 # 09 - Soleil
 

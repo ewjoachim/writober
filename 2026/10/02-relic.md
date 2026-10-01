@@ -6,6 +6,8 @@ prompts:
 - date: 2026-10-02
   original_prompt: Relic
   title: Relique
+redirect_aliases:
+- 2026/10/2-Relic/index.html
 ---
 Berrin restait là, un peu ébahie, n'osant commencer à bouger de peur de se couper.
 Finalement, elle commença à se déplacer au milieu du verre brisé, faisant bien attention

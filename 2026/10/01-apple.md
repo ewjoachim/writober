@@ -6,6 +6,8 @@ prompts:
 - date: 2026-10-01
   original_prompt: Apple
   title: Pomme
+redirect_aliases:
+- 2026/10/1-Apple/index.html
 ---
 Altera était dos au mur, ou plus précisément dos au tronc. Son adversaire, Miss Genealia
 avait pris le dessus depuis les premières secondes. Les deux super-héroïnes se

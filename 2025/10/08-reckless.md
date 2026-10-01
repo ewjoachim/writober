@@ -7,6 +7,7 @@ prompts:
   title: Impé-tueuse
 redirect_aliases:
 - 2025/08-reckless.html
+- 2025/10/8-Reckless/index.html
 ---
 # 08 - Impé-tueuse
 

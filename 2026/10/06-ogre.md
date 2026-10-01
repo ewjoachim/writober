@@ -6,6 +6,8 @@ prompts:
 - date: 2026-10-06
   original_prompt: Ogre
   title: Ogres
+redirect_aliases:
+- 2026/10/6-Ogre/index.html
 ---
 Intéressons-nous maintenant à une catégorie spécifique d’univers parallèles: ceux dans
 lequel Felicia sauve les enfants des ogres.

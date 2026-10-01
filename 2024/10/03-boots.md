@@ -7,6 +7,7 @@ prompts:
   title: Démarre !
 redirect_aliases:
 - 2024/03-boots.html
+- 2024/10/3-Boots/index.html
 ---
 # 03 - Démarre !
 

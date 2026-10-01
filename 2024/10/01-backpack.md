@@ -7,6 +7,7 @@ prompts:
   title: Sac à dos
 redirect_aliases:
 - 2024/01-backpack.html
+- 2024/10/1-Backpack/index.html
 ---
 # 01 - Sac à dos
 

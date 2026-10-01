@@ -6,5 +6,7 @@ prompts:
 - date: 2026-10-09
   original_prompt: Ram
   title: RAM
+redirect_aliases:
+- 2026/10/9-Ram/index.html
 ---
 -

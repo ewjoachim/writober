@@ -7,6 +7,7 @@ prompts:
   title: Randonnée
 redirect_aliases:
 - 2024/08-hike.html
+- 2024/10/8-Hike/index.html
 ---
 # 08 - Randonnée
 

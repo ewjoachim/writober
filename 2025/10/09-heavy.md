@@ -7,6 +7,7 @@ prompts:
   title: Lourd
 redirect_aliases:
 - 2025/09-heavy.html
+- 2025/10/9-Heavy/index.html
 ---
 # 09 - Lourd
 

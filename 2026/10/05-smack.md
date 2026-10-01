@@ -6,6 +6,8 @@ prompts:
 - date: 2026-10-05
   original_prompt: Smack
   title: Sémaque
+redirect_aliases:
+- 2026/10/5-Smack/index.html
 ---
 Au petit matin, Everdina manœuvrait seule le grand sémaque, le reste de l'équipage
 finissant leur courte nuit. En suivant la côte, elles atteindraient dans quelques heures

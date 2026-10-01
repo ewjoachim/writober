@@ -7,6 +7,7 @@ prompts:
   title: Découverte
 redirect_aliases:
 - 2024/02-discover.html
+- 2024/10/2-Discover/index.html
 ---
 # 02 - Découverte
 

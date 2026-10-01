@@ -7,6 +7,7 @@ prompts:
   title: Jumelles
 redirect_aliases:
 - 2024/05-binoculars.html
+- 2024/10/5-Binoculars/index.html
 ---
 # 05 - Jumelles
 

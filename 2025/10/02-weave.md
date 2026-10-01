@@ -8,6 +8,7 @@ prompts:
 redirect_aliases:
 - 2025/02-weave.html
 - 2025/02-weave/index.html
+- 2025/10/2-Weave/index.html
 ---
 # 02 - Tissage
 

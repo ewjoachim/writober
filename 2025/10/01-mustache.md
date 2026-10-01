@@ -8,6 +8,7 @@ prompts:
 redirect_aliases:
 - 2025/01-mustache.html
 - 2025/01-mustache/index.html
+- 2025/10/1-Mustache/index.html
 ---
 # 01 - Moustache
 

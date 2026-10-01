@@ -7,6 +7,7 @@ prompts:
   title: Exotique
 redirect_aliases:
 - 2024/04-exotic.html
+- 2024/10/4-Exotic/index.html
 ---
 # 04 - Exotique
 

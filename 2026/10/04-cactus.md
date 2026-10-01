@@ -6,6 +6,8 @@ prompts:
 - date: 2026-10-04
   original_prompt: Cactus
   title: Cactus
+redirect_aliases:
+- 2026/10/4-Cactus/index.html
 ---
 Deepali, comme à son habitude, emballait méthodiquement la plante, d’un geste lent et
 sûr, tournant et retournant, marquant le pli, afin que les couleurs et les textures des

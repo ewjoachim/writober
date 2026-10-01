@@ -6,6 +6,8 @@ prompts:
 - date: 2026-10-03
   original_prompt: Miniature
   title: Miniature
+redirect_aliases:
+- 2026/10/3-Miniature/index.html
 ---
 Chiara actionna l'interrupteur du sous-sol. Les néons froids s'allumèrent un par un,
 éclairant les deux parties du gigantesque sous-sol: le laboratoire d'un côté, et de

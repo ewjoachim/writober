@@ -7,6 +7,7 @@ prompts:
   title: Starfish
 redirect_aliases:
 - 2025/07-starfish.html
+- 2025/10/7-Starfish/index.html
 ---
 # 07 - Starfish
 
