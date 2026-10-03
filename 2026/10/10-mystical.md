@@ -21,15 +21,14 @@ réponse qu'elle consentait à lui donner.
 
 La seconde fois que la grande Jaya alla trouver Jyoti, quelques années plus tard, elle
 s'était débarrassée de tout son équipement bariolé. Elle avait compris que c'était
-d'elle-même qu'émanait la vraie force. Elle avait compris aussi que la force physique ne
-réglait pas grand-chose. Les gens venaient la voir avec un problème, et ensemble, elle
-les aidait à trouver une solution. À chaque fois qu'elle aidait quelqu'un, deux autres
-personnes lui demandaient de l'aide. Souvent, elle arrivait à aider tout le monde.
-Parfois, elle était dépassée. Elle en avait assez d'être dépassée, alors elle avait
-grimpé la montagne, trouvé la cabane de la vieille Jyoti, elle lui avait offert un livre
-et avait posé sa question. La vieille Jyoti l'avait reçue, l'avait écouté lui avait
-souri … et lui avait dit qu'il s'agissait à nouveau de la seule réponse qu'elle avait
-pour elle.
+d'elle-même qu'émanait la vraie force. Et même: que la force physique ne réglait pas
+grand-chose. Les gens venaient la voir avec un problème, et ensemble, elle les aidait à
+trouver une solution. À chaque fois qu'elle aidait quelqu'un, deux autres personnes lui
+demandaient de l'aide. Souvent, elle arrivait à aider tout le monde. Parfois, elle était
+dépassée. Elle en avait assez d'être dépassée, alors elle avait grimpé la montagne,
+trouvé la cabane de la vieille Jyoti, elle lui avait offert un livre et avait posé sa
+question. La vieille Jyoti l'avait reçue, l'avait écouté lui avait souri … et lui avait
+dit qu'il s'agissait à nouveau de la seule réponse qu'elle avait pour elle.
 
 La dernière fois que la sage Jaya alla trouver Jyoti, ses cheveux gris flottaient au
 vent. Elle n'avait jamais arrêté de parcourir les chemins. Elle montrait aux gens le
