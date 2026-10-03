@@ -28,7 +28,7 @@ place. Souvent, elle arrivait à aider tout le monde. Parfois, elle était dépa
 en avait assez d'être dépassée, alors elle avait grimpé la montagne, trouvé la cabane de
 la vieille Jyoti, elle lui avait offert un livre et avait posé sa question. La vieille
 Jyoti l'avait reçue, l'avait écouté lui avait souri… et lui avait dit qu'il s'agissait à
-nouveau de la seule réponse qu'elle avait pour elle.
+nouveau de la seule réponse qu'elle avait pour Jaya.
 
 La dernière fois que la sage Jaya alla trouver Jyoti, ses cheveux gris flottaient au
 vent. Elle n'avait jamais arrêté de parcourir les chemins. Elle montrait aux gens le
