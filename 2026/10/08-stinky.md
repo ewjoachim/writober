@@ -44,6 +44,5 @@ autres ce qu'elle ressentait. Au début, ils ne s'en rendaient pas compte, mais 
 quelques semaines à proximité d'elle, une fois leur cerveau habitué, ils ne pourraient
 plus jamais s'en débarrasser. Cela faisait déjà plusieurs jours que sa cliente se
 plaignait régulièrement d'une odeur nauséabonde sans comprendre d'où elle venait. Elle
-multipliait les couches de parfum, prenait, parait-il, des douches des heures durant,
-mais l'odeur était tenace. Hyacinthe tenait bon. Plus que quelques jours à tirer, tout
-au plus.
+multipliait les couches de parfum, prenait six douches dans la journée, mais l'odeur
+était tenace. Hyacinthe tenait bon. Plus que quelques jours à tirer, tout au plus.
