@@ -14,7 +14,7 @@ vie. Plus que quelques jours à tirer et elle pourrait mettre tout cela derrièr
 Elle s'essuya la bouche dans le lavabo, réajusta son col, et sortit. Les losanges bruns
 stridents gluants fétides étaient partout autour d'elle, mais tous l'ignoraient. Elle
 avait l'apparence exacte qui faisait que personne ne ferait attention à elle: grande
-musclée, un costume noir et blanc impeccable, une cravate noire, des lunettes de soleil,
+musclée, un costard noir et blanc impeccable, une cravate noire, des lunettes de soleil,
 et ce petit fil d'écouteur torsadé si caractéristique. Elle était garde du corps.
 Reprenant position à proximité de sa cliente, elle se concentra.
 
