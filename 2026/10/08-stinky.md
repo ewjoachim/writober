@@ -30,7 +30,7 @@ furieuse. Toute combinaison d'émotion créerait un mélange hétéroclite qu'Hy
 passée maîtresse dans l'art d'identifier.
 
 Ici, au QG du Renouveau Patriotique, un parti d'extrême-droite bien en vue, sa cliente
-annonçait ce soit sa candidature. Hyacinthe, comme à chaque fois qu'elle se tenait au
+annonçait ce soir sa candidature. Hyacinthe, comme à chaque fois qu'elle se tenait au
 milieu d'une telle foule et si près de sa cliente, devait lutter intérieurement contre
 un haut-le-cœur. Elle avait beau avoir l'estomac parfaitement vide à présent, ces
 choses-là ne se contrôlent pas. La suffisance était une forme désagréable, le cynisme
