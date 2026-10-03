@@ -20,7 +20,7 @@ Reprenant position à proximité de sa cliente, elle se concentra.
 
 Hyacinthe était également atteinte d'une rare, très rare forme de synesthésie
 émotionnelle multisensorielle. La majorité des gens sont capables, dans une certaine
-mesure d'identifier les émotions de leurs congénères. Cela prend usuellement la forme
+mesure, d'identifier les émotions de leurs congénères. Cela prend usuellement la forme
 d'une information que le cerveau porte à la conscience. On voit quelqu'un et on sait
 qu'il est énervé. Quand Hyacinthe percevait une émotion, cela s'exprimait par
 combinaison de forme, de couleur, de timbre, de texture et d'odeur. Une personne énervée
