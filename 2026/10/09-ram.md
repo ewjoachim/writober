@@ -20,9 +20,9 @@ Elle avait tiré toute la patience qu'elle pourrait de son bailleur. Elle n'en a
 aucunement de la société l'électricité dont l'algorithme couperait le compteur à la
 première seconde où sa facture serait en retard. Au chômage depuis plusieurs années, son
 chèque, elle l'attendait de son ancien employeur qui, non content de l'avoir virée,
-avait dézingué sa réputation dans toute l'industrie, lui fermant la porte à tout autre
-contrat. Évidemment, il était en tort. Évidemment, elle l'avait traîné en justice, et
-avait même obtenu gain de cause. Et évidemment, il tardait à présent à payer les
+avait dézingué sa réputation dans toute l'industrie, lui fermant la porte pour tout
+autre contrat. Évidemment, il était en tort. Évidemment, elle l'avait traîné en justice,
+et avait même obtenu gain de cause. Et évidemment, il tardait à présent à payer les
 dommages et intérêts, un montant suffisant pour assurer à Irmela un niveau de vie décent
 pendant plusieurs années. Mais pendant que son ex-patron jouait la montre, les
 créanciers d'Irmela, eux, s'impatientaient. Elle devait trouver quelque chose à leur
