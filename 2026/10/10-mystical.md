@@ -34,4 +34,4 @@ pour elle.
 La dernière fois que la sage Jaya alla trouver Jyoti, ses cheveux gris flottaient au
 vent. Elle n'avait jamais arrêté de parcourir les chemins. Elle apprenait aux gens à
 régler leurs propres problèmes. Elle n'avait rien à demander à Jyoti, mais elle avait
-apporté du thé. Les deux amies discutèrent, autour d'un thé.
+apporté du thé. Les deux amies discutèrent, et burent du thé.
