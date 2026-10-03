@@ -11,11 +11,11 @@ redirect_aliases:
 ---
 Chiara actionna l'interrupteur du sous-sol. Les néons froids s'allumèrent un par un,
 éclairant les deux parties du gigantesque sous-sol: le laboratoire d'un côté, et de
-l'autre, la grande maquette de sa ville et du chemin de fer qui la traversait. La
-maquette de presque vingt mètres de large était impressionnante.
+l'autre, l'immense maquette de près de vingt mètres de large, qui représentait la ville
+dans laquelle elle se trouvait.
 
 Même si elle ne savait pas réellement comment elle était arrivée là, elle avait
-rapidement compris que son rôle était d'étudier et de comprendre la maquette autant que
+rapidement compris que son rôle était d'étudier et de comprendre cet objet autant que
 d'en prendre soin. Deux observations avaient permis de l'en convaincre. Tout d'abord,
 elle avait repéré son avatar dans la maquette, une petite figurine animée haute comme un
 pouce, qui étudiait la maquette dans la maquette, une minuscule ville d'à peine vingt
@@ -25,7 +25,7 @@ qui lui ressemblait, et qu'elle apercevait occasionnellement à l'horizon.
 
 Elle avait rapidement pu déterminer que les limites physiques empêcheraient le motif de
 se reproduire à l'infini vers le petit: quand la maison qu'elle occupait serait
-représentée par un seul atome, il ne serait pas possible qu'elle contienne une maquette
+représentée par un seul atome, il ne serait pas possible qu'elle contienne une réplique
 miniature plus petite.
 
 Vers l'infiniment grand, par contre, c'était l'inconnu. Elle savait qu'elle avait une

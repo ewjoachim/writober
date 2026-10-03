@@ -32,6 +32,6 @@ souri … et lui avait dit qu'il s'agissait à nouveau de la seule réponse qu'e
 pour elle.
 
 La dernière fois que la sage Jaya alla trouver Jyoti, ses cheveux gris flottaient au
-vent. Elle n'avait jamais arrêté de parcourir les chemins. Elle apprenait aux gens à
-régler leurs propres problèmes. Elle n'avait rien à demander à Jyoti, mais elle avait
-apporté du thé. Les deux amies discutèrent, et burent du thé.
+vent. Elle n'avait jamais arrêté de parcourir les chemins. Elle montrait aux gens le
+chemin pour qu'ils règlent leurs propres problèmes. Elle n'avait rien à demander à
+Joyti, mais elle avait apporté du thé. Les deux amies discutèrent, et burent du thé.
