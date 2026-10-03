@@ -39,11 +39,11 @@ Elle n'avait pas réellement le choix de ce qu'elle dirait, au sens où le desti
 attaché à ses mots, autant que ses mots l'étaient au destin. Mais quoiqu'elle dise
 s'accomplirait. Elle ne pouvait pas faire vivre qui allait mourir, faire gagner qui
 allait perdre. Ces choses, tels des récifs, étaient saillants à la surface de la
-destinée.. Mais elle savait naviguer habilement autour, et, avec un peu d'inspiration,
-pouvait finalement choisir tout le reste. Elle pouvait trouver une route qui rendait la
-vie meilleure. La destinée demandait qu'untel se blesse en tombant de son toit.
-Peut-être que le futur était imprécis sur la portée de la blessure, elle pouvait alors
-de ses mots la rendre légère. Ainsi, elle devait peser chaque terme, manier les
+destinée. Mais elle savait naviguer habilement autour, et, avec un peu d'inspiration,
+pouvait finalement choisir librement son itinéraire. Elle pouvait trouver une route qui
+rendait la vie meilleure. La destinée demandait qu'untel se blesse en tombant de son
+toit. Peut-être que le futur était imprécis sur la portée de la blessure, elle pouvait
+alors de ses mots la rendre légère. Ainsi, elle devait peser chaque terme, manier les
 sous-entendus, choisir ce qu'elle omettrait.
 
 Alors que les premiers rayons de soleil perçaient l'horizon an loin, sur la terre ferme,

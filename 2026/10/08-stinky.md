@@ -29,20 +29,25 @@ piquante et une odeur relevée. Enfin ça, c'est si elle était vraiment, vraime
 furieuse. Toute combinaison d'émotion créerait un mélange hétéroclite qu'Hyacinthe était
 passée maîtresse dans l'art d'identifier.
 
-Ici, au QG du Renouveau Patriotique, un parti d'extrême-droite bien en vue, sa cliente
-annonçait ce soir sa candidature. Hyacinthe, comme à chaque fois qu'elle se tenait au
-milieu d'une telle foule et si près de sa cliente, devait lutter intérieurement contre
-un haut-le-cœur. Elle avait beau avoir l'estomac parfaitement vide à présent, ces
-choses-là ne se contrôlent pas. La suffisance était une forme désagréable, le cynisme
-une texture malaisante, l'orgueil une couleur disgracieuse, mais le pire, c'était la
-haine. La haine puait.
+Ici, au QG du Renouveau Patriotique, un parti fasciste qui avait le vent en poupe, sa
+cliente annonçait ce soir sa candidature. Hyacinthe, comme à chaque fois qu'elle se
+tenait au milieu d'une telle foule et si près de sa cliente, devait lutter
+intérieurement contre un haut-le-cœur. Elle avait beau avoir l'estomac parfaitement vide
+à présent, ces choses-là ne se contrôlent pas. La suffisance était une forme
+désagréable, le cynisme une texture malaisante, l'orgueil une couleur disgracieuse, mais
+le pire, c'était la haine. La haine puait.
 
 Hyacinthe ne s'imposait pas tout ça sans raison. Ce n'était évidemment pas pour protéger
-sa cliente, mais elle avait besoin de passer du temps auprès d'elle afin de mettre son
-plan à exécution: depuis toutes ces années, elle avait appris à faire ressentir aux
-autres ce qu'elle ressentait. Au début, ils ne s'en rendaient pas compte, mais après
-quelques semaines à proximité d'elle, une fois leur cerveau habitué, ils ne pourraient
-plus jamais s'en débarrasser. Cela faisait déjà plusieurs jours que sa cliente se
-plaignait régulièrement d'une odeur nauséabonde sans comprendre d'où elle venait. Elle
-multipliait les couches de parfum, prenait six douches dans la journée, mais l'odeur
-était tenace. Hyacinthe tenait bon. Plus que quelques jours à tirer, tout au plus.
+sa cliente, Hyacinthe aurait été la première à se réjouir si quelque chose devait lui
+arriver, mais elle avait besoin de passer du temps auprès de la dirigeante du parti afin
+de mettre son plan à exécution. Pas de violence physique, c'était contre ses valeurs.
+Elle protégeait les gens de la violence, ce n'était pas pour en être elle-même à
+l'origine.
+
+Mais depuis toutes ces années, elle avait appris à faire ressentir aux autres ce
+qu'elle-même ressentait. Au début, ils ne s'en rendaient pas compte, mais après quelques
+semaines à proximité physique, une fois leur cerveau habitué, ils ne pourraient plus
+jamais s'en débarrasser. Cela faisait déjà plusieurs jours que sa cliente se plaignait
+régulièrement d'une odeur nauséabonde sans comprendre d'où cela venait. Elle multipliait
+les couches de parfum, prenait six douches dans la journée, mais la puanteur était
+tenace. Hyacinthe tenait bon. Plus que quelques jours à tirer, tout au plus.
