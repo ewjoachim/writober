@@ -1,0 +1,18 @@
+.markdown-alert-coulisses {
+    border-left: 2px dashed hsl(0, 0%, 45%);
+    background-color: transparent;
+    color: hsl(210, 10%, 65%);
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+.markdown-alert-coulisses .markdown-alert-title {
+    font-style: normal;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.markdown-alert-coulisses .markdown-alert-title::before {
+    content: "🎬 ";
+}

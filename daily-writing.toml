@@ -51,6 +51,7 @@ index_colors = ["#fdad16", "#9df1a3", "#3ac5c8", "#773fae", "#ae183e"]
 logo = "android-chrome-512x512.png"
 title_ttf_font = "Quicksand"
 body_ttf_font = "Bitter"
+extra_css = ["static/callouts.css"]
 
 [[icon_links]]
 rel = "icon"
