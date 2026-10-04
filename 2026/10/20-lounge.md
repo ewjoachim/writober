@@ -7,3 +7,4 @@ prompts:
   original_prompt: Lounge
   title: Salon
 ---
+> [!coulisses]-

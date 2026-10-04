@@ -7,3 +7,4 @@ prompts:
   original_prompt: Trophy
   title: Trophée
 ---
+> [!coulisses]-

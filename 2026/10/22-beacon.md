@@ -7,3 +7,4 @@ prompts:
   original_prompt: Beacon
   title: Phare
 ---
+> [!coulisses]-

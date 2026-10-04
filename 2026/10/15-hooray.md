@@ -7,3 +7,4 @@ prompts:
   original_prompt: Hooray
   title: Houra
 ---
+> [!coulisses]-

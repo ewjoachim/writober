@@ -7,3 +7,4 @@ prompts:
   original_prompt: Cookie
   title: Cookie
 ---
+> [!coulisses]-
