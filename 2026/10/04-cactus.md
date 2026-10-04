@@ -13,14 +13,14 @@ Deepali, comme à son habitude, emballait méthodiquement la plante, d’un gest
 sûr, tournant et retournant, marquant le pli, afin que les couleurs et les textures des
 papiers choisis s’harmonisent. Un papier rouge, rugueux, une feuille iridescente lisse,
 une feuille d’un blanc un peu cassé au touché strié. Avant de plaquer le dernier pli,
-celui qui fermerait l’emballage, elle glissa la petite enveloppe qu’elle avait préparé
-et la planta sur des plus saillantes épines du cactus.
+celui qui fermerait l’emballage, elle glissa la petite enveloppe qu’elle avait préparée
+et la planta sur la plus saillante épine du cactus.
 
 Elle repensait aux différentes étapes de sa relation avec Dani, qui au fil des années
 avait souvent été rythmée par des offrandes végétales, dans un sens ou dans l’autre.
-Parfois un peu cryptiques, mais toujours symboliques, ces cadeaux avaient accompagnés
-les grands évènements de leur vie commune. Dani lui avait offert un Tillandsia quand
-Deepali avait décroché son diplôme en sorcellerie occulte, Deepali lui avait offert un
+Parfois un peu cryptiques, mais toujours symboliques, ces cadeaux avaient accompagné les
+grands évènements de leur vie commune. Dani lui avait offert un Tillandsia quand Deepali
+avait décroché son diplôme en sorcellerie occulte, Deepali lui avait offert un
 Zamioculcas le jour où Dani avait entamé son premier poste d’analyste dans une grande
 banque.
 
@@ -28,7 +28,7 @@ Les années avaient passé, les plantes avaient grandi, certaines avaient flétr
 l’amour de Dani pour Deepali, et cette dernière avait décidé de mettre un terme à leur
 relation. Pour Deepali, le fait que Dani ait tenté d’avoir une relation extra-conjugale
 et de le lui cacher était la goutte d’eau. Dani avait fait montre de si peu d’attention
-que Deepali n’avait meme pas eu besoin de recourir à la divination pour le découvrir:
+que Deepali n’avait même pas eu besoin de recourir à la divination pour le découvrir:
 c’était presque comme si Dani n’essayait pas réellement de s’en cacher, mais tout en lui
 mentant éhontément.
 
