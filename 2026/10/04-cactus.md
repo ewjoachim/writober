@@ -43,3 +43,6 @@ baudruche.
 > Tillandsia: "fille de l'air", autonomie, liberté, adaptabilité. Totalement la sorcière sur son balai, genre Kiki.
 >
 > Zamioculcas: Surnommé "plante-argent" ou "arbre à dollars"
+>
+> Aussi tout est écrit pour ne pas genrer Dani (prénom épicène). Vous aviez quel genre
+> en tête en le lisant ?
