@@ -32,10 +32,9 @@ heure. Elle était à peu près sûre que la valeur originale était plus élev�
 combien ? Elle tourna la molette un peu aléatoirement, tentant de se souvenir de ses
 cours de physique. Ça remontait à plusieurs éons. Elle choisit quelque chose qui lui
 semblait bien. Elle enchaîna sur la fréquence de transition hyperfine du césium 133.
-Puis la constante de Planck. Trou de mémoire. Elle se souvenait distinctement de son
-vieux professeur répétant "Planck, Six dix trente-quatre" mais était-ce six fois dix à
-la puissance trente-quatre ou moins-trente-quatre ? Elle en choisit un aléatoirement, et
-continua.
+Puis la constante de Planck. Trou de mémoire. Elle se souvenait assez bien des chiffres
+de la constante, mais incapable de dire l'échelle. Immensément petit ou immensément
+grand ? Elle en choisit un aléatoirement, et continua.
 
 À mesure qu'elle rétablissait les valeurs, les alarmes s'éteignaient. Elle reprenait
 confiance en elle. Elle passa aux constantes secondaires: la vitesse de pousse des
@@ -49,5 +48,5 @@ aventure passerait inaperçue, elle pourrait avoir des ennuis, sinon.
 Le bâtiment, préservé de ses propres effets, errait à présent seul dans l'univers.
 Toutes les étoiles éteintes. Toutes les formes d'énergie dissipées.
 
-> [!coulisses]
+> [!coulisses]-
 > [Évidemment](https://xkcd.com/1620/) et [évidemment](https://xkcd.com/2989/) et [évidemment](https://xkcd.com/1763/)

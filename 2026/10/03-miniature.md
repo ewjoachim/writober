@@ -46,5 +46,5 @@ recherches poussées, alors elle s'installa à son bureau dans le laboratoire. L
 d'une cellule de peau morte, de la taille d'un petit caillou, trouvée dans son jardin la
 veille allait forcément lui livrer des secrets.
 
-> [!coulisses]
+> [!coulisses]-
 > [Évidemment](https://xkcd.com/878/)

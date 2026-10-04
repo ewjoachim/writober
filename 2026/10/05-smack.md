@@ -49,5 +49,5 @@ sous-entendus, choisir ce qu'elle omettrait.
 Alors que les premiers rayons de soleil perçaient l'horizon an loin, sur la terre ferme,
 Everdina sourit en préparant mentalement sa journée.
 
-> [!coulisses]
+> [!coulisses]-
 > Une liberté artistique sur la traduction: Un "smack" en anglais est bien un bateau de pêche, un sémaque aussi, et la traduction de sémaque, au sens du bateau des Pays-Bas, serait un "Dutch smack". Un "smack" sans préciser "Dutch" serait un type de navire différent. Évidemment, "smack" a d'autres traductions, mais je trouvais celle-là plus inattendue.

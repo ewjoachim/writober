@@ -53,5 +53,5 @@ L'ensemble des nombres premiers, notés P, indiquait à sa mère qu'il allait bi
 cardinal de tous les sous-ensembles formant un espace de Hilbert aurait besoin d'aide
 dans quelques jours pour reconfigurer son cerveau normalement et sortir d'ultraspection.
 
-> [!coulisses]
+> [!coulisses]-
 > [Évidemment](https://xkcd.com/876/).

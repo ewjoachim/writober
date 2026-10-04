@@ -39,7 +39,7 @@ illustrer sa décision. Et au cas où le message ne serait pas assez clair, la l
 épinglée dessus portait en elle un sort qui transformait qui la lirait en ballon de
 baudruche.
 
-> [!coulisses]
+> [!coulisses]-
 > Tillandsia: "fille de l'air", autonomie, liberté, adaptabilité. Totalement la sorcière sur son balai, genre Kiki.
 >
 > Zamioculcas: Surnommé "plante-argent" ou "arbre à dollars"

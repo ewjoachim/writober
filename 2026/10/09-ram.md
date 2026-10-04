@@ -42,5 +42,5 @@ intelligent, moins vif, plus naïf, mais beaucoup moins gourmand en mémoire. En
 appuyant sur son bras, elle fit glisser le cache qui recouvrait l'emplacement de ses
 deux propres barrettes de RAM et en retira délicatement une.
 
-> [!coulisses]
+> [!coulisses]-
 > Je me suis demandé si le fait de ne pas mentionner de micro-ondes dans l'appartement, mais d'insister sur l'électricité rendait la chute évidente.

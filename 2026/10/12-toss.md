@@ -58,5 +58,5 @@ avait sorti un projet entier. Une usine à gaz, des centaines de sous-systèmes,
 dix-mille lignes de doc. Lisabeth ne prit même pas la peine de commencer à lire, et
 supprima promptement le projet.
 
-> [!coulisses]
+> [!coulisses]-
 > Qu'est-ce qu'elle est bien, [cette nouvelle](https://qntm.org/mmacevedo). Désolé pour avoir encore parlé d'IA. J'essaierai de limiter.

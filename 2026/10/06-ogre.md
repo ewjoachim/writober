@@ -43,5 +43,5 @@ sort des enfants victimes d'une guerre à l'autre bout du monde. C'est beau, ça
 chaud au cœur. Certes, ça ne fait rien pour empêcher les ogres de continuer à massacrer
 en toute impunité, mais pourquoi s'arrêter à des détails.
 
-> [!coulisses]
+> [!coulisses]-
 > Un style un peu différent pour varier. Aussi, [l'inspiration](https://podcasts.nova.fr/radio-nova-la-derniere/202609201938-la-machine-ecraseuse-dorphelins-la-chronique-dalbert-moukhei)

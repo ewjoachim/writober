@@ -52,5 +52,5 @@ policiers étaient en train de menotter la criminelle. Altera, ou plutôt Amelia
 prit la pomme sur le sol à ses pieds et s'éloigna en la croquant. Elle n'aurait jamais
 imaginé descendre réellement d'Isaac Newton.
 
-> [!coulisses]
+> [!coulisses]-
 > Mon propre nom de famille veut dire pomme dans plusieurs langues d'Europe, héritage familial.

@@ -37,5 +37,5 @@ une nouvelle fois le catalogue, raya donc la fiche *Homo Sapiens* et tourna la p
 *Felis Catus*. Elle sortit délicatement une nouvelle boite en verre du grand frigo, et
 se remit au travail.
 
-> [!coulisses]
+> [!coulisses]-
 > La difficulté était d'écrire une chute qui n'était pas celle d'[Exotic](/2024/10/04-Exotic/), c'est pour ça que je mentionne les mandibules assez tôt.

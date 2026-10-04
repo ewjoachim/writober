@@ -5,19 +5,16 @@
     font-size: 0.9em;
     font-style: italic;
     margin-top: 2em;
-    /* Lets a tap trigger :hover on iOS */
-    cursor: pointer;
 }
 
-.markdown-alert-coulisses > :not(.markdown-alert-title) {
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.3s;
+.markdown-alert-coulisses[open]> :not(.markdown-alert-title) {
+    animation: coulisses-reveal 0.3s;
 }
 
-.markdown-alert-coulisses:hover > :not(.markdown-alert-title) {
-    opacity: 1;
-    pointer-events: auto;
+@keyframes coulisses-reveal {
+    from {
+        opacity: 0;
+    }
 }
 
 .markdown-alert-coulisses .markdown-alert-title {
@@ -25,8 +22,24 @@
     font-size: 0.8em;
     text-transform: uppercase;
     letter-spacing: 0.1em;
+    list-style: none;
+}
+
+.markdown-alert-coulisses .markdown-alert-title::-webkit-details-marker {
+    display: none;
 }
 
 .markdown-alert-coulisses .markdown-alert-title::before {
     content: "🎬 ";
+}
+
+.markdown-alert-coulisses .markdown-alert-title::after {
+    content: " ▸ (cliquez)";
+    text-transform: none;
+    letter-spacing: normal;
+    opacity: 0.7;
+}
+
+.markdown-alert-coulisses[open] .markdown-alert-title::after {
+    content: " ▾";
 }
