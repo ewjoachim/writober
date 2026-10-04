@@ -52,3 +52,6 @@ point et souhaitaient donc continuer les recherches pendant une semaine supplém
 L'ensemble des nombres premiers, notés P, indiquait à sa mère qu'il allait bien, le
 cardinal de tous les sous-ensembles formant un espace de Hilbert aurait besoin d'aide
 dans quelques jours pour reconfigurer son cerveau normalement et sortir d'ultraspection.
+
+> [!coulisses]
+> [Évidemment](https://xkcd.com/876/).

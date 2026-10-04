@@ -45,3 +45,6 @@ Chiara était probablement la plus petite version d'elle-même capable de mener 
 recherches poussées, alors elle s'installa à son bureau dans le laboratoire. L'analyse
 d'une cellule de peau morte, de la taille d'un petit caillou, trouvée dans son jardin la
 veille allait forcément lui livrer des secrets.
+
+> [!coulisses]
+> [Évidemment](https://xkcd.com/878/)

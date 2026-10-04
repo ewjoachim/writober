@@ -38,3 +38,8 @@ Comme la subtilité ne lui seyait guère, elle avait choisi un majestueux cactus
 illustrer sa décision. Et au cas où le message ne serait pas assez clair, la lettre
 épinglée dessus portait en elle un sort qui transformait qui la lirait en ballon de
 baudruche.
+
+> [!coulisses]
+> Tillandsia: "fille de l'air", autonomie, liberté, adaptabilité. Totalement la sorcière sur son balai, genre Kiki.
+>
+> Zamioculcas: Surnommé "plante-argent" ou "arbre à dollars"

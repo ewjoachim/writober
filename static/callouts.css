@@ -4,6 +4,20 @@
     color: hsl(210, 10%, 65%);
     font-size: 0.9em;
     font-style: italic;
+    margin-top: 2em;
+    /* Lets a tap trigger :hover on iOS */
+    cursor: pointer;
+}
+
+.markdown-alert-coulisses > :not(.markdown-alert-title) {
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s;
+}
+
+.markdown-alert-coulisses:hover > :not(.markdown-alert-title) {
+    opacity: 1;
+    pointer-events: auto;
 }
 
 .markdown-alert-coulisses .markdown-alert-title {

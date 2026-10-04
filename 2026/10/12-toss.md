@@ -57,3 +57,6 @@ voulait un simple script d'export, un truc tout bête en trente lignes. Le syst�
 avait sorti un projet entier. Une usine à gaz, des centaines de sous-systèmes, plus de
 dix-mille lignes de doc. Lisabeth ne prit même pas la peine de commencer à lire, et
 supprima promptement le projet.
+
+> [!coulisses]
+> Qu'est-ce qu'elle est bien, [cette nouvelle](https://qntm.org/mmacevedo). Désolé pour avoir encore parlé d'IA. J'essaierai de limiter.

@@ -51,3 +51,6 @@ jamais s'en débarrasser. Cela faisait déjà plusieurs jours que sa cliente se 
 régulièrement d'une odeur nauséabonde sans comprendre d'où cela venait. Elle multipliait
 les couches de parfum, prenait six douches dans la journée, mais la puanteur était
 tenace. Hyacinthe tenait bon. Plus que quelques jours à tirer, tout au plus.
+
+> [!coulisses]
+> Toute ressemblance...

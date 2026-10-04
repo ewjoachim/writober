@@ -48,3 +48,6 @@ aventure passerait inaperçue, elle pourrait avoir des ennuis, sinon.
 
 Le bâtiment, préservé de ses propres effets, errait à présent seul dans l'univers.
 Toutes les étoiles éteintes. Toutes les formes d'énergie dissipées.
+
+> [!coulisses]
+> [Évidemment](https://xkcd.com/1620/) et [évidemment](https://xkcd.com/2989/) et [évidemment](https://xkcd.com/1763/)

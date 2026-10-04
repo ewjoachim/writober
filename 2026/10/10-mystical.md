@@ -34,3 +34,6 @@ La dernière fois que la sage Jaya alla trouver Jyoti, ses cheveux gris flottaie
 vent. Elle avait passé sa vie à voyager. Elle montrait aux gens le chemin afin qu'ils
 règlent leurs propres problèmes. Elle n'avait rien à demander à Joyti, mais elle avait
 apporté du thé que les deux amies burent en discutant.
+
+> [!coulisses]
+> [J'ai découvert ça après coup](https://piaille.fr/@MicroSFF@mastodon.art/117163478444338017)
