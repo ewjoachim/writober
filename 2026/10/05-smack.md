@@ -35,8 +35,8 @@ installeraient trois petites tentes. Chacune à sa façon, elles aideraient les 
 qui viennent. Everdina, aujourd'hui, allait faire rire et faire pleurer. Elle allait
 rassurer et, parfois, forcer le destin.
 
-Elle n'avait pas réellement le choix de ce qu'elle dirait, au sens où le destin était
-attaché à ses mots, autant que ses mots l'étaient au destin. Mais quoiqu'elle dise
+Elle n'avait pas réellement le choix de ce qu'elle dirait, au sens où la réalité était
+attachée à ses mots, autant que ses mots l'étaient à la réalité. Mais quoiqu'elle dise
 s'accomplirait. Elle ne pouvait pas faire vivre qui allait mourir, faire gagner qui
 allait perdre. Ces choses, tels des récifs, étaient saillants à la surface de la
 destinée. Mais elle savait naviguer habilement autour, et, avec un peu d'inspiration,
