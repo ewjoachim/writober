@@ -25,10 +25,10 @@ charge. Certaines avaient été des archères. D'autres des agricultrices. Puis 
 maçonnes. À chaque génération son analogie.
 
 Everdina et ses sœeurs étaient donc des marines. Elle-même était l'avenir. Elle était
-les promesses. Elle était la mort. Elle celle qui tendait le foc attaché à la proue du
-sémaque, celle qui choisissait le plan de route, qui savait où elles seraient attendues
-le lendemain. Et en l'occurrence, celle qui se levait tôt pour préparer leur arrivée
-prochaine à Holwerd.
+les promesses. Elle était la mort. Elle était celle qui tendait le foc attaché à la
+proue du sémaque, celle qui choisissait le plan de route, qui savait où elles seraient
+attendues le lendemain. Et en l'occurrence, celle qui se levait tôt pour préparer leur
+arrivée prochaine à Holwerd.
 
 Une fois dans la ville, les trois sœurs arrimeraient le bateau sur le petit port et
 installeraient trois petites tentes. Chacune à sa façon, elles aideraient les villageois
@@ -61,3 +61,7 @@ Everdina sourit en préparant mentalement sa journée.
 >
 > Dans l'ordre j'ai eu sémaque -> nécessite un équipage d'au moins 3 personnes -> les
 > moires et j'ai déroulé.
+>
+> Un sémaque des Pays-Bas, c'est très situé dans le temps et de facto dans l'espace.
+> J'ai essayé de ne pas trop ancrer l'histoire à l'époque où les sémaques circulaient,
+> mais les 3 prénoms sont cohérents avec le lieu et l'époque.
