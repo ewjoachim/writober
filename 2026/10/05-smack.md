@@ -36,9 +36,9 @@ qui viennent. Everdina, aujourd'hui, allait faire rire et faire pleurer. Elle al
 rassurer et, parfois, forcer le destin.
 
 Elle n'avait pas réellement le choix de ce qu'elle dirait, au sens où la réalité était
-attachée à ses mots, autant que ses mots l'étaient à la réalité. Mais quoiqu'elle dise
-s'accomplirait. Elle ne pouvait pas faire vivre qui allait mourir, faire gagner qui
-allait perdre. Ces choses, tels des récifs, étaient saillants à la surface de la
+attachée à ses mots, autant que ses mots l'étaient à la réalité. Quoiqu'elle dise
+s'accomplirait. Elle ne pouvait pas faire vivre qui devait mourir, faire gagner qui
+devait perdre. Ces choses, tels des récifs, étaient saillants à la surface de la
 destinée. Mais elle savait naviguer habilement autour, et, avec un peu d'inspiration,
 pouvait finalement choisir librement son itinéraire. Elle pouvait trouver une route qui
 rendait la vie meilleure. La destinée demandait qu'untel se blesse en tombant de son
