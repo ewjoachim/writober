@@ -55,3 +55,6 @@ dans quelques jours pour reconfigurer son cerveau normalement et sortir d'ultras
 
 > [!coulisses]-
 > [Évidemment](https://xkcd.com/876/).
+>
+> J'ai eu du mal à la finir, et j'ai bien peur que ça se voie. Quand Irmela entre dans
+> son menu et change son modèle dans [Relic](/2026/10/09-Ram/), est-elle en ultraspection ?

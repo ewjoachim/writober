@@ -60,3 +60,6 @@ supprima promptement le projet.
 
 > [!coulisses]-
 > Qu'est-ce qu'elle est bien, [cette nouvelle](https://qntm.org/mmacevedo). Désolé pour avoir encore parlé d'IA. J'essaierai de limiter.
+>
+> Je me demande s'il n'y avait pas un épisode de Black Mirror sur un sujet connexe dans
+> la saison 1.

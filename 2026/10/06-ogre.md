@@ -44,4 +44,7 @@ chaud au cœur. Certes, ça ne fait rien pour empêcher les ogres de continuer �
 en toute impunité, mais pourquoi s'arrêter à des détails.
 
 > [!coulisses]-
-> Un style un peu différent pour varier. Aussi, [l'inspiration](https://podcasts.nova.fr/radio-nova-la-derniere/202609201938-la-machine-ecraseuse-dorphelins-la-chronique-dalbert-moukhei)
+> Un style un peu différent pour varier. Aussi,
+> [l'inspiration](https://podcasts.nova.fr/radio-nova-la-derniere/202609201938-la-machine-ecraseuse-dorphelins-la-chronique-dalbert-moukhei)
+>
+> Sarah m'a aidé à mettre en ordre les idées et rendre le tout plus clair, merci à elle.

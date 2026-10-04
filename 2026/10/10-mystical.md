@@ -37,3 +37,8 @@ apporté du thé que les deux amies burent en discutant.
 
 > [!coulisses]-
 > [J'ai découvert ça après coup](https://piaille.fr/@MicroSFF@mastodon.art/117163478444338017)
+>
+> Je pense que j'ai un peu pensé à "[A Psalm for the Wild
+> Built](https://www.goodreads.com/book/show/40864002-a-psalm-for-the-wild-built)" en
+> l'écrivant, l'idée d'une
+> voyageureuse qui aide les gens et amène du thé.

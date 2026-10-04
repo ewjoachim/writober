@@ -54,3 +54,11 @@ tenace. Hyacinthe tenait bon. Plus que quelques jours à tirer, tout au plus.
 
 > [!coulisses]-
 > Toute ressemblance...
+>
+> J'aimais bien l'idée de synesthésie émotionnelle multisensorielle. J'ai appris que la
+> synesthésie émotionnelle existe réellement. [Cet article du
+> Monde](https://www.lemonde.fr/realites-biomedicales/2023/08/04/un-cas-rarissime-de-synesthesie-emotionnelle-apres-un-avc/)
+> contient la phrase "Il éprouve une sorte d’extase, décrite comme « orgasmique », à
+> l'écoute de la musique des films de James Bond lorsqu'elle est jouée dans un registre
+> aigu par des instruments à cuivre". Que voulez-vous qu'il reste à écrire quand la
+> réalité a déjà tout inventé ?

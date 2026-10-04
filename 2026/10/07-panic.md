@@ -50,3 +50,6 @@ Toutes les étoiles éteintes. Toutes les formes d'énergie dissipées.
 
 > [!coulisses]-
 > [Évidemment](https://xkcd.com/1620/) et [évidemment](https://xkcd.com/2989/) et [évidemment](https://xkcd.com/1763/)
+>
+> J'ai hésité sur les constantes secondaires, je pense pas que ça apporte beaucoup mais
+> ça me faisait rigoler.
