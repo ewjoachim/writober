@@ -47,5 +47,6 @@ ses habitants nous disaient simplement "Ôte-toi de mon étoile".
 > J'ai vérifié les ordres de grandeurs sur un calcul de coin de table. Le soleil
 > contient assez d'or, 7°, c'est assez pour toutes les planètes, 100 nm suffisent à
 > capter toute la lumière, et la quantité d'or annoncée correspond à un rayon qui laisse
-> l'or à l'état solide. On parle d'une sphère de 30 millions de km de rayon, donc on
-> a même laissé Mercure à l'extérieur. Allez, tout se tient, plus qu'à inventer le laser maintenant.
+> l'or à l'état solide. On parle d'une sphère de 30 millions de km de rayon, donc on a
+> même laissé Mercure à l'extérieur. Allez, tout se tient, plus qu'à inventer le laser
+> maintenant.
