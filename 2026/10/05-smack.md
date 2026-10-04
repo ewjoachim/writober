@@ -50,4 +50,14 @@ Alors que les premiers rayons de soleil perçaient l'horizon an loin, sur la ter
 Everdina sourit en préparant mentalement sa journée.
 
 > [!coulisses]-
-> Une liberté artistique sur la traduction: Un "smack" en anglais est bien un bateau de pêche, un sémaque aussi, et la traduction de sémaque, au sens du bateau des Pays-Bas, serait un "Dutch smack". Un "smack" sans préciser "Dutch" serait un type de navire différent. Évidemment, "smack" a d'autres traductions, mais je trouvais celle-là plus inattendue.
+> Une liberté artistique sur la traduction: Un "smack" en anglais est bien un bateau de
+> pêche, un sémaque aussi, et la traduction de sémaque, au sens du bateau des Pays-Bas,
+> serait un "Dutch smack". Un "smack" sans préciser "Dutch" serait un type de navire
+> différent. Évidemment, "smack" a d'autres traductions, mais je trouvais celle-là plus
+> inattendue.
+>
+> Du mal à trouver une chute inattendue, mais je m'autorise aussi à juste exposer des
+> idées que j'aime bien. J'aimais bien l'analogie de la prophétie et de la navigation.
+>
+> Dans l'ordre j'ai eu sémaque -> nécessite un équipage d'au moins 3 personnes -> les
+> moires et j'ai déroulé.
