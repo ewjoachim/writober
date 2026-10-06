@@ -9,16 +9,21 @@ prompts:
 redirect_aliases:
 - 2026/10/6-Ogre/index.html
 ---
-Intéressons-nous maintenant à une catégorie spécifique d’univers parallèles: ceux dans
-lequel Felicia sauve les enfants des ogres.
+Des univers parallèles, il en existe un paquet. Pas une infinité, comme on pourrait
+croire, mais néanmoins un nombre conséquent qui partagent de nombreux points communs. La
+Terre est habitée par des humains dans tous les univers (sauf ceux dans lesquels les
+humains ont déjà réussi à s'éradiquer). Toutes ces Terres contiennent aussi des ogres,
+qui veulent manger les enfants, et toutes contiennent une version de Felicia qui les
+sauve.
 
 Dans cet univers-ci, les ogres sont, littéralement, les créatures malfaisantes de nos
 contes. Ils sont grands, affamés et n'ont aucun respect pour la vie humaine. L'humanité
-s'en accommodait, mais pas Felicia, qui a organisé un soulèvement à l'échelle mondiale.
-Protéger les enfants, éloigner les ogres. Des parcs naturels ont été mis en place, et
-diverses mesures ont été prises. Leur population a réduit, mais ils sont aujourd'hui une
-espèce adaptée à son environnement. Et surtout: ils sont surveillés, et les enfants sont
-protégés.
+s'en est bien accommodée bien pendant des siècles (ça rendait les enfants sages), mais
+pas Felicia, qui a organisé une opération de sauvegarde à l'échelle mondiale. Sauvegarde
+des enfants, d'abord, mais sauvegarde des ogres aussi. Des parcs naturels ont été mis en
+place, et diverses mesures ont été prises. Leur population a réduit, mais ils sont
+aujourd'hui une espèce adaptée à son environnement. Et surtout: ils sont surveillés, et
+les enfants sont protégés.
 
 Regardez cet univers-là: la main invisible du marché y a construit un broyeur à enfants,
 et les économistes s’accordent à dire que celui-ci crée plus de richesses pour ses
@@ -26,10 +31,10 @@ propriétaires qu’il ne coûte d’argent, et grâce au ruissellement, c’est
 qui en bénéficie ! L'engin ne broie même pas tous les enfants, seulement une dizaine de
 milliers par jour. Environ une naissance sur cent à peine. Felicia a vite compris que
 l’existence même de cet ogre de métal est un péril pour la survie des enfants, une
-aberration. Elle milite pour sa destruction, puis l'interdiction définitive d'en
-reconstruire. La signature d’une charte protégeant les droits des enfants. Pas évident
-de se battre contre les intérêts du marché, mais Felicia est pleine de ressources. Hop,
-tous sauvés.
+aberration. Elle a longtemps milité pour sa destruction, puis l'interdiction définitive
+d'en reconstruire. Elle a obtenu signature d’une charte protégeant les droits des
+enfants. Pas évident de se battre contre les intérêts du marché, mais Felicia est pleine
+de ressources. Hop, tous sauvés.
 
 Oh, comme ce nouvel univers est proche du vôtre ! Ici, leurs droits fondamentaux font
 déjà l’objet d’une convention ratifiée par presque tous les États, comme chez vous. Et
@@ -47,4 +52,5 @@ en toute impunité, mais pourquoi s'arrêter à des détails.
 > Un style un peu différent pour varier. Aussi,
 > [l'inspiration](https://podcasts.nova.fr/radio-nova-la-derniere/202609201938-la-machine-ecraseuse-dorphelins-la-chronique-dalbert-moukhei)
 >
-> Sarah m'a aidé à mettre en ordre les idées et rendre le tout plus clair, merci à elle.
+> Sarah et Clem m'ont aidé à mettre en ordre les idées et rendre le tout plus clair,
+> merci à elleux.
