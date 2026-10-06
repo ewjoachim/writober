@@ -19,7 +19,7 @@ meilleure armure, des amulettes magiques, et ainsi de suite. La vieille Jyoti lu
 ri au nez. À l'air interdit de Jaya, Jyoti avait répondu qu'il s'agissait de la seule
 réponse qu'elle consentait à lui donner.
 
-La seconde fois que la grande Jaya alla trouver Jyoti, quelques années plus tard, elle
+La deuxième fois que la grande Jaya alla trouver Jyoti, quelques années plus tard, elle
 s'était débarrassée de tout son équipement bariolé. Elle avait compris que c'était
 d'elle-même qu'émanait la vraie force. Et même: que la force physique ne réglait pas
 grand-chose. Les gens venaient la voir avec un problème, et ensemble, elle les aidait à
