@@ -40,5 +40,4 @@ apporté du thé que les deux amies burent en discutant.
 >
 > Je pense que j'ai un peu pensé à "[A Psalm for the Wild
 > Built](https://www.goodreads.com/book/show/40864002-a-psalm-for-the-wild-built)" en
-> l'écrivant, l'idée d'une
-> voyageureuse qui aide les gens et amène du thé.
+> l'écrivant, l'idée d'une voyageureuse qui aide les gens et amène du thé.
