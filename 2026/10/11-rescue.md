@@ -16,7 +16,7 @@ dangerosité de la chose surtout pour qui se lancerait sans instructions précis
 connaissances approfondies sur le mécanisme. Nombreuses celles et ceux qui y avaient
 laissé la raison.
 
-Le cerveau était un réseau, complexe et emmêlé, fragile et incroyablement puissant. Kyra
+Le cerveau est un réseau, complexe et emmêlé, fragile et incroyablement puissant. Kyra
 avait passé des années à en étudier la théorie, et à reconfigurer le sien, petites
 touches par petites touches, jusqu'à développer une capacité unique de partage
 d'ultraspection avec quelqu'un. Elle était l'une des seules personnes capables de
