@@ -46,11 +46,11 @@ une petite notification. Après trente-sept minutes de calcul, son IA avait fini
 mouliner. Lisabeth testait le nouveau service lancé en grande pompe le jour-même:
 l'accès aux modèles réalisés sur la base des scanners cérébraux post-mortem de hackers
 d'envergure internationale. Elle avait choisi le modèle L33tAny (Leilani Kealoha), une
-figure de l'hacktivisme du temps de ses parents, disparue tragiquement dans sa jeunesse,
-à peu près en même temps que les premiers pas de la méthode de scan cérébral
-post-mortem. Elle l'avait lancé, un peu au hasard, sur le projet sur lequel elle
-travaillait pour son client, un cabinet dentaire, qui avait besoin d'un peu d'aide pour
-son logiciel de compta.
+figure de l'hacktivisme du temps de ses parents, disparue tragiquement dans un accident
+de voiture à trente ans, à peu près en même temps que les premiers pas de la méthode de
+scan cérébral post-mortem. Elle l'avait lancé, un peu au hasard, sur le projet sur
+lequel elle travaillait pour son client, un cabinet dentaire, qui avait besoin d'un peu
+d'aide pour son logiciel de compta.
 
 Le code était propre, rien à dire, mais c'était complètement disproportionné. Elle
 voulait un simple script d'export, un truc tout bête en trente lignes. Le système lui
