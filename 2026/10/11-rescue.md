@@ -24,10 +24,10 @@ communiquer avec une personne dans cet état et de l'aider à réparer ses conne
 
 À la demande de la mère de Kashani, Kyra se lançait aujourd'hui dans une opération de
 sauvetage. Kashani était entrée en ultraspection quelques jours auparavant mais, là où
-la plupart des gens n'y restent que quelques minutes, Kashani, elle, n'en était jamais
-ressortie. On la supposait bloquée dans un dédale mental, elle avait dû faire le mauvais
-changement. C'était le quotidien de Kyra: entrer, trouver le mauvais branchement, tout
-débloquer, ressortir. La routine.
+la plupart des gens n'y restent que quelques minutes, Kashani, elle, n'en était toujours
+pas ressortie. On la supposait bloquée dans un dédale mental, elle avait dû faire le
+mauvais changement. C'était le quotidien de Kyra: entrer, trouver le mauvais
+branchement, tout débloquer, ressortir. La routine.
 
 Kashani comme tant d'autres qui partageaient l'amour des mathématiques, avait prévu de
 recourir à l'utraspection pour aider son cerveau à visualiser plus naturellement des
