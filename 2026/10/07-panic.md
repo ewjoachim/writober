@@ -23,8 +23,8 @@ et d'ajuster les constantes fondamentales en fonction des besoins. Depuis le Big
 la console n'avait été activée que quelques fois seulement, pour changer la vitesse
 d'expansion de l'univers. Autant dire que l'urgence n'était pas le quotidien de cette
 administration. En revenant des toilettes, Geovanna s'était pris les pieds sur la marche
-à l'entrée et s'était machinalement rattrapée aux boutons du panneau de commande, en en
-déréglant une bonne partie. D'où: sirènes, gyrophares et alarmes.
+à l'entrée et s'était machinalement rattrapée aux boutons du panneau de commande, et en
+avait déréglé une bonne partie. D'où: sirènes, gyrophares et alarmes.
 
 Geovanna se mit au travail pour tenter de réparer la bourde. D'abord: les constantes
 primaires. La vitesse de la lumière était actuellement réglée à quatorze kilomètres par
@@ -34,7 +34,7 @@ cours de physique. Ça remontait à plusieurs éons. Elle choisit quelque chose 
 semblait bien. Elle enchaîna sur la fréquence de transition hyperfine du césium 133.
 Puis la constante de Planck. Trou de mémoire. Elle se souvenait assez bien des chiffres
 de la constante, mais incapable de dire l'échelle. Immensément petit ou immensément
-grand ? Elle en choisit un aléatoirement, et continua.
+grand ? Elle choisit l'un des deux, et continua.
 
 À mesure qu'elle rétablissait les valeurs, les alarmes s'éteignaient. Elle reprenait
 confiance en elle. Elle passa aux constantes secondaires: la vitesse de pousse des
