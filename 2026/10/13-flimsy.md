@@ -7,15 +7,15 @@ prompts:
   original_prompt: Flimsy
   title: Fin et fragile
 ---
-Tout ça commença quand on découvrit comment miner le soleil. Un rayon laser, finement
-calibré en position, fréquence, polarisation, et surtout puissance, pouvait créer un
-flux d'ions de l'élément de notre choix, dans une direction arbitraire. Quelques
-décennies de perfectionnement de la technique nous permirent d'envisager les chantiers
-les plus pharaoniques et c'est ainsi que, sous la direction de l'ingénieure en cheffe
-Martha Vaduva, l'humanité mit en place sa première sphère de Dyson. L'idée était de
-rediriger des flux d'ions d'or (une broutille, seulement quelques dizaines de millions
-de milliards de tonnes) tout autour du Soleil, afin de créer une sphère géante en or,
-dans une disposition qui captait toute l'énergie émise par l'astre.
+Tout ça commença quand on découvrit comment miner le soleil. Un rayon laser orienté vers
+une étoile, finement calibré en position, fréquence, polarisation, et surtout puissance,
+pouvait créer un flux d'ions de l'élément de notre choix, dans une direction arbitraire.
+Quelques décennies de perfectionnement de la technique nous permirent d'envisager les
+chantiers les plus pharaoniques et c'est ainsi que, sous la direction de l'ingénieure en
+cheffe Martha Vaduva, l'humanité mit en place sa première sphère de Dyson. L'idée était
+de rediriger des flux d'ions d'or (une broutille, seulement quelques dizaines de
+millions de milliards de tonnes) tout autour du Soleil, afin de créer une sphère géante
+en or, dans une disposition qui captait toute l'énergie émise par l'astre.
 
 Enfin pas exactement toute l'énergie. On laissa une fine bande de sept degrés au niveau
 de l'orbite des planètes afin que celles-ci continuent d'être éclairées toute l'année.
