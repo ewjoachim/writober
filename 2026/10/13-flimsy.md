@@ -35,7 +35,7 @@ utilisée sur cet unique point.
 Alors, on en chercha la source, on remonta à l'origine des astéroïdes. Et l'on comprit.
 Notre Soleil était une étoile importante parmi les constellations majeures visibles dans
 le ciel depuis l'hémisphère sud de la planète que nous appelions Proxima Centauri b. Et
-ses habitants nous disaient simplement "Ôte-toi de mon étoile".
+ses habitants nous disaient simplement à leur façon: "Ôte-toi de mon étoile".
 
 > [!coulisses]-
 > Les adjectifs dans writober, c'est pas ma contrainte préférée. Heureusement, Flimsy
@@ -43,7 +43,7 @@ ses habitants nous disaient simplement "Ôte-toi de mon étoile".
 > vêtement, et fumeux pour des excuses ou les idées.
 >
 > Les histoires de [Relic](/2026/10/02-Relic/) et [Panic](/2026/10/07-Panic/) auraient
-> marché sur ce thème aussi.
+> marché sur le thème "Flimsy" aussi.
 >
 > J'ai vérifié les ordres de grandeurs sur un calcul de coin de table. Le soleil
 > contient assez d'or, 7°, c'est assez pour toutes les planètes, 100 nm suffisent à
