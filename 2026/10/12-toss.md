@@ -22,7 +22,7 @@ distractions, un service lui livrait des repas sur son palier chaque jour à heu
 Évidemment, autant d'heures passées, par une personne de son talent: c'était un
 chef-d'œuvre qu'elle avait construit, et elle avait hâte d'en avoir terminé, dans
 l'espoir que sa fixation se dissipe, qu'elle puisse enfin passer à autre chose. Elle
-savait que son attitude était complètement malsaine, mais elle ne pouvait pas se battre
+savait que son attitude était parfaitement malsaine, mais elle ne pouvait pas se battre
 contre son propre esprit.
 
 Leilani avait construit un système d'exploitation complet ainsi que tous les programmes

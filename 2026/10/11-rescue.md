@@ -47,15 +47,17 @@ zêta de Riemann. Kyra essaya de saluer Kashani mais ne reçut en retour que des
 équations. Au bout de quelques minutes et d'un effort intense, Kyra sentit que Kashani
 lui partageait mentalement la définition suivante: Soit x un entier, x avait pu résoudre
 l'un des Problèmes du Millénaire et était prêt à en partager la démonstration pour
-publication. La fonction f définie sur l'espace du cerveau telle que f(x) était continue
-en tout point et souhaitaient donc continuer les recherches pendant une semaine
-supplémentaire. L'ensemble des nombres premiers, notés P, indiquait à sa mère qu'il
-allait bien, le cardinal de tous les sous-ensembles formant un espace de Hilbert aurait
-besoin d'aide dans quelques jours pour reconfigurer son cerveau normalement et sortir
-d'ultraspection.
+publication. Puisque la fonction f était définie en tout point de l'espace du cerveau,
+la fonction f souhaitait donc continuer les recherches pendant une semaine
+supplémentaire. L'ensemble noté P des nombres premiers indiquait à sa mère qu'il allait
+bien, le cardinal de tous les sous-ensembles formant un espace de Hilbert aurait
+probablement besoin d'aide dans quelques jours pour reconfigurer son cerveau normalement
+et sortir d'ultraspection.
 
 > [!coulisses]-
 > [Évidemment](https://xkcd.com/876/).
 >
-> J'ai eu du mal à la finir, et j'ai bien peur que ça se voie. Quand Irmela entre dans
+> J'ai eu du mal à la finir, et j'ai bien peur que ça se voie.
+>
+> Quand Irmela entre dans
 > son menu et change son modèle dans [Relic](/2026/10/09-Ram/), est-elle en ultraspection ?
