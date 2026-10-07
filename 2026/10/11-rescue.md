@@ -41,7 +41,7 @@ l'extérieur.
 
 Quand Kyra entra, elle ne reconnut aucune des structures mentales classique: qu'il
 s'agisse de la vision, du langage, des émotions, tout avait disparu ou du moins s'était
-tant transformé qu'elle peinait à le reconnaître. L'intégralité du cerveau redirigeait
+tant transformé qu'elle peinait à les reconnaître. L'intégralité du cerveau redirigeait
 chaque aspect de chaque pensée vers une chose: les zeros non-triviaux de la fonction
 zêta de Riemann. Kyra essaya de saluer Kashani mais ne reçut en retour que des
 équations. Au bout de quelques minutes et d'un effort intense, Kyra sentit que Kashani
