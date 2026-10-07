@@ -54,12 +54,13 @@ d'aide pour son logiciel de compta.
 
 Le code était propre, rien à dire, mais c'était complètement disproportionné. Elle
 voulait un simple script d'export, un truc tout bête en trente lignes. Le système lui
-avait sorti un projet entier. Une usine à gaz, des centaines de sous-systèmes, plus de
-dix-mille lignes de doc. Lisabeth ne prit même pas la peine de commencer à lire, et
-supprima promptement le projet.
+avait sorti un projet entier. Une usine à gaz, des centaines de sous-systèmes, quatorze
+millions de lignes de code au total. Lisabeth ne prit même pas la peine de commencer à
+lire, et supprima promptement le projet.
 
 > [!coulisses]-
-> Qu'est-ce qu'elle est bien, [cette nouvelle](https://qntm.org/mmacevedo). Désolé pour avoir encore parlé d'IA. J'essaierai de limiter.
+> Forcément un peu inspiré de [cette nouvelle](https://qntm.org/mmacevedo), qu'est-ce
+> qu'elle est bien. Désolé pour avoir encore parlé d'IA. J'essaierai de limiter.
 >
 > Je me demande s'il n'y avait pas un épisode de Black Mirror sur un sujet connexe dans
 > la saison 1.
