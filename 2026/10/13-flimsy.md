@@ -25,12 +25,12 @@ d'épaisseur, en or pur. Chaque poussière, chaque astéroïde faisait instantan
 larges trous, de telle sorte que l'on devait, en continu, détecter et réparer les
 impacts, aléatoirement répartis partout autour de l'étoile.
 
-Enfin aléatoirement, sauf un point. Pendant les quinze premières années, on ne constata
-pas de problème particulier, mais passé ce délai, on détecta un grand nombre de
-minuscules morceaux de roche, qui venaient tous de la même direction, et causaient en
-continu des dégâts sur le même microscopique petit bout de la sphère. Au pire du
-phénomène, plus de la moitié de la puissance de réparation était utilisée sur cet unique
-point.
+Enfin pas exactement aléatoirement. Un point semblait plus exposé. Pendant les quinze
+premières années, on ne constata pas de problème particulier, mais passé ce délai, on
+détecta un grand nombre de minuscules morceaux de roche, qui venaient tous de la même
+direction, et causaient en continu des dégâts sur le même microscopique petit bout de la
+sphère. Au pire du phénomène, plus de la moitié de la puissance de réparation était
+utilisée sur cet unique point.
 
 Alors les chercheurs comprirent. Notre Soleil était un important parmi les
 constellations majeures du ciel de la planète que nous appelions Proxima Centauri b. Et
