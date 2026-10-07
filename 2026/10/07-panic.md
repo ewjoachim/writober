@@ -23,8 +23,8 @@ et d'ajuster les constantes fondamentales en fonction des besoins. Depuis le Big
 la console n'avait été activée que quelques fois seulement, pour changer la vitesse
 d'expansion de l'univers. Autant dire que l'urgence n'était pas le quotidien de cette
 administration. En revenant des toilettes, Geovanna s'était pris les pieds sur la marche
-à l'entrée et s'était machinalement rattrapée aux boutons du panneau de commande, et en
-avait déréglé une bonne partie. D'où: sirènes, gyrophares et alarmes.
+à l'entrée et s'était machinalement rattrapée aux boutons du panneau de commande. Elle
+en avait déréglé une bonne partie. D'où: sirènes, gyrophares et alarmes.
 
 Geovanna se mit au travail pour tenter de réparer la bourde. D'abord: les constantes
 primaires. La vitesse de la lumière était actuellement réglée à quatorze kilomètres par
