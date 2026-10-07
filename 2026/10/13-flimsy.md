@@ -20,10 +20,10 @@ en or, dans une disposition qui captait toute l'énergie émise par l'astre.
 Enfin pas exactement toute l'énergie. On laissa une fine bande de sept degrés au niveau
 de l'orbite des planètes afin que celles-ci continuent d'être éclairées toute l'année.
 
-La sphère ainsi créée était extraordinairement fine: à peine cent nanomètres d'or.
-Chaque poussière, chaque astéroïde faisait instantanément des larges trous, de telle
-sorte que l'on devait, en continu, détecter et réparer les impacts, aléatoirement
-répartis partout autour de l'étoile.
+La sphère ainsi créée était extraordinairement fine: à peine cent nanomètres
+d'épaisseur, en or pur. Chaque poussière, chaque astéroïde faisait instantanément des
+larges trous, de telle sorte que l'on devait, en continu, détecter et réparer les
+impacts, aléatoirement répartis partout autour de l'étoile.
 
 Enfin aléatoirement, sauf un point. Pendant les quinze premières années, on ne constata
 pas de problème particulier, mais passé ce délai, on détecta un grand nombre de
