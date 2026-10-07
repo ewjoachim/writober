@@ -22,7 +22,7 @@ touches par petites touches, jusqu'à développer une capacité unique de partag
 d'ultraspection avec quelqu'un. Elle était l'une des seules personnes capables de
 communiquer avec une personne dans cet état et de l'aider à réparer ses connexions.
 
-À la demande de la mère de Kashani, elle se lançait aujourd'hui dans une opération de
+À la demande de la mère de Kashani, Kyra se lançait aujourd'hui dans une opération de
 sauvetage. Kashani était entrée en ultraspection quelques jours auparavant mais, là où
 la plupart des gens n'y restent que quelques minutes, Kashani, elle, n'en était jamais
 ressortie. On la supposait bloquée dans un dédale mental, elle avait dû faire le mauvais
