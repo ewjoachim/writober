@@ -34,8 +34,8 @@ utilisée sur cet unique point.
 
 Alors, on en chercha la source, on remonta à l'origine des astéroïdes. Et l'on comprit.
 Notre Soleil était une étoile importante parmi les constellations majeures visibles dans
-l'hémisphère sud du ciel de la planète que nous appelions Proxima Centauri b. Et ses
-habitants nous disaient simplement "Ôte-toi de mon étoile".
+le ciel depuis l'hémisphère sud de la planète que nous appelions Proxima Centauri b. Et
+ses habitants nous disaient simplement "Ôte-toi de mon étoile".
 
 > [!coulisses]-
 > Les adjectifs dans writober, c'est pas ma contrainte préférée. Heureusement, Flimsy
