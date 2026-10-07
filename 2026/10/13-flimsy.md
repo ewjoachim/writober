@@ -1,11 +1,11 @@
 ---
 date: 2026-10-13
-full_title: 13 - Fin
+full_title: 13 - Fin et fragile
 is_draft: false
 prompts:
 - date: 2026-10-13
   original_prompt: Flimsy
-  title: Fin
+  title: Fin et fragile
 ---
 Tout ça commença quand on découvrit comment miner le soleil. Un rayon laser, finement
 calibré en position, fréquence, polarisation, et surtout puissance, pouvait créer un
