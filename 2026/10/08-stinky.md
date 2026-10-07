@@ -18,16 +18,16 @@ musclée, un costard noir et blanc impeccable, une cravate noire, des lunettes d
 et ce petit fil d'écouteur torsadé si caractéristique. Elle était garde du corps.
 Reprenant position à proximité de sa cliente, elle se concentra.
 
-Hyacinthe était également atteinte d'une rare, très rare forme de synesthésie
-émotionnelle multisensorielle. La majorité des gens sont capables, dans une certaine
-mesure, d'identifier les émotions de leurs congénères. Cela prend usuellement la forme
-d'une information que le cerveau porte à la conscience. On voit quelqu'un et on sait
-qu'il est énervé. Quand Hyacinthe percevait une émotion, cela s'exprimait par
-combinaison de forme, de couleur, de timbre, de texture et d'odeur. Une personne énervée
-serait souvent triangulaire, rouge, un son rappelant une guitare saturée, une texture
-piquante et une odeur relevée. Enfin ça, c'est si elle était vraiment, vraiment
-furieuse. Toute combinaison d'émotion créerait un mélange hétéroclite qu'Hyacinthe était
-passée maîtresse dans l'art d'identifier.
+Hyacinthe était atteinte d'une rare, très rare forme de synesthésie émotionnelle
+multisensorielle. La majorité des gens sont capables, dans une certaine mesure,
+d'identifier les émotions de leurs congénères. Cela prend usuellement la forme d'une
+information que le cerveau porte à la conscience. On voit quelqu'un et on sait qu'il est
+énervé. Quand Hyacinthe percevait une émotion, cela s'exprimait par combinaison de
+forme, de couleur, de timbre, de texture et d'odeur. Une personne énervée serait souvent
+triangulaire, rouge, un son rappelant une guitare saturée, une texture piquante et une
+odeur relevée. Enfin ça, c'est si elle était vraiment, vraiment furieuse. Toute
+combinaison d'émotion créerait un mélange hétéroclite qu'Hyacinthe était passée
+maîtresse dans l'art d'identifier.
 
 Ici, au QG du Renouveau Patriotique, un parti fasciste qui avait le vent en poupe, sa
 cliente annonçait ce soir sa candidature. Hyacinthe, comme à chaque fois qu'elle se
