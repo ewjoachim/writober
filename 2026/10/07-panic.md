@@ -17,7 +17,7 @@ elle s'était mise dans une situation, disons, pour le moins cocasse. Elle avait
 de remplacer sa collègue au pied levé, et avait reçu des instructions sommaires,
 consistant principalement à ne toucher à rien.
 
-Ce poste qui, suite à une coupe budgétaire, n'était plus depuis quelques mois pourvu que
+Ce poste qui, suite à une coupe budgétaire, n'était depuis quelques mois plus pourvu que
 par une seule personne, consistait à surveiller les principaux indicateurs de l'univers,
 et d'ajuster les constantes fondamentales en fonction des besoins. Depuis le Big Bang,
 la console n'avait été activée que quelques fois seulement, pour changer la vitesse
