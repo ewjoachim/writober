@@ -20,7 +20,7 @@ Le cerveau est un réseau, complexe et emmêlé, fragile et incroyablement puiss
 avait passé des années à en étudier la théorie, et à reconfigurer le sien, petites
 touches par petites touches, jusqu'à développer une capacité unique de partage
 d'ultraspection avec quelqu'un. Elle était l'une des seules personnes capables de
-communiquer avec une personne dans cet état et l'aider à réparer ses connexions.
+communiquer avec une personne dans cet état et de l'aider à réparer ses connexions.
 
 À la demande de la mère de Kashani, elle se lançait aujourd'hui dans une opération de
 sauvetage. Kashani était entrée en ultraspection quelques jours auparavant mais, là où
