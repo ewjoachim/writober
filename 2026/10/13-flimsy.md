@@ -32,9 +32,10 @@ direction, et causaient en continu des dégâts sur le même microscopique petit
 sphère. Au pire du phénomène, plus de la moitié de la puissance de réparation était
 utilisée sur cet unique point.
 
-Alors les chercheurs comprirent. Notre Soleil était un important parmi les
-constellations majeures du ciel de la planète que nous appelions Proxima Centauri b. Et
-ses habitants nous disaient simplement "Ôte-toi de mon étoile".
+Alors, on en chercha la source, on remonta à l'origine des astéroïdes. Et l'on comprit.
+Notre Soleil était une étoile importante parmi les constellations majeures visibles das
+l'hémisphère sud du ciel de la planète que nous appelions Proxima Centauri b. Et ses
+habitants nous disaient simplement "Ôte-toi de mon étoile".
 
 > [!coulisses]-
 > Les adjectifs dans writober, c'est pas ma contrainte préférée. Heureusement, Flimsy
