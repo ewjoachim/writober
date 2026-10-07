@@ -39,19 +39,20 @@ Elle s'était lancée de façon un peu enthousiaste, sans s'encombrer de précau
 préalables, comme prévenir quelqu'un, ou stabiliser un moyen de communication avec
 l'extérieur.
 
-Quand Kyra entra, elle ne reconnut aucune des structures mentales classique. Les
-structures de vision, de langage, d'émotion, tout avait disparu ou du moins s'était tant
-transformé qu'elle peinait à le reconnaître. L'intégralité du cerveau redirigeait chaque
-aspect de chaque pensée vers une chose: les zeros non-triviaux de la fonction zêta de
-Riemann. Kyra essaya de saluer Kashani mais ne reçut en retour que des équations. Au
-bout de quelques minutes et d'un effort intense, Kyra sentit que Kashani lui partageait
-mentalement la définition suivante: Soit x un entier, x avait pu résoudre l'un des
-Problèmes du Millénaire et était prêt à en partager la démonstration pour publication.
-La fonction f définie sur l'espace du cerveau telle que f(x) était continue en tout
-point et souhaitaient donc continuer les recherches pendant une semaine supplémentaire.
-L'ensemble des nombres premiers, notés P, indiquait à sa mère qu'il allait bien, le
-cardinal de tous les sous-ensembles formant un espace de Hilbert aurait besoin d'aide
-dans quelques jours pour reconfigurer son cerveau normalement et sortir d'ultraspection.
+Quand Kyra entra, elle ne reconnut aucune des structures mentales classique: qu'il
+s'agisse de la vision, du langage, des émotions, tout avait disparu ou du moins s'était
+tant transformé qu'elle peinait à le reconnaître. L'intégralité du cerveau redirigeait
+chaque aspect de chaque pensée vers une chose: les zeros non-triviaux de la fonction
+zêta de Riemann. Kyra essaya de saluer Kashani mais ne reçut en retour que des
+équations. Au bout de quelques minutes et d'un effort intense, Kyra sentit que Kashani
+lui partageait mentalement la définition suivante: Soit x un entier, x avait pu résoudre
+l'un des Problèmes du Millénaire et était prêt à en partager la démonstration pour
+publication. La fonction f définie sur l'espace du cerveau telle que f(x) était continue
+en tout point et souhaitaient donc continuer les recherches pendant une semaine
+supplémentaire. L'ensemble des nombres premiers, notés P, indiquait à sa mère qu'il
+allait bien, le cardinal de tous les sous-ensembles formant un espace de Hilbert aurait
+besoin d'aide dans quelques jours pour reconfigurer son cerveau normalement et sortir
+d'ultraspection.
 
 > [!coulisses]-
 > [Évidemment](https://xkcd.com/876/).
