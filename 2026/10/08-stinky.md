@@ -12,7 +12,7 @@ redirect_aliases:
 Cachée dans les toilettes, Hyacinthe vomissait son déjeuner en maudissant ses choix de
 vie. Plus que quelques jours à tirer et elle pourrait mettre tout cela derrière elle.
 Elle s'essuya la bouche dans le lavabo, réajusta son col, et sortit. Les losanges bruns
-stridents gluants fétides étaient partout autour d'elle, mais tous l'ignoraient. Elle
+gluants stridents fétides étaient partout autour d'elle, mais tous l'ignoraient. Elle
 avait l'apparence exacte qui faisait que personne ne ferait attention à elle: grande
 musclée, un costard noir et blanc impeccable, une cravate noire, des lunettes de soleil,
 et ce petit fil d'écouteur torsadé si caractéristique. Elle était garde du corps.
@@ -50,7 +50,7 @@ semaines à proximité physique, une fois leur cerveau habitué, ils ne pourraie
 jamais s'en débarrasser. Cela faisait déjà plusieurs jours que sa cliente se plaignait
 régulièrement d'une odeur nauséabonde sans comprendre d'où cela venait. Elle multipliait
 les couches de parfum, prenait six douches dans la journée, mais la puanteur était
-tenace. Hyacinthe tenait bon. Plus que quelques jours à tirer, tout au plus.
+tenace. Hyacinthe tenait bon. Encore quelques jours.
 
 > [!coulisses]-
 > Toute ressemblance...
