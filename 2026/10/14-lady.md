@@ -22,6 +22,4 @@ promeneur passant par là, un certain Arthur. Elle lui avait refilé.
 > toustes.
 >
 > Nimué, avec Niniane, est, d'après Wikipédia, l'un des autres noms de Viviane, la Dame
-> du Lac (depuis le temps, j'imagine que vous avez remarqué que c'est pas un hasard si
-> le 14, les protagonistes ont un nom qui commence par la 14e lettre de l'alphabet,
-> c'est la 3e année où c'est comme ça).
+> du Lac.
