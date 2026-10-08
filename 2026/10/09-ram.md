@@ -17,7 +17,7 @@ définitivement plus grand-chose à vendre pour pouvoir payer le loyer et l'éle
 attendant son chèque.
 
 Elle avait tiré toute la patience qu'elle pourrait de son bailleur. Elle n'en attendait
-aucunement de la société l'électricité dont l'algorithme couperait le compteur à la
+aucunement de la société d'électricité dont l'algorithme couperait le compteur à la
 première seconde où sa facture serait en retard. Au chômage depuis plusieurs années, son
 chèque, elle l'attendait de son ancien employeur qui, non content de l'avoir virée,
 avait dézingué sa réputation dans toute l'industrie, lui fermant la porte pour tout
