@@ -23,14 +23,14 @@ eux-mêmes à l'offensive.
 
 Ils avaient donc chargé Tessie de mettre en œuvre un plan plus radical, la destruction
 de la Terre. Le conglomérat ne s'était jamais interdit ce genre d'options, mais n'avait
-jamais eu non plus à en arriver à de telles extrémités. Leurs méthodes usuelles, pour
-aussi mortifères qu'elles ne fussent, laissaient habituellement les planètes elles-mêmes
-indemnes. Mais cette fois-ci c'en était trop. Une grande explosion qui réduirait la
-planète à néant, voici qui promettait un beau spectacle. C'est à cette occasion que
-Tessie avait affrété une station spatiale de luxe avec un pont d'observation muni d'une
-grande baie vitrée et y avait organisé un bal costumé ayant pour thème les cultures
-terriennes. Dans le grand salon d'apparat, les pontes du conglomérat discutaient en
-attendant le feu d'artifice.
+jamais eu non plus à en arriver à de telles extrémités. Leurs méthodes usuelles, aussi
+mortifères fussent-elles, laissaient habituellement les planètes elles-mêmes indemnes.
+Mais cette fois-ci c'en était trop. Une grande explosion qui réduirait la planète à
+néant, voici qui promettait un beau spectacle. C'est à cette occasion que Tessie avait
+affrété une station spatiale de luxe avec un pont d'observation muni d'une grande baie
+vitrée et y avait organisé un bal costumé ayant pour thème les cultures terriennes. Dans
+le grand salon d'apparat, les pontes du conglomérat discutaient en attendant le feu
+d'artifice.
 
 Quand Tessie se leva, prononça un discours et appuya sur un bouton, le feu d'artifice
 commença. Évidemment, les humains avaient déjoué le plan et ce fut la station qui

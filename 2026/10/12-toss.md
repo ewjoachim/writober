@@ -33,7 +33,7 @@ travers desquels il opèrerait, et même si la législation de ces pays évoluai
 importe les soins dentaires proposés, les modes de paiement, les services de mutuelles,
 et de sur-complémentaires, que le déploiement soit dans le cloud ou sur un serveur
 miniature dans le cabinet, tout était pensé, de A à Z, incluant les tests automatisés,
-la documentation, toute la chaîne de sécurité et d'observabilité. Un joyau d'orfèvrerie
+la documentation, toute la chaîne de sécurité et de maintenance. Un joyau d'orfèvrerie
 logicielle. Par de nombreux aspects, elle avait l'impression d'avoir foutu sa vie en
 l'air, mais la comptabilité des cabinets dentaires ne serait désormais plus jamais un
 problème pour l'humanité. Le soir où elle mit un point final au projet, au moment de
