@@ -23,3 +23,4 @@ Tout … Sauf la vocation. Aider les autres, quel ennui. Sauver la Terre, à d'a
 Conséquemment, elle se servait surtout de son pouvoir pour changer de tenue rapidement.
 
 > [!coulisses]-
+> (Merci à Sarah qui a déjà fait la même blague sur superman qui va au travail à vélo)
