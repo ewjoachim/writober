@@ -33,12 +33,12 @@ travers desquels il opèrerait, et même si la législation de ces pays évoluai
 importe les soins dentaires proposés, les modes de paiement, les services de mutuelles,
 et de sur-complémentaires, quelle que soit la taille du serveur, tout était pensé, de A
 à Z, incluant les tests automatisés, la documentation, toute la chaîne de sécurité et de
-maintenance. Un joyau d'orfèvrerie logicielle. Par de nombreux aspects, elle avait
-l'impression d'avoir foutu sa vie en l'air, mais la comptabilité des cabinets dentaires
-ne serait désormais plus jamais un problème pour l'humanité. Le soir où elle mit un
-point final au projet, au moment de lâcher son clavier, et pour la première fois depuis
-son accident, elle sentit la satisfaction du travail accompli. Et dans son lit, en
-fermant les yeux ce soir-là et pour la dernière fois de sa vie, elle sourit.
+maintenance. Un joyau d'orfèvrerie logicielle. Elle savait qu'elle avait sacrifié sa
+carrière et ses engagements, mais la comptabilité des cabinets dentaires ne serait
+désormais plus jamais un problème pour l'humanité. Le soir où elle mit un point final au
+projet, au moment de lâcher son clavier, et pour la première fois depuis son accident,
+elle sentit la satisfaction du travail accompli. Et dans son lit, en fermant les yeux ce
+soir-là et pour la dernière fois de sa vie, elle sourit.
 
 Pour la dernière fois, car la simulation s'arrêta là. Dans son bureau, Lisabeth reçut
 une petite notification. Après trente-sept minutes de calcul, son IA avait fini de
