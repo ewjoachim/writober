@@ -20,7 +20,7 @@ chute vertigineuse mettait en lumière la vanité de sa tentative de reprendre l
 contrôle. Eirwen posa le livre et repensa aux mots de sa fille qui le lui avait apporté
 plus tôt dans la journée, lors de l’une de ses fréquentes visites: « J’ai pensé que ça
 te ferait du bien de t’y replonger ». Elle n’avait pas osé lui dire qu’elle ne se
-souvenait plus de l’avoir déjà lu, mais elle avait bien compris que la maladie lui
+souvenait plus de l’avoir déjà lue, mais elle avait bien compris que la maladie lui
 jouait, à nouveau, des tours.
 
 La nuit était déjà tombée sur la résidence, Eirwen alla se coucher. La couverture du
