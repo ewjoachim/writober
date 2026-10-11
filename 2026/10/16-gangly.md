@@ -11,7 +11,7 @@ prompts:
 
 Dans la froide matinée de décembre, Prudence se frottait les mains l'une contre l'autre
 pour les réchauffer. La rue était paisible et silencieuse. Devant elle, sa chère petite
-citadine se métamorphosait en un laid Hummer, gigantesque, polluant et inadapté. Ça ne
+citadine se métamorphosait en un gigantesque Hummer, laid, polluant et inadapté. Ça ne
 durerait pas. Néanmoins, ça n'avait pas réglé son problème.
 
 « dégermer ».
