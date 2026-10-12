@@ -7,11 +7,11 @@ prompts:
   original_prompt: Lounge
   title: Salon
 ---
-Tessie était se déplaçait avec élégance dans le grand salon cossu. Des créatures de
-diverses origines passaient régulièrement, affublées d'un costume élégant adapté à leur
-morphologie. Certaines portaient de grands plateaux garnis de petits fours. Celui qui
-occupait le piano avait sept mains réparties sur quatre bras, et jouait un jazz complexe
-et intriguant.
+Tessie était se déplaçait avec élégance dans le grand salon cossu. Toutes et tous
+étaient affublés d'un costume élégant adapté à leur morphologie: deux bras, trois
+tentacules, et toute la diversité des planètes habitées. Certains portaient de grands
+plateaux garnis de petits fours. Celui qui occupait le piano avait sept mains réparties
+sur quatre appendices, et jouait un jazz complexe et intriguant.
 
 Le conglomérat avait initialement eu des vues sur la Terre, et avait tenté les
 différentes approches au cours des quarante dernières années pour la conquérir. Par la
@@ -27,10 +27,10 @@ jamais eu non plus à en arriver à de telles extrémités. Leurs méthodes usue
 mortifères fussent-elles, laissaient habituellement les planètes elles-mêmes indemnes.
 Mais cette fois-ci c'en était trop. Une grande explosion qui réduirait la planète à
 néant, voici qui promettait un beau spectacle. C'est à cette occasion que Tessie avait
-affrété une station spatiale de luxe avec un pont d'observation muni d'une grande baie
-vitrée et y avait organisé un bal costumé ayant pour thème les cultures terriennes. Dans
-le grand salon d'apparat, les pontes du conglomérat discutaient en attendant le feu
-d'artifice.
+affrété une station spatiale de luxe, orbitant à côté de la Lune, avec un pont
+d'observation offrant une vue imprenable sur la Terre. Elle y avait organisé un bal
+costumé ayant pour thème les cultures terriennes. Dans le grand salon d'apparat, les
+pontes du conglomérat discutaient en attendant le feu d'artifice.
 
 Quand Tessie se leva, prononça un discours et appuya sur un bouton, le feu d'artifice
 commença. Évidemment, les humains avaient déjoué le plan et ce fut la station qui
