@@ -54,8 +54,8 @@ d'aide pour son logiciel de compta.
 Le code était propre, rien à dire, mais c'était complètement disproportionné. Elle
 voulait un simple script d'export, un truc tout bête, l'affaire de trente lignes de
 code. Le système lui avait sorti un projet entier. Une usine à gaz, des centaines de
-sous-systèmes, quatorze millions de lignes au total. Lisabeth ne prit même pas
-la peine de commencer à lire, et supprima promptement le projet.
+sous-systèmes, quatorze millions de lignes au total. Lisabeth ne prit même pas la peine
+de commencer à lire, et supprima promptement le projet.
 
 > [!coulisses]-
 > Forcément un peu inspiré de [cette nouvelle](https://qntm.org/mmacevedo), qu'est-ce
