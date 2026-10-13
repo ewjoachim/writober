@@ -61,4 +61,4 @@ de commencer à lire, et supprima promptement le projet.
 > Forcément un peu inspiré de [cette nouvelle](https://qntm.org/mmacevedo), qu'est-ce
 > qu'elle est bien. Désolé pour avoir encore parlé d'IA. J'essaierai de limiter.
 >
-> Y a un fond d'inspiration de [White Christmas, Black Mirror](https://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror)) mais je l'ai vu y a des années alors c'est léger.
+> Y a un fond d'inspiration de [White Christmas, Black Mirror](https://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror)) mais je l'ai vu y a des années alors c'est léger. Merci Dongo d'avoir retrouvé la ref exacte.
