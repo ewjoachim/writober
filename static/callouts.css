@@ -37,7 +37,7 @@
     content: " ▸ (cliquez)";
     text-transform: none;
     letter-spacing: normal;
-    opacity: 0.7;
+    color: color-mix(in srgb, currentColor 70%, transparent);
 }
 
 .markdown-alert-coulisses[open] .markdown-alert-title::after {
