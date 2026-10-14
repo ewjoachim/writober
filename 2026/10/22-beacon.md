@@ -49,8 +49,8 @@ mais les analyses avaient convergé vers une probabilité de 99.97% qu'au moins 
 trois espèces commence à émettre des signaux radios caractéristiques des intelligences
 inférieures d'ici à trois-cent mille ans. De tels signaux étaient utilisés depuis des
 millions d'années comme phares pour prévenir les voyageurs de la présence de créatures
-astrales de catégories 5 ou plus. Il était donc dorénavant interdit d'entrer en contact
-avec cette planète.
+astrales de catégories 5 ou plus. Pour ne pas perturber le signal, il était donc
+dorénavant interdit d'entrer en contact avec cette planète.
 
 > [!coulisses]-
 > (évidemment, dauphins et souris le guide du voyageur galactique)
