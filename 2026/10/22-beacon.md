@@ -15,7 +15,7 @@ puisse vivre l'espace d'une nanoseconde. Elle s'était arrêtée en orbite à pr
 d'une petite planète bleue, et n'était pas sereine. Elle se mit immédiatement au
 travail.
 
-Elle lança tout d'abord une armada de capteurs pour établir un scan complet du corps
+Varina lança tout d'abord une armada de capteurs pour établir un scan complet du corps
 céleste et des environs. Ses analyses préliminaires avaient montré que cette planète-là,
 la troisième du système, riche en eau et en oxygène, serait celle pour laquelle elle
 aurait le plus d'échantillons disponibles, mais depuis l'autre bout de la galaxie, on
@@ -33,7 +33,7 @@ Troisième étape, la livraison. Un drone décolla du vaisseau en direction de l
 Pas besoin de le récupérer, il s'auto-détruirait furtivement une fois tout ce beau monde
 sain et sauf à la surface.
 
-Dernière étape la poudre d'escampette. Elle était restée quatre heures sur place, les
+Dernière étape la poudre d'escampette. Varina était restée quatre heures sur place, les
 risques commençaient à devenir tangibles.
 
 Une fois de retour en vitesse lumière (implosion, explosion, retournement), elle remplit
@@ -42,7 +42,7 @@ planétaire, qui ressemblait à une gigantesque planète gazeuse, était bel et 
 créature astrale de catégorie sept, capable de rayer de la carte la moitié d'une galaxie
 en un seul mouvement.
 
-Deuxièmement, elle avait déposé avec succès trois espèces à haut potentiel
+Deuxièmement, Varina avait déposé avec succès trois espèces à haut potentiel
 d'intelligence sur la troisième planète. D'après les expériences passées, aucune des
 trois espèces n'était susceptible d'atteindre la technologie qui réveillerait la bête,
 mais les analyses avaient convergé vers une probabilité de 99.97% qu'au moins une des
