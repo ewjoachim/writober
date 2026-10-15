@@ -21,10 +21,8 @@ Pour autant, il y avait une part de magie dans tout ce qui avait mené au toast 
 l'avocat qu'Olena savourait à présent. Aucun autre magicien n'auraient pu concevoir,
 préparer et exécuter une telle combinaison de sorts. On parlait ici de plusieurs
 centaines de milliers de sorts de base pour assembler dans les bonnes proportions des
-atomes formant des molécules formant des chaines d'acides aminés formant des protéines
-associées à d'autres éléments qui, ensemble formaient des cellules qui formaient un
-avocat. Coupé en tranches (sortilège de séparation) sur du pain toasté (le pain lui-même
-avait nécessité près de la moitié des efforts).
+atomes formant des molécules formant des chaines d'acides aminés formant des cellules qui formaient un
+avocat et du pain. Plus un sortilege de tranche et un de chaleur pour le toast.
 
 La découverte fondamentale qui avait permis à Olea cette avancée magico-scientifique
 majeure tenait en une façon novatrice de répartir les conséquences du sort. En effet, il
@@ -36,7 +34,7 @@ Une combinaison de centaine de milliers d'éléments aurait donc dû transformer
 reste du bâtiment et une partie du quartier en plasma semblable à celui au cœur des
 étoiles. Mais celle-ci avait découvert comment dissiper magiquement cette chaleur à
 l'échelle de la planète entière, et son toast à l'avocat n'avait élevé la température de
-la pièce (et du reste de l'atmosphère terrestre que de quatre degrés).
+la pièce (et du reste de l'atmosphère terrestr) que de quatre degrés.
 
 Elle décida de s'en faire un second, un peu moins salé.
 
