@@ -21,8 +21,9 @@ Pour autant, il y avait une part de magie dans tout ce qui avait mené au toast 
 l'avocat qu'Olena savourait à présent. Aucun autre magicien n'auraient pu concevoir,
 préparer et exécuter une telle combinaison de sorts. On parlait ici de plusieurs
 centaines de milliers de sorts de base pour assembler dans les bonnes proportions des
-atomes formant des molécules formant des chaines d'acides aminés formant des cellules qui formaient un
-avocat et du pain. Plus un sortilege de tranche et un de chaleur pour le toast.
+atomes formant des molécules formant des chaines d'acides aminés formant des cellules
+qui formaient un avocat et du pain. Plus un sortilege de tranche et un de chaleur pour
+le toast.
 
 La découverte fondamentale qui avait permis à Olea cette avancée magico-scientifique
 majeure tenait en une façon novatrice de répartir les conséquences du sort. En effet, il
