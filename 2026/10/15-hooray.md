@@ -35,7 +35,7 @@ Une combinaison de centaine de milliers d'éléments aurait donc dû transformer
 reste du bâtiment et une partie du quartier en plasma semblable à celui au cœur des
 étoiles. Mais celle-ci avait découvert comment dissiper magiquement cette chaleur à
 l'échelle de la planète entière, et son toast à l'avocat n'avait élevé la température de
-la pièce (et du reste de l'atmosphère terrestr) que de quatre degrés.
+la pièce (et du reste de l'atmosphère terrestre) que de quatre degrés.
 
 Elle décida de s'en faire un second, un peu moins salé.
 
