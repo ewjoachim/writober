@@ -1,7 +1,7 @@
 ---
 date: 2026-10-21
 full_title: 21 - Héroïne
-is_draft: true
+is_draft: false
 prompts:
 - date: 2026-10-21
   original_prompt: Hero
