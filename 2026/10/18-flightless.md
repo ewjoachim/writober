@@ -24,7 +24,7 @@ village dans la panade.
 Alors, elle dut prendre une décision. Demander à un ami, qui lui devait un gros service,
 de la conduire. Pendant une journée, elle roula partout, sur le siège passager, arrimée
 à la poignée. Elle qui passait sa vie à quatre-cent mètres d'altitude en équilibre sur
-un fin bout de bois animé par la pensée magique et contre toutes les lois de la Physique
+un fin bout de bois animé par la pensée magique et contre toutes les lois de la physique
 eut une pensée pour les gens atteints de vertige, pour les phobiques de l'avion. Elle
 était phobique de tous les types de transport terrestre.
 
