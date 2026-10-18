@@ -21,8 +21,8 @@ ignoraient le danger, se retrouvaient à se blesser continuellement, et leurs
 propriétaires se ruinaient en réparations et en pièces détachées. Ces derniers avaient
 intenté un procès à Robonetics, l'entreprise qui les produisait, qui avait dû trouver
 une solution dans l'urgence: l'ajout d'un module de douleur, qui, sur base d'un
-auto-diagnostic continu, envoyait un signal dans le processeur central qui interrompait
-ses pensées, et forçait les indicateurs de bien-être à leur position minimale.
+diagnostic continu, envoyait un signal dans le processeur central qui interrompait ses
+pensées, et forçait les indicateurs de bien-être à leur position minimale.
 
 La mise à jour avait été faite quelques semaines auparavant, et Ybeltje avait bien vite
 appris à éviter la douleur. C'était très désagréable, et il n'y avait aucun moyen de
