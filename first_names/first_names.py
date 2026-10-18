@@ -12,7 +12,7 @@ import httpx
 FEMALE_GIVEN_NAME = "Q11879590"
 SPARQL_URL = "https://query.wikidata.org/sparql"
 API_URL = "https://www.wikidata.org/w/api.php"
-HEADERS = {"User-Agent": "writober-first-names/0.1 (joachim@botify.com)"}
+HEADERS = {"User-Agent": "writober-first-names/0.1 (ewjoachim@gmail.com)"}
 BATCH_SIZE = 50  # wbgetentities maximum
 
 
@@ -64,8 +64,7 @@ def main():
     with httpx.Client(headers=HEADERS) as session:
         ids = fetch_ids(session)
         batches = [
-            fetch_labels(session, batch)
-            for batch in itertools.batched(ids, BATCH_SIZE)
+            fetch_labels(session, batch) for batch in itertools.batched(ids, BATCH_SIZE)
         ]
 
     names = sorted({name for batch in batches for name in batch})
