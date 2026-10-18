@@ -9,12 +9,8 @@ prompts:
 ---
 Rien à faire, le balai ne voulait pas se détacher du sol. Rikako essaya différents types
 de sortilèges, incantations, rituels divers. Après tout, toutes les branches de
-sorcellerie au monde pratiquaient le vol sur balai, donc il existait de facto un sacré
-nombre de méthodes pour convaincre un balai de s'élever.
-
-Et ce n'était pas le balai lui-même, le problème. C'était un fidèle ustensile qu'elle
-avait depuis de nombreuses années, en parfait état. Et de toute façon, elle avait essayé
-d'autres objets pour un résultat identique.
+sorcellerie au monde pratiquaient le vol sur balai, donc il existait un grand
+nombre de méthodes pour convaincre un balai de s'élever. Aucune ne marchait.
 
 Ce n'était clairement pas le meilleur moment pour une telle panne. Son quotidien la
 faisait toujours beaucoup voyager, mais elle avait aujourd'hui des visites et des
