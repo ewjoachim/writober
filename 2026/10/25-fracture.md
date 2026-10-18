@@ -38,11 +38,11 @@ envoyant à chaque milliseconde des milliers de messages en priorité haute pour
 de la douleur.
 
 Mais dans ce souterrain, dès qu'elle perdit complètement le signal, la douleur
-s'interrompit immédiatement. En effet, à la différence de son cerveau qui tournait
-entièrement dans le processeur central, le module de douleur ajouté postérieurement
-était géré entièrement sur les serveurs centraux de Robonetics. Elle étudia les zones
-non-couvertes qui la séparaient de sa destination, inspira longuement et se remit, comme
-elle pouvait, en marche.
+s'interrompit immédiatement. En effet, à la différence de son cerveau qui tournait dans
+le processeur central, le module de douleur ajouté postérieurement était exclusivement
+géré pars les serveurs centraux de Robonetics. Elle étudia les zones non-couvertes qui
+la séparaient de sa destination, inspira longuement et se remit, comme elle pouvait, en
+marche.
 
 > [!coulisses]-
 >
