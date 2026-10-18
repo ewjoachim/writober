@@ -21,7 +21,7 @@ faisait toujours beaucoup voyager, mais elle avait aujourd'hui des visites et de
 livraisons à faire qui, si elles n'étaient pas réalisées, mettraient la moitié du
 village dans la panade.
 
-Alors, elle dut prendre une décision. Demander à un ami, qui lui devait un gros service,
+Alors, Rikako dut prendre une décision. Demander à un ami, qui lui devait un gros service,
 de la conduire. Pendant une journée, elle roula partout, sur le siège passager, arrimée
 à la poignée. Elle qui passait sa vie à quatre-cent mètres d'altitude en équilibre sur
 un fin bout de bois animé par la pensée magique et contre toutes les lois de la physique
