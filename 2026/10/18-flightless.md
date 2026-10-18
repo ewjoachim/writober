@@ -17,7 +17,7 @@ avait depuis de nombreuses années, en parfait état. Et de toute façon, elle a
 d'autres objets pour un résultat identique.
 
 Ce n'était clairement pas le meilleur moment pour une telle panne. Son quotidien la
-faisait toujours voyager beaucoup, mais elle aujourd'hui avait des visites et des
+faisait toujours beaucoup voyager, mais elle aujourd'hui avait des visites et des
 livraisons à faire qui, si elles n'étaient pas réalisées, mettraient la moitié du
 village dans la panade.
 
