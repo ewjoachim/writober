@@ -1,29 +1,34 @@
 ---
 date: 2026-10-26
-full_title: 26 - Zip
-is_draft: true
+full_title: 26 - Code postal
+is_draft: false
 prompts:
 - date: 2026-10-26
   original_prompt: Zip
-  title: Zip
+  title: Code postal
 ---
-Zoeya traversa le jardin et sonna à la porte, le colis à la main. Son vaisseau spatial
-était stationné dans la rue. Pendant le long silence qui s'ensuivit, elle observa les
-alentours. Cela faisait du bien d'entendre à nouveau les oiseaux, après deux ans de
-voyage. Elle sonna à nouveau, et entendit du bruit à l'intérieur. Envoyer ce colis en
-livraison express à travers la galaxie avait dû couter une petite fortune, elle se
-demandait ce qui en valait tant la peine.
+Ah les humains et leur besoin de communiquer. Bon au début, c'était simple, ils
+s'envoyaient du papier. Une adresse, un pays, un code postal. Puis, ils étaient passés
+aux octets. Les codes postaux étaient devenus des adresses IP. À mesure que tous les
+humains se connectaient, ils avaient manqué d'adresses IP et avaient ajouté des
+chiffres. Puis à nouveau.
 
-Quand enfin quelqu'un ouvrit, Zoeya n'eut pas besoin de se présenter. Son costume
-impeccable du Service Postal Intergalactique parlait pour elle. Sauf que personne de ce
-nom n'habitait ou n'avait jamais habité là. Pourtant, sa petite console indiquant le
-code postal universel était formelle. Jusqu'à présent, le système de code à
-soixante-quatre chiffres indiquant avec précision n'importe quelle adresse de l'univers
-n'avait jamais failli.
+Lorsque les différentes planètes habitées avaient été interconnectées, le système avait
+dû se complexifier, mais pas autant que lorsqu'on avait commencé l'exploration des
+mondes parallèles, puisqu'il y en avait une infinité. Lorsqu'il avait fallu donner une
+adresse aux vaisseaux en mouvements qui traversaient l'univers à la vitesse de la
+lumière en traversant les trous noirs, l'idée d'un code simplement numérique était
+devenue obsolète. Le système de code "postal" avait alors été retravaillé pour y inclure
+une partie dynamique: le code postal était devenu un code logiciel. Plus aucun humain
+n'y comprenait rien, mais cela faisait belle lurette que seules les machines en avaient
+besoin. En 2239, Zoeya Dravik fut la dernière humaine récipiendaire du Prix Nobel de
+Code-Postalogie.
 
-Zoeya retourna à son vaisseau et vérifia une nouvelle fois: chiffre par chiffre. Elle
-avait mal recopié le dix-septième. Sa destination était en réalité à quatre kilomètres
-du point de départ.
+Lorsque la physique unifiée avait inclus les différents plans astraux et les entités
+d'ordre supérieur, les codes avaient dû évoluer à nouveau, devenant des systèmes
+d'exploitation à part entière, puis de véritables systèmes autonomes. Au siècle suivant,
+apparurent les codes postaux qui simulaient des univers entiers, eux-mêmes munis de
+leurs propres codes postaux. La notion même d'envoi d'un message qui serait lu par
+quelqu'un d'autre ne relevait plus alors que de l'expérience de pensée philosophique.
 
 > [!coulisses]-
-> J'ai hésité avec une histoire sur le temps qui passe différemment en vitesse lumière.
