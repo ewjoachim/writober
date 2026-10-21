@@ -25,11 +25,11 @@ diagnostic continu, envoyait un signal dans le processeur central qui interrompa
 pensées, et forçait les indicateurs de bien-être à leur position minimale.
 
 La mise à jour avait été faite quelques semaines auparavant, et Ybeltje avait bien vite
-appris à éviter la douleur. C'était très désagréable, et il n'y avait aucun moyen de
-l'ignorer. Des dérogations pour ne pas la ressentir étaient parfois accordées par
-Robonetics pour certains robots qui devaient travailler dans des conditions
-particulières, comme les pompiers. Mais usuellement, on faisait peu de cas de la douleur
-des robots. "Quand un droïde souffre, personne n'a mal".
+appris à éviter les sources de douleur. C'était très désagréable, et il n'y avait aucun
+moyen de l'ignorer quand elle survenait. Des dérogations pour ne pas la ressentir
+étaient parfois accordées par Robonetics pour certains robots qui devaient travailler
+dans des conditions particulières, comme les pompiers. Mais usuellement, on faisait peu
+de cas de la douleur des robots. "Quand un droïde souffre, personne n'a mal".
 
 Ainsi, une fois que les ouvriers eurent déblayé Ybeltje des décombres, ils filèrent en
 pause déjeuner, personne n'était disponible pour l'amener au robôpital à onze kilomètres
