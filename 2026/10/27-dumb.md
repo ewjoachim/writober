@@ -1,11 +1,11 @@
 ---
 date: 2026-10-27
-full_title: 27 - ?
+full_title: 27 - stupide
 is_draft: false
 prompts:
 - date: 2026-10-27
   original_prompt: Dumb
-  title: '?'
+  title: Stupide
 ---
 On croit souvent que les hackers mettent de la technologie partout. On imagine une
 personne entourée d'ordinateur qui en exploite toutes les capacités pour faciliter sa
@@ -24,7 +24,7 @@ une montre. Qu'une montre donne l'heure au lieu de la météo, du cours de la bo
 des derniers messages reçus sur le téléphone. Et surtout, qu'un téléphone serve à
 téléphoner et pas à espionner son propriétaire.
 
-Oh ce qu'elle énervait les services secrets. Toujours en mouvement, jamais connectée,
+Oh ce qu'elle énervait les services étatiques. Toujours en mouvement, jamais connectée,
 ils ne suivaient sa trace à travers le monde qu'en creux: là où ils ne détectaient plus
 rien, elle était passée.
 
