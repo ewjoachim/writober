@@ -8,10 +8,10 @@ prompts:
   title: Stupide
 ---
 On croit souvent que les hackers mettent de la technologie partout. On imagine une
-personne entourée d'ordinateur qui en exploite toutes les capacités pour faciliter sa
+personne entourée d'ordinateurs qui en exploite toutes les capacités pour faciliter sa
 vie. En réalité, c'est plutôt l'inverse. La connaissance pointue de tout ce dont la
 technologie est capable, et en particulier ses dérives, va usuellement de pair avec une
-méfiance judicieuse, envers les systèmes dits "intelligents".
+méfiance judicieuse envers les systèmes dits "intelligents".
 
 Akolpogbila était une hackeuse, et à une époque où il devenait pratiquement impossible
 de s'acheter le moindre grille-pain sans qu'il soit *smart*, la moindre brosse à dents
@@ -24,7 +24,7 @@ une montre. Qu'une montre donne l'heure au lieu de la météo, du cours de la bo
 des derniers messages reçus sur le téléphone. Et surtout, qu'un téléphone serve à
 téléphoner et pas à espionner son propriétaire.
 
-Oh ce qu'elle énervait les services étatiques. Toujours en mouvement, jamais connectée,
+Oh, ce qu'elle énervait les services étatiques. Toujours en mouvement, jamais connectée,
 ils ne suivaient sa trace à travers le monde qu'en creux: là où ils ne détectaient plus
 rien, elle était passée.
 
@@ -33,9 +33,8 @@ compagnie qu'elle avait recueilli, réparé, reprogrammé de A à Z. Elle était
 le charme de sa frimousse robotique. Elle l'avait rendu intelligent, redoutablement
 intelligent. Pas spécifiquement dans ses interactions avec Akolpogbila, non. Il se
 contentait de se poser sur son épaule et de faire des petits bruits mignons, mais
-essayez-donc de le hacker, comme quelques agences gouvernementales s'y étaient risquées,
-et regardez dans quel état vous retrouverez le lendemain tous vos systèmes
-informatiques.
+essayez donc de le hacker, comme quelques agences gouvernementales s'y étaient risquées,
+et regardez dans quel état vous retrouverez demain tous vos systèmes informatiques.
 
 > [!coulisses]-
 >
