@@ -24,10 +24,10 @@ subitement en bien meilleur état, pour quelques minutes.
 
 « dégingandé ».
 
-Le problème est qu'elle ne maîtrisait pas très bien son don. Elle tapait souvent à côté.
-Quelques mots avant ou après. Il fallait ensuite se déplacer de proche en proche. Elle
-sentit ses membres s'allonger et s'affiner. Dans un mouvement disgracieux, elle constata
-qu'elle mesurait à présent deux mètres de haut. Finalement, le Hummer aurait un
+Le problème était qu'elle ne maîtrisait pas très bien son don. Elle tapait souvent à
+côté. Quelques mots avant ou après. Il fallait ensuite se déplacer de proche en proche.
+Elle sentit ses membres s'allonger et s'affiner. Dans un mouvement disgracieux, elle
+constata qu'elle mesurait à présent deux mètres de haut. Finalement, le Hummer aurait un
 avantage.
 
 « dégivrage ».
@@ -38,4 +38,4 @@ la laissant finalement insérer sa clé.
 > [!coulisses]-
 > J'aime vraiment pas les adjectifs. A fortiori quand j'ai dû aller ouvrir un
 > dictionnaire pour avoir le sens précis (j'avais genre "mince" mais "dégingandé"
-> (prononcé "gin" comme gingembre) est plus précis: grand, mince, et avec un mouvement désarticulé, etymologiquement: comme si les membres sortaient de leurs _gonds_)
+> (prononcé "gin" comme gingembre) est plus précis: grand, mince, et avec un mouvement désarticulé, étymologiquement: comme si les membres sortaient de leurs _gonds_)

@@ -13,7 +13,7 @@ Cachée dans les toilettes, Hyacinthe vomissait son déjeuner en maudissant ses 
 vie. Plus que quelques jours à tirer et elle pourrait mettre tout cela derrière elle.
 Elle s'essuya la bouche dans le lavabo, réajusta son col, et sortit. Les losanges bruns
 gluants stridents fétides étaient partout autour d'elle, mais tous l'ignoraient. Elle
-avait l'apparence exacte qui faisait que personne ne ferait attention à elle: grande
+avait l'apparence exacte qui faisait que personne ne ferait attention à elle: grande,
 musclée, un costard noir et blanc impeccable, une cravate noire, des lunettes de soleil,
 et ce petit fil d'écouteur torsadé si caractéristique. Elle était garde du corps.
 Reprenant position à proximité de sa cliente, elle se concentra.
@@ -26,7 +26,7 @@ information que le cerveau porte à la conscience. On voit quelqu'un et on sait 
 forme, de couleur, de timbre, de texture et d'odeur. Une personne énervée serait souvent
 triangulaire, rouge, un son rappelant une guitare saturée, une texture piquante et une
 odeur relevée. Enfin ça, c'est si elle était vraiment, vraiment furieuse. Toute
-combinaison d'émotion créerait un mélange hétéroclite qu'Hyacinthe était passée
+combinaison d'émotions créerait un mélange hétéroclite qu'Hyacinthe était passée
 maîtresse dans l'art d'identifier.
 
 Ici, au QG du Renouveau Patriotique, un parti fasciste qui avait le vent en poupe, sa

@@ -16,7 +16,7 @@ qui ne servait qu'aux rares invités puisqu'elle ne fumait pas. Il ne lui restai
 définitivement plus grand-chose à vendre pour pouvoir payer le loyer et l'électricité en
 attendant son chèque.
 
-Elle avait tiré toute la patience qu'elle pourrait de son bailleur. Elle n'en attendait
+Elle avait tiré toute la patience qu'elle pouvait de son bailleur. Elle n'en attendait
 aucunement de la société d'électricité dont l'algorithme couperait le compteur à la
 première seconde où sa facture serait en retard. Au chômage depuis plusieurs années, son
 chèque, elle l'attendait de son ancien employeur qui, non content de l'avoir virée,
@@ -33,8 +33,8 @@ prix. Depuis l'avènement de l'ère de l'IA, trois décennies auparavant, le pri
 qui s'était envolé n'était jamais réellement redescendu. C'était donc la seule chose
 qu'il restait à Irmela. Dans une ruelle sombre, elle s'affairait à négocier le prix de
 la dernière barrette de RAM de son ordinateur. Deux téraoctets, ça devrait bien couvrir
-un mois de loyer non ? Non. L'acheteur, un homme peu affable au visage émacié, ne lui en
-offrait que 700 crédits. Il lui en fallait absolument le double. Elle n'avait pas le
+un mois de loyer, non ? Non. L'acheteur, un homme peu affable au visage émacié, ne lui
+en offrait que 700 crédits. Il lui en fallait absolument le double. Elle n'avait pas le
 choix. Soit.
 
 Elle posa son doigt à la tempe pour entrer dans son menu, et sélectionna un modèle moins

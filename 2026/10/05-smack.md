@@ -10,7 +10,7 @@ redirect_aliases:
 - 2026/10/5-Smack/index.html
 ---
 Au petit matin, Everdina manœuvrait seule le grand sémaque, le reste de l'équipage
-finissant leur courte nuit. En suivant la côte, elles atteindraient dans quelques heures
+finissant sa courte nuit. En suivant la côte, elles atteindraient dans quelques heures
 la ville de Holwerd. Voilà plusieurs mois qu'Emma, Elizabeth et Everdina avaient
 embarqué sur le navire, et qu'elles voyageaient de port en port. Everdina commençait à
 se faire à sa nouvelle vie. Après tant d'années d'errance, enfin, elle savait, très
@@ -24,21 +24,21 @@ elles avaient passé la main à des mortelles qui, depuis lors, se transmettaien
 charge. Certaines avaient été des archères. D'autres des agricultrices. Puis des
 maçonnes. À chaque génération son analogie.
 
-Everdina et ses sœeurs étaient donc des marines. Elle-même était l'avenir. Elle était
-les promesses. Elle était la mort. Elle était celle qui tendait le foc attaché à la
-proue du sémaque, celle qui choisissait le plan de route, qui savait où elles seraient
-attendues le lendemain. Et en l'occurrence, celle qui se levait tôt pour préparer leur
-arrivée prochaine à Holwerd.
+Everdina et ses sœurs étaient donc des marines. Elle-même était l'avenir. Elle était les
+promesses. Elle était la mort. Elle était celle qui tendait le foc attaché à la proue du
+sémaque, celle qui choisissait le plan de route, qui savait où elles seraient attendues
+le lendemain. Et en l'occurrence, celle qui se levait tôt pour préparer leur arrivée
+prochaine à Holwerd.
 
 Une fois dans la ville, les trois sœurs arrimeraient le bateau sur le petit port et
 installeraient trois petites tentes. Chacune à sa façon, elles aideraient les villageois
-qui viennent. Everdina, aujourd'hui, allait faire rire et faire pleurer. Elle allait
+qui viendraient. Everdina, aujourd'hui, allait faire rire et faire pleurer. Elle allait
 rassurer et, parfois, forcer le destin.
 
 Elle n'avait pas réellement le choix de ce qu'elle dirait, au sens où la réalité était
-attachée à ses mots, autant que ses mots l'étaient à la réalité. Quoiqu'elle dise
+attachée à ses mots, autant que ses mots l'étaient à la réalité. Quoi qu'elle dise
 s'accomplirait. Elle ne pouvait pas faire vivre qui devait mourir, faire gagner qui
-devait perdre. Ces choses, tels des récifs, étaient saillants à la surface de la
+devait perdre. Ces choses, tels des récifs, étaient saillantes à la surface de la
 destinée. Mais elle savait naviguer habilement autour, et, avec un peu d'inspiration,
 pouvait finalement choisir librement son itinéraire. Elle pouvait trouver une route qui
 rendait la vie meilleure. La destinée demandait qu'untel se blesse en tombant de son
@@ -46,11 +46,11 @@ toit. Peut-être que le futur était imprécis sur la portée de la blessure, el
 alors de ses mots la rendre légère. Ainsi, elle devait peser chaque terme, manier les
 sous-entendus, choisir ce qu'elle omettrait.
 
-Alors que les premiers rayons de soleil perçaient l'horizon an loin, sur la terre ferme,
+Alors que les premiers rayons de soleil perçaient l'horizon au loin, sur la terre ferme,
 Everdina sourit en préparant mentalement sa journée.
 
 > [!coulisses]-
-> Une liberté artistique sur la traduction: Un "smack" en anglais est bien un bateau de
+> Une liberté artistique sur la traduction: un "smack" en anglais est bien un bateau de
 > pêche, un sémaque aussi, et la traduction de sémaque, au sens du bateau des Pays-Bas,
 > serait un "Dutch smack". Un "smack" sans préciser "Dutch" serait un type de navire
 > différent. Évidemment, "smack" a d'autres traductions, mais je trouvais celle-là plus
@@ -60,7 +60,7 @@ Everdina sourit en préparant mentalement sa journée.
 > idées que j'aime bien. J'aimais bien l'analogie de la prophétie et de la navigation.
 >
 > Dans l'ordre j'ai eu sémaque -> nécessite un équipage d'au moins 3 personnes -> les
-> moires et j'ai déroulé.
+> Moires et j'ai déroulé.
 >
 > Un sémaque des Pays-Bas, c'est très situé dans le temps et de facto dans l'espace.
 > J'ai essayé de ne pas trop ancrer l'histoire à l'époque où les sémaques circulaient,

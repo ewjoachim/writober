@@ -12,7 +12,7 @@ redirect_aliases:
 Deepali, comme à son habitude, emballait méthodiquement la plante, d’un geste lent et
 sûr, tournant et retournant, marquant le pli, afin que les couleurs et les textures des
 papiers choisis s’harmonisent. Un papier rouge, rugueux, une feuille iridescente lisse,
-une feuille d’un blanc un peu cassé au touché strié. Avant de plaquer le dernier pli,
+une feuille d’un blanc un peu cassé au toucher strié. Avant de plaquer le dernier pli,
 celui qui fermerait l’emballage, elle glissa la petite enveloppe qu’elle avait préparée
 et la planta sur la plus saillante épine du cactus.
 
@@ -26,10 +26,10 @@ banque.
 
 Les années avaient passé, les plantes avaient grandi, certaines avaient flétri, comme
 l’amour de Dani pour Deepali, et cette dernière avait décidé de mettre un terme à leur
-relation. Pour Deepali, le fait que Dani ait tenté d’avoir une relation extra-conjugale
+relation. Pour Deepali, le fait que Dani ait tenté d’avoir une relation extraconjugale
 et de le lui cacher était la goutte d’eau. Dani avait fait montre de si peu d’attention
 que Deepali n’avait même pas eu besoin de recourir à la divination pour le découvrir:
-c’était presque comme si Dani n’essayait pas réellement de s’en cacher, mais tout en lui
+c’était presque comme si Dani n’essayait pas réellement de s’en cacher, tout en lui
 mentant éhontément.
 
 Sa décision prise, Deepali avait déménagé toutes ses affaires du foyer, et mettait la

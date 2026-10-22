@@ -13,11 +13,11 @@ Après avoir débarrassé son village natal d'un bandit qui terrorisait tout le 
 avait pris la route et aidait celles et ceux qu'elle rencontrait. Elle croisait
 régulièrement le fer avec les malandrins. Souvent, elle gagnait. Parfois, elle prenait
 une rouste. Elle en avait assez des roustes, alors elle avait grimpé la montagne,
-cherché la cabane de la vieille Jyoti, elle lui avait fait offert une bourse pleine
-d'or, et avait posé ses questions: où pouvait-elle trouver une meilleure épée, une
-meilleure armure, des amulettes magiques, et ainsi de suite. La vieille Jyoti lui avait
-ri au nez. À l'air interdit de Jaya, Jyoti avait répondu qu'il s'agissait de la seule
-réponse qu'elle consentait à lui donner.
+cherché la cabane de la vieille Jyoti, elle lui avait offert une bourse pleine d'or, et
+avait posé ses questions: où pouvait-elle trouver une meilleure épée, une meilleure
+armure, des amulettes magiques, et ainsi de suite. La vieille Jyoti lui avait ri au nez.
+À l'air interdit de Jaya, Jyoti avait répondu qu'il s'agissait de la seule réponse
+qu'elle consentait à lui donner.
 
 La deuxième fois que la grande Jaya alla trouver Jyoti, quelques années plus tard, elle
 s'était débarrassée de tout son équipement bariolé. Elle avait compris que c'était
@@ -27,12 +27,12 @@ trouver une solution. À chaque fois qu'elle en aidait un, deux autres prenaient
 place. Souvent, elle arrivait à aider tout le monde. Parfois, elle était dépassée. Elle
 en avait assez d'être dépassée, alors elle avait grimpé la montagne, trouvé la cabane de
 la vieille Jyoti, elle lui avait offert un livre et avait posé sa question. La vieille
-Jyoti l'avait reçue, l'avait écouté lui avait souri… et lui avait dit qu'il s'agissait à
-nouveau de la seule réponse qu'elle avait pour Jaya.
+Jyoti l'avait reçue, l'avait écoutée, lui avait souri… et lui avait dit qu'il s'agissait
+à nouveau de la seule réponse qu'elle avait pour Jaya.
 
 La dernière fois que la sage Jaya alla trouver Jyoti, ses cheveux gris flottaient au
 vent. Elle avait passé sa vie à voyager. Elle montrait aux gens le chemin afin qu'ils
-règlent leurs propres problèmes. Elle n'avait rien à demander à Joyti, mais elle avait
+règlent leurs propres problèmes. Elle n'avait rien à demander à Jyoti, mais elle avait
 apporté du thé que les deux amies burent en discutant.
 
 > [!coulisses]-

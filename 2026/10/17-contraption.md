@@ -16,12 +16,12 @@ un contraste élégant. Qamar l'avait baptisée "la Terre" en référence à la 
 terre de son jardin qui, à l'instar de la majorité des paysages locaux riches en cobalt,
 offrait une teinte bleutée. Elle en avait fait l'acquisition lorsqu'elle avait eu son
 premier enfant. Elle souhaitait pouvoir l'aider à s'endormir en lui racontant de belles
-histoires, mais n'était elle-même aucunement dotée en imagination, ce qui limitait
+histoires, mais n'était elle-même aucunement dotée d'imagination, ce qui limitait
 grandement ses capacités. Elle avait pensé simplement à acheter des livres, mais elle
 trouvait cela un peu trop simple. De surcroit, elle préférait l'idée de pouvoir raconter
 à sa fille des contes et légendes qu'elle avait elle-même écrits.
 
-La technologie des micro-planètes était mature depuis quelques années, Qamar avait
+La technologie des micro-planètes était mature depuis quelques années; Qamar avait
 franchi le pas et avait équipé l'une des pièces inutilisées de sa grande maison.
 L'installation par un artisan expérimenté, un grand type barbu, avait pris près d'une
 semaine. L'appareil avait, dès lors, rempli ses promesses. Elle passait tous les jours
@@ -42,4 +42,4 @@ vaporiser du dégrippant.
 
 > [!coulisses]-
 > J'aurais, à pas grand-chose près, pu raconter l'histoire de
-> [Houra](/2026/10/15-Hooray/) pour le mot du jour.
+> [Hourra](/2026/10/15-Hooray/) pour le mot du jour.

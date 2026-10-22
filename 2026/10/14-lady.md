@@ -17,8 +17,8 @@ rien à faire, Nimué ne voulait pas en entendre parler. Son amie lui avait mêm
 vieille épée pour qu'elle puisse s'entraîner et elle l'avait "malencontreusement
 égarée". Alors, trois mois durant, Nantéchilde avait travaillé chaque jour pour lui en
 forger une neuve. Aiguisée, magnifique, enchantée. Nimué était partie la jeter dans un
-lac, quand elle avait aperçu un promeneur passant par là, un certain Arthur. Elle lui
-avait refilé.
+lac, quand elle avait aperçu un promeneur passant par là, un certain Arthur. Elle la lui
+avait refilée.
 
 > [!coulisses]-
 > Faire court parfois. De toute façon avec "dame" et "épée" j'imagine que vous l'aviez

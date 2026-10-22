@@ -19,16 +19,16 @@ village dans la panade.
 
 Alors, Rikako dut prendre une décision. Demander à un ami, qui lui devait un gros
 service, de la conduire. Pendant une journée, elle roula partout, sur le siège passager,
-arrimée à la poignée. Elle qui passait sa vie à quatre-cent mètres d'altitude en
+arrimée à la poignée. Elle qui passait sa vie à quatre cents mètres d'altitude en
 équilibre sur un fin bout de bois animé par la pensée magique et contre toutes les lois
 de la physique eut une pensée pour les gens atteints de vertige, pour les phobiques de
 l'avion. Elle était phobique de tous les types de transport terrestre.
 
 > [!coulisses]-
 >
-> Propoosition alternative:
+> Proposition alternative:
 >
-> Rikako avait toujours voulu voler. Mais les poules, quoi qu'on n'en dise, ne volent
+> Rikako avait toujours voulu voler. Mais les poules, quoi qu'on en dise, ne volent
 > pas réellement. Elle voulait connaitre le frisson du vent dans les plumes, le vertige
 > de la vitesse. Alors, elle passa un marché avec les humains pour qu'ils l'aident.
 > Pendant des années, elle les fournit en œufs. Et un jour, ce fut le moment tant

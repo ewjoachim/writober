@@ -9,7 +9,7 @@ prompts:
 redirect_aliases:
 - 2026/10/6-Ogre/index.html
 ---
-Des univers parallèles, il en existe un paquet. Pas une infinité, comme on pourrait
+Des univers parallèles, il en existe un paquet. Pas une infinité, comme on pourrait le
 croire, mais néanmoins un nombre conséquent qui partagent de nombreux points communs. La
 Terre est habitée par des humains dans tous les univers (sauf ceux dans lesquels les
 humains ont déjà réussi à s'éradiquer). Toutes ces Terres contiennent aussi des ogres,
@@ -18,29 +18,29 @@ sauve.
 
 Dans cet univers-ci, les ogres sont, littéralement, les créatures malfaisantes de nos
 contes. Ils sont grands, affamés et n'ont aucun respect pour la vie humaine. L'humanité
-s'en est bien accommodée bien pendant des siècles (ça rendait les enfants sages), mais
-pas Felicia, qui a organisé une opération de sauvegarde à l'échelle mondiale. Sauvegarde
-des enfants, d'abord, mais sauvegarde des ogres aussi. Des parcs naturels ont été mis en
-place, et diverses mesures ont été prises. Leur population a réduit, mais ils sont
+s'en est bien accommodée pendant des siècles (ça rendait les enfants sages), mais pas
+Felicia, qui a organisé une opération de sauvegarde à l'échelle mondiale. Sauvegarde des
+enfants, d'abord, mais sauvegarde des ogres aussi. Des parcs naturels ont été mis en
+place, et diverses mesures ont été prises. Leur population a diminué, mais ils sont
 aujourd'hui une espèce adaptée à son environnement. Et surtout: ils sont surveillés, et
 les enfants sont protégés.
 
 Regardez cet univers-là: la main invisible du marché y a construit un broyeur à enfants,
-et les économistes s’accordent à dire que celui-ci crée plus de richesses pour ses
-propriétaires qu’il ne coûte d’argent, et grâce au ruissellement, c’est toute la société
+et les économistes s'accordent à dire que celui-ci crée plus de richesses pour ses
+propriétaires qu'il ne coûte d'argent, et grâce au ruissellement, c'est toute la société
 qui en bénéficie ! L'engin ne broie même pas tous les enfants, seulement une dizaine de
 milliers par jour. Environ une naissance sur cent à peine. Felicia a vite compris que
-l’existence même de cet ogre de métal est un péril pour la survie des enfants, une
+l'existence même de cet ogre de métal est un péril pour la survie des enfants, une
 aberration. Elle a longtemps milité pour sa destruction, puis l'interdiction définitive
-d'en reconstruire. Elle a obtenu signature d’une charte protégeant les droits des
+d'en reconstruire. Elle a obtenu la signature d'une charte protégeant les droits des
 enfants. Pas évident de se battre contre les intérêts du marché, mais Felicia est pleine
 de ressources. Hop, tous sauvés.
 
 Oh, comme ce nouvel univers est proche du vôtre ! Ici, leurs droits fondamentaux font
-déjà l’objet d’une convention ratifiée par presque tous les États, comme chez vous. Et
+déjà l'objet d'une convention ratifiée par presque tous les États, comme chez vous. Et
 pourtant, étrangement, ils meurent toujours. Malnutrition, guerres, génocides, maladies
-et complications évitables. Une naissance sur cent, qui meurt avant l’âge adulte,
-exactement autant que la broyeuse, mais les ogres d'ici sont politiques. Felicia est
+et complications évitables. Une naissance sur cent, qui meurt avant l'âge adulte,
+exactement autant que le broyeur, mais les ogres d'ici sont politiques. Felicia est
 acclamée pour tous les projets qu'elle a menés de par le monde. Trois cents enfants
 sauvés là grâce à une livraison spéciale de vaccins. Une soupe populaire ici en a nourri
 cinq cents. Elle a mené une campagne de communication pour sensibiliser tout un pays au

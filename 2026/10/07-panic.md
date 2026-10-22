@@ -17,12 +17,12 @@ elle s'était mise dans une situation, disons, pour le moins cocasse. Elle avait
 de remplacer sa collègue au pied levé, et avait reçu des instructions sommaires,
 consistant principalement à ne rien toucher.
 
-Ce poste qui, suite à une coupe budgétaire quelques mois auparavant, n'était plus pourvu
-que par une seule personne, consistait à surveiller les principaux indicateurs de
+Ce poste qui, à la suite d'une coupe budgétaire quelques mois auparavant, n'était plus
+pourvu que par une seule personne, consistait à surveiller les principaux indicateurs de
 l'univers, et à ajuster les constantes fondamentales en fonction des besoins. Depuis le
 Big Bang, la console n'avait été activée que quelques fois seulement, pour changer la
 vitesse d'expansion de l'univers. Autant dire que l'urgence n'était pas le quotidien de
-cette administration. En revenant des toilettes, Geovanna s'était pris les pieds sur la
+cette administration. En revenant des toilettes, Geovanna s'était pris les pieds dans la
 marche à l'entrée et s'était machinalement rattrapée aux boutons du panneau de commande.
 Elle en avait déréglé une bonne partie. D'où: sirènes, gyrophares et alarmes.
 

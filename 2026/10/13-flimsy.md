@@ -7,7 +7,7 @@ prompts:
   original_prompt: Flimsy
   title: Fin et fragile
 ---
-Tout ça commença quand on découvrit comment miner le soleil. Un rayon laser orienté vers
+Tout ça commença quand on découvrit comment miner le Soleil. Un rayon laser orienté vers
 une étoile, finement calibré en position, fréquence, polarisation, et surtout puissance,
 pouvait créer un flux d'ions de l'élément de notre choix, dans une direction arbitraire.
 Quelques décennies de perfectionnement de la technique nous permirent d'envisager les
@@ -17,15 +17,15 @@ de rediriger des flux d'ions d'or (une broutille, seulement quelques dizaines de
 millions de milliards de tonnes) tout autour du Soleil, afin de créer une sphère géante
 en or, dans une disposition qui captait toute l'énergie émise par l'astre.
 
-Enfin pas exactement toute l'énergie. On laissa une fine bande de sept degrés au niveau
+Enfin, pas exactement toute l'énergie. On laissa une fine bande de sept degrés au niveau
 de l'orbite des planètes afin que celles-ci continuent d'être éclairées toute l'année.
 
 La sphère ainsi créée était extraordinairement fine: à peine cent nanomètres
-d'épaisseur, en or pur. Chaque poussière, chaque astéroïde faisait instantanément des
+d'épaisseur, en or pur. Chaque poussière, chaque astéroïde faisait instantanément de
 larges trous, de telle sorte que l'on devait, en continu, détecter et réparer les
 impacts, aléatoirement répartis partout autour de l'étoile.
 
-Enfin pas exactement aléatoirement. Un point semblait plus exposé. Pendant les quinze
+Enfin, pas exactement aléatoirement. Un point semblait plus exposé. Pendant les quinze
 premières années, on ne constata pas de problème particulier, mais passé ce délai, on
 détecta un grand nombre de minuscules morceaux de roche, qui venaient tous de la même
 direction, et causaient en continu des dégâts sur le même microscopique petit bout de la
@@ -40,12 +40,12 @@ ses habitants nous disaient simplement à leur façon: "Ôte-toi de mon étoile"
 > [!coulisses]-
 > Les adjectifs dans writober, c'est pas ma contrainte préférée. Heureusement, Flimsy
 > c'est très polysémique. À la fois fragile, léger si on parle d'un
-> vêtement, et fumeux pour des excuses ou les idées.
+> vêtement, et fumeux pour des excuses ou des idées.
 >
 > Les histoires de [Relic](/2026/10/02-Relic/) et [Panic](/2026/10/07-Panic/) auraient
 > marché sur le thème "Flimsy" aussi.
 >
-> J'ai vérifié les ordres de grandeurs sur un calcul de coin de table. Le soleil
+> J'ai vérifié les ordres de grandeur sur un calcul de coin de table. Le Soleil
 > contient assez d'or, 7°, c'est assez pour toutes les planètes, 100 nm suffisent à
 > capter toute la lumière, et la quantité d'or annoncée correspond à un rayon qui laisse
 > l'or à l'état solide. On parle d'une sphère de 30 millions de km de rayon, donc on a

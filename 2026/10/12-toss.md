@@ -28,11 +28,11 @@ contre son propre esprit.
 Leilani avait construit un système d'exploitation complet ainsi que tous les programmes
 dont celui-ci avait besoin, à partir de zéro, et tout ce code était dévolu à offrir le
 meilleur, et le plus complet, des services de comptabilité dont un cabinet dentaire
-n'aurait jamais besoin. Petit ou gros, quel que soit le ou les pays et les langues à
-travers desquels il opèrerait, et même si la législation de ces pays évoluait, peu
+aurait jamais besoin. Petit ou gros, quel que soit le ou les pays et les langues à
+travers lesquels il opèrerait, et même si la législation de ces pays évoluait, peu
 importe les soins dentaires proposés, les modes de paiement, les services de mutuelles,
-et de sur-complémentaires, quelle que soit la taille du serveur, tout était pensé, de A
-à Z, incluant les tests automatisés, la documentation, toute la chaîne de sécurité et de
+et de surcomplémentaires, quelle que soit la taille du serveur, tout était pensé, de A à
+Z, incluant les tests automatisés, la documentation, toute la chaîne de sécurité et de
 maintenance. Un joyau d'orfèvrerie logicielle. Elle savait qu'elle avait sacrifié sa
 carrière et ses engagements, mais la comptabilité des cabinets dentaires ne serait
 désormais plus jamais un problème pour l'humanité. Le soir où elle mit un point final au
@@ -42,11 +42,11 @@ soir-là et pour la dernière fois de sa vie, elle sourit.
 
 Pour la dernière fois, car la simulation s'arrêta là. Dans son bureau, Lisabeth reçut
 une petite notification. Après trente-sept minutes de calcul, son IA avait fini de
-mouliner. Lisabeth testait le nouveau service lancé en grande pompe le jour-même:
+mouliner. Lisabeth testait le nouveau service lancé en grande pompe le jour même:
 l'accès aux modèles réalisés sur la base des scanners cérébraux post-mortem de hackers
 d'envergure internationale. Elle avait choisi le modèle L33tAny (Leilani Kealoha), une
-figure de l'hacktivisme du temps de ses parents, disparue tragiquement dans un accident
-de voiture à trente ans, à peu près en même temps que les premiers pas de la méthode de
+figure du hacktivisme du temps de ses parents, disparue tragiquement dans un accident de
+voiture à trente ans, à peu près en même temps que les premiers pas de la méthode de
 scan cérébral post-mortem. Elle l'avait lancé, un peu au hasard, sur le projet sur
 lequel elle travaillait pour son client, un cabinet dentaire, qui avait besoin d'un peu
 d'aide pour son logiciel de compta.
@@ -59,6 +59,6 @@ de commencer à lire, et supprima promptement le projet.
 
 > [!coulisses]-
 > Forcément un peu inspiré de [cette nouvelle](https://qntm.org/mmacevedo), qu'est-ce
-> qu'elle est bien. Désolé pour avoir encore parlé d'IA. J'essaierai de limiter.
+> qu'elle est bien. Désolé d'avoir encore parlé d'IA. J'essaierai de limiter.
 >
 > Y a un fond d'inspiration de [White Christmas, Black Mirror](https://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror)) mais je l'ai vu y a des années alors c'est léger. Merci Dongo d'avoir retrouvé la ref exacte.
