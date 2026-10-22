@@ -44,9 +44,9 @@ sept, capable de rayer de la carte la moitié d'une galaxie en un seul mouvement
 
 Deuxièmement, Varina avait déposé avec succès trois espèces à haut potentiel
 d'intelligence sur SOL-3. D'après les expériences passées, aucune des trois espèces
-n'était susceptible d'atteindre de façon autonome la technologie qui réveillerait la
-bête, mais les analyses avaient convergé vers une probabilité de 99.97% que l'une des
-trois espèces, a minima, commence à émettre des signaux radios caractéristiques des
+n'était susceptible d'atteindre de façon autonome la technologie qui réveillerait
+l'entité, mais les analyses avaient convergé vers une probabilité de 99.97% que l'une
+des trois espèces, a minima, commence à émettre des signaux radios caractéristiques des
 intelligences inférieures d'ici à trois-cent mille ans. De tels signaux étaient utilisés
 depuis des millions d'années comme phares pour prévenir les voyageurs de la présence de
 créatures astrales de catégories 5 ou plus. Pour ne pas perturber le signal, il était
