@@ -16,7 +16,7 @@ Xochitl avait eu plusieurs passions dans sa vie. Actuellement, c'était le jardi
 challenge de réussir à faire pousser quelque chose dans un sous-sol par deux-cents
 degrés rendait l'entreprise intéressante, bien que peu concluante.
 
-Avant, ç'avait été la musique, avant cela les cartes à collectionner, la géologie, le
+Avant, ç'avait été la musique, avant cela, les cartes à collectionner, la géologie, le
 théâtre d'improvisation et la pâtisserie. C'était pendant sa période pâtisserie qu'elle
 avait obtenu sa promotion en démon mineur, et qu'elle avait dû choisir son rituel
 d'invocation. Elle avait alors choisi, parce que ça l'amusait, une cérémonie visant à
