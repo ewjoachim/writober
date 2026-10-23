@@ -29,6 +29,6 @@ pâtissier. Avec en prime un gâteau au chocolat comme dessert.
 
 > [!coulisses]-
 > Xochitl est un prénom nahuatl (Mexique) qui veut dire fleur. Ça a contribué à
-> l'inspiration. Vous avez échappé à une nouvelle qui raconte l'histoire de quelqu'un qui lance le
-> changement climatique pour faire cuire la Terre à point avant de la manger, j'avais
-> l'impression d'avoir déjà écrit vingt fois cette nouvelle.
+> l'inspiration. Vous avez échappé à une nouvelle qui raconte l'histoire de quelqu'un
+> qui lance le changement climatique pour faire cuire la Terre à point avant de la
+> manger, j'avais l'impression d'avoir déjà écrit vingt fois cette nouvelle.
