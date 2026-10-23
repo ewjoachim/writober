@@ -30,5 +30,3 @@ d'exploitation à part entière, puis de véritables systèmes autonomes. Au si�
 apparurent les codes postaux qui simulaient des univers entiers, eux-mêmes munis de
 leurs propres codes postaux. La notion même d'envoi d'un message qui serait lu par
 quelqu'un d'autre ne relevait plus alors que de l'expérience de pensée philosophique.
-
-> [!coulisses]-

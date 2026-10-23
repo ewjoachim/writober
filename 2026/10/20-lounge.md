@@ -35,5 +35,3 @@ pontes du conglomérat discutaient en attendant le feu d'artifice.
 Quand Tessie se leva, prononça un discours et appuya sur un bouton, le feu d'artifice
 commença. Évidemment, les humains avaient déjoué le plan et ce fut la station qui
 explosa. Mais tous les humains sur le bon hémisphère profitèrent du spectacle.
-
-> [!coulisses]-

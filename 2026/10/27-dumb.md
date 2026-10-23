@@ -8,7 +8,7 @@ prompts:
   title: Stupide
 ---
 On croit souvent que les hackers mettent de la technologie partout. On imagine une
-personne entourée d'ordinateurs qui en exploite toutes les capacités pour faciliter sa
+personne entourée d'ordinateurs, qui en exploite toutes les capacités pour faciliter sa
 vie. En réalité, c'est plutôt l'inverse. La connaissance pointue de tout ce dont la
 technologie est capable, et en particulier ses dérives, va usuellement de pair avec une
 méfiance judicieuse envers les systèmes dits "intelligents".

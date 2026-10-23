@@ -33,5 +33,3 @@ détonné. Quand il entra dans le bar, il vit immédiatement venir vers lui cett
 portait une élégante robe colorée. Il essayait aujourd'hui deux innovations d'une amie:
 un logiciel prédisant le futur, qui lui avait indiqué qu'il ne fallait surtout pas qu'il
 finisse avec cette femme, et une montre.
-
-> [!coulisses]-
