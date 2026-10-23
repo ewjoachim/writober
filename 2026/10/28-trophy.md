@@ -38,13 +38,19 @@ faudrait encore deux mois pour que sa réponse revienne.
 
 Il lui fallait impérativement quelqu'un à qui décerner le trophée. Les termes
 d'attribution étaient assez imprécis et autorisaient n'importe quelle forme de vie
-animale, vivante ou non. L'imposant trophée ne rentrait pas dans les capsules à burgers,
-et personne ne s'arrêtait jamais dans le restaurant. Elle avait envisagé de le décerner
-à une pomme de terre ou à une laitue iceberg, mais les végétaux étaient exclus. Et cela
-faisait bien longtemps que les burgers ne contenaient plus rien d'animal. Seule dans la
-cuisine, tous les robots éteints, elle soupira. C'était le dernier soir où elle pouvait
-designer l'employé du mois.
+animale. L'imposant trophée ne rentrait pas dans les capsules à burgers, et personne ne
+s'arrêtait jamais dans le restaurant. Elle avait envisagé de le décerner à une pomme de
+terre ou à une laitue iceberg, mais les végétaux étaient exclus. Et cela faisait bien
+longtemps que les burgers ne contenaient plus rien d'animal. Seule dans la cuisine, tous
+les robots éteints, elle soupira. C'était le dernier soir où elle pouvait designer
+l'employé du mois.
 
 Quand du coin de l'œil, elle vit un mouvement, elle n'hésita pas. Le lourd trophée en
 main, elle le décerna d'un coup sec au cafard qui tentait de le traverser le plan de
 travail. À titre posthume.
+
+> [!coulisses]-
+>
+> J'ai hésité avec un trophée de chasse (finalement on n'en est pas si loin) ou un
+> trophée de jeu vidéo (un _achievement_, quoi). Et on me dit dans l'oreillette que
+> certain·es aurait préféré des Trofie (les pâtes italiennes).
