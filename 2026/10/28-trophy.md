@@ -48,5 +48,3 @@ designer l'employé du mois.
 Quand du coin de l'œil, elle vit un mouvement, elle n'hésita pas. Le lourd trophée en
 main, elle le décerna d'un coup sec au cafard qui tentait de le traverser le plan de
 travail. À titre posthume.
-
-> [!coulisses]-
