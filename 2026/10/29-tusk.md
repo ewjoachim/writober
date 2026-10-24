@@ -16,3 +16,7 @@ autonome.
 Cela faisait plus de soixante ans que les humains avaient cessé de se faire la guerre,
 et se dévouaient à reconstruire la planète suite au désastre climatique. Chinue avait
 pris sous son aile la dernière tribu d'éléphants, dans un parc naturel du Nigeria.
+
+> [!coulisses]-
+>
+> [On revient souvent sur les mêmes thèmes, quand même](/2024/10/21-Rhinoceros/)

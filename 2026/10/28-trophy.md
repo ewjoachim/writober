@@ -54,3 +54,5 @@ travail. À titre posthume.
 > J'ai hésité avec un trophée de chasse (finalement on n'en est pas si loin) ou un
 > trophée de jeu vidéo (un _achievement_, quoi). Et on me dit dans l'oreillette que
 > certain·es aurait préféré des Trofie (les pâtes italiennes).
+>
+> [On revient souvent sur les mêmes thèmes, quand même](/2025/10/31-Award/)
