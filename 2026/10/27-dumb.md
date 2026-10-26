@@ -39,4 +39,4 @@ et regardez dans quel état vous retrouvez le lendemain tous vos systèmes infor
 > [!coulisses]-
 >
 > J'aime pas les adjectifs, épisode 4. Aussi, j'avais promis un furet aujourd'hui, pour un
-> anniversaire.
+> anniversaire (et que le furet ne serait pas stupide).
