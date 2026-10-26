@@ -40,8 +40,9 @@ pour l'avertir de la douleur.
 Mais dans ce souterrain, dès qu'elle perdit complètement le signal, la douleur
 s'interrompit immédiatement. En effet, à la différence de son cerveau qui tournait dans
 le processeur central logé dans sa tête, le module de douleur ajouté postérieurement
-était exclusivement calculé dans les serveurs centraux de Robonetics. Elle optimisa le trajet qui la séparait encore de l'hôpital pour passer au maximum par des zones où le signal ne passait pas, inspira longuement et se
-remit, comme elle pouvait, en marche.
+était exclusivement calculé dans les serveurs centraux de Robonetics. Elle optimisa le
+trajet qui la séparait encore de l'hôpital pour passer au maximum par des zones où le
+signal ne passait pas, inspira longuement et se remit, comme elle pouvait, en marche.
 
 > [!coulisses]-
 >
