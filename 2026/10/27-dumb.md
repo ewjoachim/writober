@@ -18,10 +18,10 @@ de s'acheter le moindre grille-pain sans qu'il soit *smart*, la moindre brosse �
 sans qu'elle soit connectée, le moindre mixeur sans qu'il soit dopé à l'IA, elle menait
 la résistance à sa façon.
 
-Akolpogbila se faisait une spécialité d'aider les gens à rendre leurs appareils
+Akolpogbila se faisait une spécialité d'aider les gens à modifier leurs appareils pour les rendre
 "stupides". Faire en sorte qu'une serrure ne puisse s'ouvrir qu'avec la clé, et pas avec
 une montre. Qu'une montre donne l'heure au lieu de la météo, du cours de la bourse et
-des derniers messages reçus sur le téléphone. Et surtout, qu'un téléphone serve à
+des derniers messages reçus sur le téléphone. Et surtout, qu'un téléphone ne serve qu'à
 téléphoner et pas à espionner son propriétaire.
 
 Oh, ce qu'elle énervait les services étatiques. Toujours en mouvement, jamais connectée,
