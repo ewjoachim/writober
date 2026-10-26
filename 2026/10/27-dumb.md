@@ -34,9 +34,9 @@ le charme de sa frimousse robotique. Elle l'avait rendu intelligent, redoutablem
 intelligent. Pas spécifiquement dans ses interactions avec Akolpogbila, non. Il se
 contentait de se poser sur son épaule et de faire des petits bruits mignons, mais
 essayez donc de le hacker, comme quelques agences gouvernementales s'y étaient risquées,
-et regardez dans quel état vous retrouverez demain tous vos systèmes informatiques.
+et regardez dans quel état vous retrouvez le lendemain tous vos systèmes informatiques.
 
 > [!coulisses]-
 >
-> J'aime pas les adjectifs, épisode 4. Mais j'avais promis un furet aujourd'hui, pour un
+> J'aime pas les adjectifs, épisode 4. Aussi, j'avais promis un furet aujourd'hui, pour un
 > anniversaire.
