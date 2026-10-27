@@ -13,9 +13,10 @@ pendant la brève période anarchique de 2243, lors de laquelle il fut décrét�
 choisir son ministère, sous réserve qu'il soit en mesure d'en assumer le rôle de manière
 autonome.
 
-Cela faisait plus de soixante ans que les humains avaient cessé de se faire la guerre,
-et se dévouaient à reconstruire la planète suite au désastre climatique. Chinue avait
-pris sous son aile la dernière tribu d'éléphants, dans un parc naturel du Nigeria.
+Les humains avaient cessé de se faire la guerre trente ans avant la naissance de Chinue.
+Ils se dévouaient à présent à reconstruire la planète suite au désastre climatique.
+Chinue n'avait jamais pensé à la guerre. Par contre, elle avait pris sous son aile la
+dernière tribu d'éléphants, dans un parc naturel du Nigeria.
 
 > [!coulisses]-
 >
