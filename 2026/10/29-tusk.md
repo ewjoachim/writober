@@ -7,7 +7,7 @@ prompts:
   original_prompt: Tusk
   title: Défense
 ---
-La dernière Ministre de la défense de l'histoire de l'humanité fut Chinue Chikezie,
+La dernière Ministre de la Défense de l'histoire de l'humanité fut Chinue Chikezie,
 pendant la brève période anarchique de 2243, lors de laquelle il fut décrété que chaque
 être humain faisait également partie du gouvernement mondial et pouvait librement
 choisir son ministère, sous réserve qu'il soit en mesure d'en assumer le rôle de manière
