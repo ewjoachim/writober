@@ -7,10 +7,7 @@ prompts:
   original_prompt: Bake
   title: Cuisson
 ---
-Du fin fond des Enfers, le téléphone astral sonna. Xochitl sourit: elle avait justement
-un petit creux. Elle était en train d'arroser sa jardinière et s'interrompit pour aller
-vérifier. Elle rangea patiemment son tablier, enfila son costume de cérémonie et
-décrocha, puis disparut instantanément.
+Du fin fond des Enfers, le téléphone astral sonna. Xochitl sourit. Parfait: quelqu’un l’invoquait pile quand elle avait un petit creux. Elle était en train d’arroser sa jardinière et s’interrompit pour aller vérifier. Elle rangea patiemment son tablier, enfila son costume de cérémonie et décrocha, ce qui la téléporta instantanément au lieu d’invocation.
 
 Xochitl avait eu plusieurs passions dans sa vie. Actuellement, c'était le jardinage. Le
 challenge de réussir à faire pousser quelque chose dans un sous-sol par deux-cents
