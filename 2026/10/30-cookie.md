@@ -13,10 +13,12 @@ qu'à quelques minutes de là), quand un adulte lui avait proposé un cookie. Ma
 était sorti d'un van. Sa mère l'avait mise en garde contre les adultes mal rasés qui
 sortaient d'un van et lui proposaient des bonbons, elle savait qu'elle devait dire non,
 mais là, il s'agissait d'un cookie, pas d'un bonbon, alors, après une longue hésitation,
-elle avait accepté. Dès qu'elle avait dit oui, les six-mille quatre cent vingt-quatre
-partenaires de l'homme étaient sortis du van, avaient pris son journal intime et
-s'étaient enfuis pour changer toutes les publicités sur son trajet en y mettant les noms
-et visages de ses amis.
+elle avait accepté.
+
+Dès que Domizia avait dit oui, les six-mille quatre cent vingt-quatre partenaires de
+l'homme étaient sortis du van, avaient pris son journal intime et s'étaient enfuis pour
+changer toutes les publicités sur son trajet en y mettant les noms et visages de ses
+amis.
 
 > [!coulisses]-
 >
