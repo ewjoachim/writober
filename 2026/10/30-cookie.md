@@ -17,8 +17,8 @@ elle avait accepté.
 
 Dès que Domizia avait dit oui, les six-mille quatre cent vingt-quatre partenaires de
 l'homme étaient sortis du van, avaient volé son journal intime et s'étaient enfuis pour
-changer toutes les publicités sur son trajet en y mettant les noms et visages de ses
-amis.
+changer tous les encarts publicitaires sur son trajet en y mettant les noms et visages
+de ses amis.
 
 > [!coulisses]-
 >
