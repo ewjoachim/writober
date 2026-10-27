@@ -38,11 +38,13 @@ envoyé une demande de dérogation au chef du secteur, mais à la vitesse de la 
 faudrait encore deux mois pour que sa réponse revienne.
 
 Il lui fallait impérativement quelqu'un à qui décerner le trophée. Les termes
-d'attribution étaient assez imprécis et autorisaient n'importe quelle forme de vie
-animale. L'imposant trophée ne rentrait pas dans les capsules à burgers, et personne ne
-s'arrêtait jamais dans le restaurant. Elle avait envisagé de le décerner à une pomme de
-terre ou à une laitue iceberg, mais les végétaux étaient exclus. Un steak de bœuf aurait
-fait l'affaire, mais cela faisait bien longtemps que les burgers de SpeedCalory ne
+d'attribution étaient assez imprécis et autorisaient la plupart des formes de vie, même
+animale. Même s'ils n'étaient pas, techniquement, des employés. Mais Bjarma ne côtoyait
+aucune autre forme de vie. Elle avait tenté de l'offrir à un client, mais l'imposant
+trophée ne rentrait pas dans les capsules à burgers, et personne ne s'arrêtait jamais
+dans le restaurant. Elle avait envisagé de le décerner à une pomme de terre ou à une
+laitue iceberg, mais les végétaux étaient exclus. Un steak de bœuf aurait fait
+l'affaire, mais cela faisait bien longtemps que les burgers de SpeedCalory ne
 contenaient plus rien d'animal. Seule dans la cuisine, tous les robots éteints, elle
 soupira. C'était le dernier soir où elle pouvait designer l'employé du mois.
 
