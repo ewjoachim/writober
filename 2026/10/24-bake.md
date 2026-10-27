@@ -27,8 +27,8 @@ apprentis pâtissiers qui se coupaient en préparant leur recette l'invoquaient 
 vouloir. Et comme la pratique ancestrale de toujours dessiner un pentacle sur son gâteau
 avant d'enfourner avait disparu avec le temps, elle n'était pas prisionnière du four.
 
-Quand elle apparut devant le cuistot qui posait un pansement sur son doigt, elle fut satisfaite.
-L'homme et son gâteau avaient tous les deux l'air appétissants.
+Quand elle apparut devant le cuistot qui posait un pansement sur son doigt, elle fut
+satisfaite. L'homme et son gâteau avaient tous les deux l'air appétissants.
 
 > [!coulisses]-
 > Xochitl est un prénom nahuatl (Mexique) qui veut dire fleur. Ça a contribué à
