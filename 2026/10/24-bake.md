@@ -25,8 +25,10 @@ mélanger œufs, beurre, farine, sucre, chocolat et sang humain avant de faire c
 cela au four. Comme elle avait omis de préciser la quantité de sang humain, tous les
 apprentis pâtissiers qui se coupaient en préparant leur recette l'invoquaient sans le
 vouloir. Et comme la pratique ancestrale de toujours dessiner un pentacle sur son gâteau
-avant d'enfourner avait disparu avec le temps, elle pouvait à loisir aller croquer le
-pâtissier. Avec en prime un gâteau au chocolat comme dessert.
+avant d'enfourner avait disparu avec le temps, elle n'était pas prisionnière du four.
+
+Quand elle apparut devant le cuistot, un pansement au doigt, elle fut satisfaite.
+L'homme et son gâteau avaient tous les deux l'air appétissants.
 
 > [!coulisses]-
 > Xochitl est un prénom nahuatl (Mexique) qui veut dire fleur. Ça a contribué à
