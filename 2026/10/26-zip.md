@@ -15,7 +15,7 @@ connectaient, ils avaient manqué d'adresses IP et avaient ajouté des chiffres.
 nouveau.
 
 Lorsque les différentes planètes habitées avaient été interconnectées, le système avait
-dû se complexifier, mais pas autant qu’une fois ajoutés au réseau les vaisseaux
+dû se complexifier, mais pas autant qu’une fois ajoutés au réseau les vaisseaux qui
 traversaient l'univers à la vitesse de la lumière en traversant les trous noirs.
 L'exploration des mondes parallèles demanda une refonte complète, puisqu'il y en avait
 une infinité. On y avait ajouté une partie dynamique: le code postal était devenu un
@@ -32,4 +32,4 @@ postaux. Le code lui-même permettait l’existence de milliards d’individus s
 Paradoxalement, à ce stade, les humains avaient complètement cessé de communiquer entre
 eux. Ils parlaient chacun à l'IA centralisée qui leur répondait. La plupart des humains
 pensaient même être seuls dans l'univers. Le système de code postal ne servait
-principalement qu'à l'envoi par les entreprises de publicités ciblées
+principalement qu'à l'envoi par les entreprises de publicités ciblées.
