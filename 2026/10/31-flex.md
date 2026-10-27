@@ -26,12 +26,12 @@ Le pays va mieux, depuis quatre ans. Ceux qui instrumentalisaient la pauvreté d
 ne sont plus là, la solidarité est devenue un concept tangible à l'échelle de la
 société.
 
-Dans la clairière, au petit matin, la petite télé de camping ne rejoue plus la scène que
-pour les écureuils et quelques occasionnels passants amusés. Bientôt, la poussière aura
-fini de recouvrir le panneau solaire. Alors, ce message ne sera plus qu'un témoignage
-pour celles et ceux qui étudient l'histoire des totalitarismes et des révolutions qui
-les ont renversés. Le serveur de diffusion de masse continuera sûrement quelques années
-à le diffuser, mais tout le monde sera trop occupé à construire un monde meilleur pour
-l'écouter. Même les écureuils.
+Dans la clairière, au petit matin, la minuscule télé de camping ne rejoue plus la scène
+que pour les écureuils et quelques occasionnels passants amusés. Bientôt, la poussière
+aura fini de recouvrir le panneau solaire. Alors, ce message ne sera plus qu'un
+témoignage pour celles et ceux qui étudient l'histoire des totalitarismes et des
+révolutions qui les ont renversés. Le serveur de diffusion de masse continuera sûrement
+quelques années à le diffuser, mais tout le monde sera trop occupé à construire un monde
+meilleur pour l'écouter. Même les écureuils.
 
 > [!coulisses]-
