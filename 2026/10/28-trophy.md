@@ -14,13 +14,14 @@ employée de l'établissement, elle venait de finir d'orchestrer le service du s
 Ce restaurant était le seul vestige d'un programme abandonné de la chaîne
 inter-planétaire SpeedCalory, où presque tout y avait été robotisé. Le drive du
 restaurant était fréquenté par les voyageurs sur la spatioroute du Soleil. Les burgers
-étaient lancées vitesse quasi-luminique dans une capsule, sur une trajectoire qui
-rejoignait précisément leurs vaisseaux. Depuis toutes ces années, Bjarma connaissait par
-cœur les défauts de ses employés robotisés, toujours reproductibles: certains
-enchainements spécifiques de commandes amenaient les robots à oublier systématiquement
-les frites ou à renverser le GalacticCola. Alors inlassablement, il lui incombait, ici,
-d'ajouter le sachet de patates incriminé, là, de rattraper le soda dans sa chute. La
-routine.
+étaient lancés en vitesse quasi-luminique dans une capsule, sur une trajectoire qui
+rejoignait précisément leurs vaisseaux.
+
+Depuis toutes ces années, Bjarma connaissait par cœur les défauts de ses employés
+robotisés, toujours reproductibles: certains enchainements spécifiques de commandes
+amenaient les robots à oublier systématiquement les frites ou à renverser le
+GalacticCola. Alors inlassablement, il lui incombait, ici, d'ajouter le sachet de
+patates incriminé, là, de rattraper le soda dans sa chute. La routine.
 
 Des termes étranges dans le contrat de franchisé empêchaient l'embauche de salarié
 supplémentaire, sous peine de rompre le contrat et de devoir rembourser d'une traite
@@ -40,10 +41,10 @@ Il lui fallait impérativement quelqu'un à qui décerner le trophée. Les terme
 d'attribution étaient assez imprécis et autorisaient n'importe quelle forme de vie
 animale. L'imposant trophée ne rentrait pas dans les capsules à burgers, et personne ne
 s'arrêtait jamais dans le restaurant. Elle avait envisagé de le décerner à une pomme de
-terre ou à une laitue iceberg, mais les végétaux étaient exclus. Et cela faisait bien
-longtemps que les burgers ne contenaient plus rien d'animal. Seule dans la cuisine, tous
-les robots éteints, elle soupira. C'était le dernier soir où elle pouvait designer
-l'employé du mois.
+terre ou à une laitue iceberg, mais les végétaux étaient exclus. Un steak de bœuf aurait
+fait l'affaire, mais cela faisait bien longtemps que les burgers de SpeedCalory ne
+contenaient plus rien d'animal. Seule dans la cuisine, tous les robots éteints, elle
+soupira. C'était le dernier soir où elle pouvait designer l'employé du mois.
 
 Quand du coin de l'œil, elle vit un mouvement, elle n'hésita pas. Le lourd trophée en
 main, elle le décerna d'un coup sec au cafard qui tentait de le traverser le plan de
