@@ -16,7 +16,7 @@ mais là, il s'agissait d'un cookie, pas d'un bonbon, alors, après une longue h
 elle avait accepté.
 
 Dès que Domizia avait dit oui, les six-mille quatre cent vingt-quatre partenaires de
-l'homme étaient sortis du van, avaient pris son journal intime et s'étaient enfuis pour
+l'homme étaient sortis du van, avaient volé son journal intime et s'étaient enfuis pour
 changer toutes les publicités sur son trajet en y mettant les noms et visages de ses
 amis.
 
