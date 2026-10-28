@@ -16,8 +16,7 @@ autonome.
 La plupart humains avaient cessé de se battre trente ans avant la naissance de Chinue.
 Ils se dévouaient à présent à reconstruire la planète suite au désastre climatique.
 Chinue n'avait jamais pensé à la guerre. À travers son ministère, elle organisait la
-protection de la dernière tribu d'éléphants contre les derniers braconniers, dans un
-parc naturel du Nigeria.
+protection de la dernière tribu d'éléphants contre les derniers braconniers.
 
 > [!coulisses]-
 >
