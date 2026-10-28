@@ -13,10 +13,10 @@ pendant la brève période anarchique de 2243, lors de laquelle il fut décrét�
 choisir son ministère, sous réserve qu'il soit en mesure d'en assumer le rôle de manière
 autonome.
 
-Les humains avaient cessé de se battre trente ans avant la naissance de Chinue. Ils se
+La plupart humains avaient cessé de se battre trente ans avant la naissance de Chinue. Ils se
 dévouaient à présent à reconstruire la planète suite au désastre climatique. Chinue
 n'avait jamais pensé à la guerre. À travers son ministère, elle organisait la protection
-de la dernière tribu d'éléphants contre les braconniers, dans un parc naturel du
+de la dernière tribu d'éléphants contre les derniers braconniers, dans un parc naturel du
 Nigeria.
 
 > [!coulisses]-
