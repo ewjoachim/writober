@@ -28,10 +28,11 @@ société.
 
 Dans la clairière, au petit matin, la minuscule télé de camping ne rejoue plus la scène
 que pour les écureuils et quelques occasionnels marcheurs amusés. Bientôt, la poussière
-aura fini de recouvrir le panneau solaire. Alors, ce message ne sera plus qu'un
-témoignage pour celles et ceux qui étudient l'histoire des totalitarismes et des
-révolutions qui les ont renversés. Le serveur de diffusion de masse continuera sûrement
-quelques années à le diffuser, mais tout le monde sera trop occupé à construire un monde
-meilleur pour l'écouter. Même les écureuils.
+aura fini de recouvrir le panneau solaire. Alors, ce message ne sera plus diffusé sur
+aucune télévision. On en gardera quelques copies, en témoignage pour celles et ceux qui
+étudient l'histoire des totalitarismes et des révolutions qui les ont renversés. Le
+serveur de diffusion de masse continuera sûrement quelques années à le diffuser, mais
+tout le monde sera trop occupé à construire un monde meilleur pour l'écouter. Même les
+écureuils.
 
 > [!coulisses]-
