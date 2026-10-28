@@ -23,7 +23,7 @@ amenaient les robots à oublier systématiquement les frites ou à renverser le
 GalacticCola. Alors inlassablement, il lui incombait, ici, d'ajouter le sachet de
 patates incriminé, là, de rattraper le soda dans sa chute. La routine.
 
-Des termes étranges dans le contrat de franchisé empêchaient l'embauche de salarié
+Des clauses étranges dans le contrat de franchisé empêchaient l'embauche de salarié
 supplémentaire, sous peine de rompre le contrat et de devoir rembourser d'une traite
 l'emprunt pour tout l'équipement robotique. Une ruine, alors même que le restaurant
 était rentable.
