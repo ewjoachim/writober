@@ -1,6 +1,6 @@
 ---
 date: 2026-10-27
-full_title: 27 - stupide
+full_title: 27 - Stupide
 is_draft: false
 prompts:
 - date: 2026-10-27
