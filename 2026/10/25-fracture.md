@@ -34,8 +34,7 @@ Juste après que les ouvriers eurent déblayé Ybeltje des décombres, le haut-p
 indiqua la fin de la journée, chacun rangea sa tenue et partit. À chaque jour suffit sa
 peine. Elle pourrait bien attendre le lendemain pour que quelqu'un l'emmène au
 robôpital, à onze kilomètres de là. Afin de s'éviter une nuit de douleur, elle se
-résolut alors à marcher, chaque mouvement de chaque membre envoyant à chaque
-milliseconde des milliers de messages en priorité haute pour l'avertir de la douleur.
+résolut alors à marcher.
 
 Mais quand, après deux heures de marche, elle pénétra dans ce souterrain, dès qu'elle
 perdit complètement le signal, la douleur s'interrompit immédiatement. En effet, à la
