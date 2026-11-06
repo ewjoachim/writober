@@ -34,8 +34,8 @@ reconstruction.
 
 Alors que les petits robots quittaient la pièce dans un concert de bips, elle consulta
 une nouvelle fois le catalogue, raya donc la fiche *Homo sapiens* et tourna la page:
-*Felis catus*. Avec sa mandibule, elle attrapa délicatement une nouvelle boite en verre du grand frigo, et
-se remit au travail.
+*Felis catus*. Avec sa mandibule, elle attrapa délicatement une nouvelle boite en verre
+du grand frigo, et se remit au travail.
 
 > [!coulisses]-
 > La difficulté était d'écrire une chute qui n'était pas celle d'[Exotic](/2024/10/04-Exotic/), c'est pour ça que je mentionne les mandibules assez tôt.
