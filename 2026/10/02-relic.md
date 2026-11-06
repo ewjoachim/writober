@@ -34,7 +34,7 @@ reconstruction.
 
 Alors que les petits robots quittaient la pièce dans un concert de bips, elle consulta
 une nouvelle fois le catalogue, raya donc la fiche *Homo sapiens* et tourna la page:
-*Felis catus*. Elle sortit délicatement une nouvelle boite en verre du grand frigo, et
+*Felis catus*. Avec sa mandibule, elle attrapa délicatement une nouvelle boite en verre du grand frigo, et
 se remit au travail.
 
 > [!coulisses]-
