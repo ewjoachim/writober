@@ -38,4 +38,4 @@ une nouvelle fois le catalogue, raya donc la fiche *Homo sapiens* et tourna la p
 du grand frigo, et se remit au travail.
 
 > [!coulisses]-
-> La difficulté était d'écrire une chute qui n'était pas celle d'[Exotic](/2024/10/04-Exotic/), c'est pour ça que je mentionne les mandibules assez tôt.
+> Ok, ok, j'ai refait [Exotic](/2024/10/04-Exotic/).
