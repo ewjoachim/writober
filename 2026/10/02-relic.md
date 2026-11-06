@@ -11,7 +11,7 @@ redirect_aliases:
 ---
 Berrin restait là, un peu ébahie, n'osant commencer à bouger de peur de se couper.
 Finalement, elle commença à se déplacer au milieu du verre brisé, faisant bien attention
-avant de poser chacune de ses mandibules. Elle tapota un code sur la petite console près
+avant chaque mouvement. Elle tapota un code sur la petite console près
 de la porte et bientôt, une douzaine de petits robots arrivèrent, se déplaçant le long
 du sol pour ramasser les éclats, passer la serpillière, stériliser et remettre le petit
 laboratoire en état. Elle avait beau être une brillante chercheuse du département
@@ -28,7 +28,7 @@ annihilées.
 Les robots archéologues ramenaient des cellules de chaque forme de vie qu'ils avaient pu
 identifier sur place. Les niveaux de radiation étaient tels qu'une infime proportion des
 tissus étaient exploitables. Évidemment, toutes les cellules étaient mortes depuis
-longtemps, mais certaines pouvaient néanmoins contenir du code génétique exploitable, et
+longtemps, mais certaines pouvaient néanmoins contenir du code génétique lisible, et
 c'était le travail de Berrin que d'extraire celui-ci afin d'envisager une
 reconstruction.
 
